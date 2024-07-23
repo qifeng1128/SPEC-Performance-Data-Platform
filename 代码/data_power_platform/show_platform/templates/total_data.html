@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>jQuery动态表格数据分页检索排序代码</title>
+
+<script src="/static/js/jquery.min.js"></script>
+<script src="/static/js/tableXR.js"></script>
+
+</head>
+<body><script src="/demos/googlegg.js"></script>
+
+<div id="root" style="width: 800px"></div>
+<script type="text/javascript">
+	$(window).load(function(){
+        var title = {{ title | tojson }}
+      var data = {{ data|tojson }};
+      var columns = {{columns|tojson}};
+
+
+      $(function() {
+        $('#root').tableXR({
+		//表格标题
+		title:title,
+		//表格头部设置
+		columns:columns,
+		//表格数据：
+		data:data,
+	})
+
+      });
+
+    });
+</script>
+<div style="text-align:center;margin:50px 0; font:normal 14px/24px 'MicroSoft YaHei';"><br><br><br>
+</div>
+</body>
+</html>

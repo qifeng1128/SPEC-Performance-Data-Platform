@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link type="text/css" rel="stylesheet" href="//repo.bfw.wiki/bfwrepo/css/bootstrap.3.3.4.css">
+    <script type="text/javascript" src="//repo.bfw.wiki/bfwrepo/js/jquery.2.11.js"></script>
+    <script type="text/javascript" src="//repo.bfw.wiki/bfwrepo/js/bootstrap-3.3.4.js"></script>
+
+</head>
+<body>
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<ul class="nav nav-tabs">
+				<li class="active">
+					 <a href="/">首页</a>
+				</li>
+				<li>
+					 <a href="/big_screen">可视化大屏</a>
+				</li>
+				<li class="dropdown">
+					 <a href="/" data-toggle="dropdown" class="dropdown-toggle">具体数据查询<strong class="caret"></strong></a>
+					<ul class="dropdown-menu">
+						<li>
+							 <a href="/cpu2017">cpu2017</a>
+						</li>
+						<li>
+							 <a href="/cpu2006">cpu2016</a>
+						</li>
+						<li>
+							 <a href="/jbb2015">jbb2015</a>
+						</li>
+                        <li>
+							 <a href="/jvm2008">jvm2008</a>
+						</li>
+                        <li>
+							 <a href="/power_ssj2008">power_ssj2008</a>
+						</li>
+					</ul>
+				</li>
+                <li class="dropdown">
+					 <a href="/" data-toggle="dropdown" class="dropdown-toggle">总体评价打分<strong class="caret"></strong></a>
+					<ul class="dropdown-menu">
+						<li>
+							 <a href="/cpu_score">cpu</a>
+						</li>
+						<li>
+							 <a href="/company_score">company</a>
+						</li>
+					</ul>
+				</li>
+                <li class="dropdown">
+					 <a href="/" data-toggle="dropdown" class="dropdown-toggle">硬件环境配置权重<strong class="caret"></strong></a>
+					<ul class="dropdown-menu">
+						<li>
+							 <a href="/weight_java">JAVA</a>
+						</li>
+						<li>
+							 <a href="/weight_power">POWER</a>
+						</li>
+                        <li>
+							 <a href="/weight_cpu_float">CPU_FLOAT</a>
+						</li>
+                        <li>
+							 <a href="/weight_cpu_int">CPU_INT</a>
+						</li>
+                        <li>
+							 <a href="/weight_cpu_single">CPU_SINGLE</a>
+						</li>
+                        <li>
+							 <a href="/weight_cpu_multi">CPU_MULTI</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<div class="jumbotron">
+				<p>
+                    这是一个处理器型号、服务器厂商以及处理器硬件环境配置的推荐平台</p>
+                <p>
+                    在这里我们将提供可靠的处理器型号打分、服务器厂商打分、硬件环境配置权重来为不同人群（包括购买处理器的用户、服务器生产厂商、服务器投资方）提供直观、有效的服务</p>
+                <p>
+                    本平台所展示的打分和权重主要使用了SPEC数据集，SPEC（Standard Performance Evaluation Corporation）是一个成立于1988年的标准性能评估公司，其主要目的是为市场提供现实且标准化的测试数据</p>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<img alt="300x200" src="//repo.bfw.wiki/bfwrepo/image/5fb34aff14a0f.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_300,h_200,/quality,q_90" />
+						<div class="caption">
+							<h3>
+								面向购买处理器的用户
+							</h3>
+							<p>
+                                展示cpu在JAVA性能、能耗性能、浮点数运算性能、整数运算性能、单核性能、多核性能以及综合排名顺序，在用户选择cpu时进行参考和推荐</p>
+							<p>
+                                提供cpu型号、cpu频次、缓存大小、内存大小等硬件配置因素对cpu不同评价指标分数下的影响程度，在用户选择cpu型号和进行硬件环境配置时提供应更加侧重的部分</p>
+								 <a class="btn btn-primary" href="/cpu_score">处理器型号推荐</a> <a class="btn" href="/weight_java">环境配置推荐</a>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<img alt="300x200" src="//repo.bfw.wiki/bfwrepo/image/5fb34aff14a0f.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_300,h_200,/quality,q_90" />
+						<div class="caption">
+							<h3>
+								面向服务器生产厂商
+							</h3>
+							<p>
+								提供cpu型号、cpu频次、缓存大小、内存大小等硬件配置因素对cpu不同评价指标分数下的影响程度，对生产厂商测试cpu性能时的配置环境具有参考意义，使得更加适配的硬件环境能充分发挥出cpu本身的性能
+							</p>
+							<p>
+								 <a class="btn btn-primary" href="/weight_java">环境配置推荐</a>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<img alt="300x200" src="//repo.bfw.wiki/bfwrepo/image/5fb34aff14a0f.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_300,h_200,/quality,q_90" />
+						<div class="caption">
+							<h3>
+								面向服务器投资方
+							</h3>
+							<p>
+								提供不同生产厂商的综合分数，向投资方展示公司所生产的cpu的性能实力排名，在投资方选择公司进行投资时提供参考和推荐
+							</p>
+							<p>
+								 <a class="btn btn-primary" href="/company_score">厂商推荐</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

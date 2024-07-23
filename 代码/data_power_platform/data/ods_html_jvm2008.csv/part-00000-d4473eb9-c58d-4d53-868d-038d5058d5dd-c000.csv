@@ -1,0 +1,13 @@
+Tester$System Name$Processor # Cores$Processor # Chips$Processor # HW  Threads$Processor # Threads/  Core$JVM # JVM Name$JVM # JVM Version$Results # Base$Results # Peak$Publish_Date
+Sun Microsystems, Inc.$Sun Fire X4450  HTML$16$4$16$1$Java Hotspot(TM) 64-Bit Server VM on Solaris$1.6.0_06 Performance Release$260.08$--$08-Jul-2008
+Sun Microsystems$Sun Fire X4450  HTML$24$4$24$1$Java HotSpot(TM) 64-Bit Server VM$1.6.0_06 Performance Release$283.79$--$24-Sep-2008
+Sun Microsystems Inc.$Sun Blade X6270  HTML$8$2$16  (2 chips, 4 cores/chip, 2 threads/core)$2$Java HotSpot(TM) 64-Bit Server VM$1.6.0_14 Performance Release$317.13$--$23-Apr-2009
+Apple Inc.$iMac (Early 2009)  HTML$2$1$2$1$Java HotSpot(TM) Client VM$1.5.0_20-141 mixed mode$--$26.37$11-Nov-2009
+Apple Inc.$iMac (Early 2009)  HTML$2$1$2$1$Java HotSpot(TM) Client VM$14.1-b02-90 mixed mode$--$37.37$11-Nov-2009
+Apple Inc.$iMac (Early 2009)  HTML$2$1$2$1$Java HotSpot(TM) 64-Bit Server VM$14.1-b02-90 mixed mode$--$51.6$11-Nov-2009
+Oracle Corporation$SPARC T3-2  HTML$32$2$256$8$Java HotSpot(TM) 64-Bit Server VM on Solaris$1.6.0_21 Performance Release$--$320.52$06-Oct-2010
+Oracle Corporation$SPARC T4-2  HTML$16$2$128$8$Java HotSpot(TM) 64-Bit Server VM$22.0-b08 mixed mode$--$454.25$16-Nov-2011
+Oracle Corporation$Netra SPARC T4-2  HTML$16$2$128$8$Java HotSpot(TM) 64-Bit Server VM$22.0-b10 mixed mode$--$454.52$25-Jan-2012
+Huawei Technologies Co$RH 2285  HTML$12$2$24  (2 chips, 6 cores/chip, 2 threads/core)$2$Java Hotspot(TM) 64-Bit Server VM on Linux$Java(TM) SE Runtime Environment (build 1.7.0_02-b13)$335.78$--$26-Jan-2012
+Sugon$Sugon I620-G20(Intel Xeon E5-2660 v3)  HTML$20$2$40$2$OpenJDK 64-Bit Server VM$24.45-b08 mixed mode$853.15$--$23-Feb-2015
+Sugon$Sugon I840-G25(Intel Xeon E7-4830 v2)  HTML$40$4$40$1$OpenJDK Java 1.7.0 64-bit Server VM$24.45-b08 mixed mode$897.23$--$30-Sep-2015

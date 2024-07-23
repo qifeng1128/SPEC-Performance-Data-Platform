@@ -1,0 +1,885 @@
+Table_Type$Company$System_Name$Nodes$Jvm_Company$Cpu_Name$Cpu_Frequency$Chips$Cores$Threads$Memory$Test_Location$Publish_Date$Primary_Instruction_Cache$Primary_Data_Cache$Secondary_Cache$Tertiary_Cache$Total_Result
+Power$ASUSTeK Computer$RS720-E9/RS8$1$Oracle Corporation$Intel Xeon Platinum 8180$2500.0$2.0$56.0$112.0$192.0$Taipei$Dec 6, 2018$32.0$32.0$1024.0$39424.0$12727.0
+Power$ASUSTeK Computer$RS720Q-E9-RS8$4$Oracle Corporation$Intel Xeon Platinum 8176M$2100.0$8.0$224.0$448.0$768.0$Taipei$May 10, 2019$32.0$32.0$1024.0$39424.0$11935.0
+Power$ASUSTeK Computer$RS720-E9-RS8$1$Oracle Corporation$Intel Xeon Platinum 8280L$2700.0$2.0$56.0$112.0$192.0$Taipei$Jul 3, 2019$32.0$32.0$1024.0$39424.0$14066.0
+Power$ASUSTeK Computer$RS720-E9-RS8$1$Oracle Corporation$Intel Xeon Platinum 8280L$2700.0$2.0$56.0$112.0$192.0$Taipei$Jul 17, 2019$32.0$32.0$1024.0$39424.0$14274.0
+Power$ASUSTeK Computer$RS500A-E10-PS4$1$Oracle Corporation$AMD EPYC 7742 2.25Ghz$2250.0$1.0$64.0$128.0$128.0$Taipei$Jan 21, 2020$32.0$32.0$512.0$262144.0$20908.0
+Power$ASUSTeK Computer$RS500A-E10-PS4$1$Oracle Corporation$AMD EPYC 7742 2.25Ghz$2250.0$1.0$64.0$128.0$128.0$Taipei$Jan 21, 2020$32.0$32.0$512.0$262144.0$21168.0
+Power$ASUSTeK Computer$RS700A-E9-RS4V2$1$Oracle Corporation$AMD EPYC 7742 2.25Ghz$2250.0$2.0$128.0$256.0$256.0$Taipei$Apr 8, 2020$32.0$32.0$512.0$262144.0$20214.0
+Power$ASUSTeK Computer$RS700A-E9-RS4V2$1$Oracle Corporation$AMD EPYC 7742 2.25Ghz$2250.0$2.0$128.0$256.0$256.0$Taipei$Apr 8, 2020$32.0$32.0$512.0$262144.0$20350.0
+Power$ASUSTeK Computer$RS620SA-E10-RS12  RS620SA-E10$6$Oracle Corporation$AMD EPYC 7742 2.25Ghz$2250.0$6.0$384.0$768.0$768.0$Taipei$Oct 7, 2020$32.0$32.0$512.0$262144.0$24238.0
+Power$ASUSTeK Computer$RS620SA-E10-RS12  RS620SA-E10$6$Oracle Corporation$AMD EPYC 7742 2.25Ghz$2250.0$6.0$384.0$768.0$768.0$Taipei$Oct 7, 2020$32.0$32.0$512.0$262144.0$24507.0
+Power$ASUSTeK Computer$RS720-E10-R12$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$2.0$80.0$160.0$256.0$Taipei$Jan 19, 2022$32.0$48.0$1280.0$61440.0$13600.0
+Power$ASUSTeK Computer$RS700A-E11-RS4U$1$Oracle Corporation$AMD EPYC 7763$2450.0$2.0$128.0$256.0$256.0$Taipei$Jul 13, 2022$32.0$32.0$512.0$262144.0$25252.0
+Power$ASUSTeK Computer$RS700A-E11-RS4U$1$Oracle Corporation$AMD EPYC 7763$2450.0$2.0$128.0$256.0$256.0$Taipei$Jul 13, 2022$32.0$32.0$512.0$262144.0$25302.0
+Power$ASUSTeK Computer$RS720A-E12-RS12$1$Oracle Corporation$AMD EPYC 9654$2400.0$2.0$192.0$384.0$384.0$Taipei$Dec 21, 2022$32.0$32.0$1024.0$393216.0$30064.0
+Power$ASUSTeK Computer$RS720A-E12-RS12$1$Oracle Corporation$AMD EPYC 9654$2400.0$2.0$192.0$384.0$384.0$Taipei$Dec 21, 2022$32.0$32.0$1024.0$393216.0$30602.0
+Power$ASUSTeK Computer$ASUS RS160-E5 (Intel Xeon L5430 Processor, 2.66 GHz)$1$Oracle Corporation$Intel Xeon L5430$2666.0$2.0$8.0$8.0$8.0$Taipei$Nov 20, 2008$32.0$32.0$12288.0$0.0$1020.0
+Power$ASUSTeK Computer$ASUS RS160-E5 (Intel Xeon L5420 Processor, 2.50 GHz)$1$Oracle Corporation$Intel Xeon L5420$2500.0$2.0$8.0$8.0$8.0$Taipei$Nov 20, 2008$32.0$32.0$12288.0$0.0$1009.0
+Power$ASUSTeK Computer$ASUS RS100-E5 (Intel Xeon X3360 Processor, 2.83 GHz)$1$Oracle Corporation$Intel Xeon X3360 Processor$2833.0$1.0$4.0$4.0$4.0$Taipei$Jan 2, 2009$32.0$32.0$12288.0$0.0$905.0
+Power$Acer Incorporated$Acer AR360 F2$1$IBM Corporation$Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Taipei$Jan 9, 2013$32.0$32.0$262144.0$20480.0$3900.0
+Power$Acer Incorporated$Altos R520$1$Oracle Corporation$Intel Xeon E5450$3000.0$2.0$8.0$8.0$16.0$Taipei$Oct 9, 2008$32.0$32.0$12288.0$0.0$731.0
+Power$Acer Incorporated$Altos R720$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Taipei$Dec 4, 2008$32.0$32.0$12288.0$0.0$810.0
+Power$Acer Incorporated$Altos R520$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Taipei$Dec 17, 2008$32.0$32.0$12288.0$0.0$863.0
+Power$Acer Incorporated$Altos G540 M2$1$Oracle Corporation$Intel Xeon X5570$2930.0$2.0$8.0$16.0$8.0$Taipei$Sep 23, 2009$32.0$32.0$256.0$8192.0$1522.0
+Power$Acer Incorporated$Gateway GR160 F1$1$Oracle Corporation$Intel Xeon L5520$2266.0$2.0$8.0$16.0$8.0$San Jose$Nov 18, 2009$32.0$32.0$256.0$8192.0$1515.0
+Power$Acer Incorporated$Gateway GW1000-GW170 F1  GW1000$2$Oracle Corporation$Intel Xeon L5520$2266.0$4.0$16.0$32.0$16.0$San Jose$Nov 18, 2009$32.0$32.0$256.0$8192.0$1588.0
+Power$Acer Incorporated$Gateway GW2000h-GW170h F1  GW2000h$4$Oracle Corporation$Intel Xeon L5520$2266.0$8.0$32.0$64.0$32.0$San Jose$Dec 30, 2009$32.0$32.0$256.0$8192.0$1674.0
+Power$Acer Incorporated$Acer AR380 F1$1$Oracle Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$San Jose$Apr 7, 2010$32.0$32.0$256.0$8192.0$1597.0
+Power$Acer Incorporated$Gateway GR380 F1$1$Oracle Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$San Jose$Apr 7, 2010$32.0$32.0$256.0$8192.0$1592.0
+Power$Acer Incorporated$Acer AT350 F1$1$Oracle Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$San Jose$Apr 21, 2010$32.0$32.0$256.0$8192.0$1618.0
+Power$Acer Incorporated$Gateway GT350 F1$1$Oracle Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$San Jose$Apr 21, 2010$32.0$32.0$256.0$8192.0$1630.0
+Power$Acer Incorporated$Acer AT110 F1$1$Oracle Corporation$Intel Xeon Processor L3360$2833.0$1.0$4.0$4.0$4.0$Taipei$May 19, 2010$32.0$32.0$12288.0$0.0$1243.0
+Power$Acer Incorporated$Gateway GT110 F1$1$Oracle Corporation$Intel Xeon Processor L3360$2833.0$1.0$4.0$4.0$4.0$Taipei$May 19, 2010$32.0$32.0$12288.0$0.0$1263.0
+Power$Acer Incorporated$Gateway GR380 F1 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Jul 14, 2010$32.0$32.0$256.0$12288.0$2519.0
+Power$Acer Incorporated$Acer AR380 F1 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Jul 14, 2010$32.0$32.0$256.0$12288.0$2502.0
+Power$Acer Incorporated$Gateway GW2000ht-GW170ht F1  Gateway GW2000ht$2$IBM Corporation$Intel Xeon X5670$2933.0$4.0$24.0$48.0$24.0$San Jose$Aug 25, 2010$32.0$32.0$256.0$12288.0$2098.0
+Power$Acer Incorporated$Acer AW2000ht-AW170ht F1  Acer AW2000ht$2$IBM Corporation$Intel Xeon X5670$2933.0$4.0$24.0$48.0$24.0$San Jose$Aug 25, 2010$32.0$32.0$256.0$12288.0$2099.0
+Power$Acer Incorporated$Gateway GR360 F1 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Sep 22, 2010$32.0$32.0$256.0$12288.0$2426.0
+Power$Acer Incorporated$Acer AR360 F1 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Sep 22, 2010$32.0$32.0$256.0$12288.0$2414.0
+Power$Acer Incorporated$Acer AT350 F1 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Oct 6, 2010$32.0$32.0$256.0$12288.0$2518.0
+Power$Acer Incorporated$Gateway GT350 F1(Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Oct 6, 2010$32.0$32.0$256.0$12288.0$2531.0
+Power$Acer Incorporated$Gateway GT150 F1(Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Oct 6, 2010$32.0$32.0$256.0$12288.0$2716.0
+Power$Acer Incorporated$Acer AT150 F1(Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Oct 6, 2010$32.0$32.0$256.0$12288.0$2724.0
+Power$Acer Incorporated$Acer AR160 F1(Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Nov 3, 2010$32.0$32.0$512.0$12288.0$2471.0
+Power$Acer Incorporated$Gateway GR160 F1(Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Nov 3, 2010$32.0$32.0$512.0$12288.0$2477.0
+Power$Acer Incorporated$Gateway GT115 F1 (AMD Opteron 4164EE, 1.80 GHz)$1$IBM Corporation$AMD Opteron 4164EE$1800.0$1.0$6.0$6.0$8.0$Taipei$Nov 3, 2010$64.0$64.0$512.0$6144.0$1971.0
+Power$Acer Incorporated$Acer AT115 F1 (AMD Opteron 4164EE, 1.80 GHz)$1$IBM Corporation$AMD Opteron 4164EE$1800.0$1.0$6.0$6.0$8.0$Taipei$Nov 3, 2010$64.0$64.0$512.0$6144.0$1980.0
+Power$Acer Incorporated$Gateway GW2000h-GW175h F1  Gateway GW2000h$4$IBM Corporation$AMD Opteron 6174$2200.0$8.0$96.0$96.0$64.0$Taipei$Nov 10, 2010$64.0$64.0$512.0$12288.0$2481.0
+Power$Acer Incorporated$Acer AW2000h-AW175h F1  Acer AW2000h$4$IBM Corporation$AMD Opteron 6174$2200.0$8.0$96.0$96.0$64.0$Taipei$Nov 10, 2010$64.0$64.0$512.0$12288.0$2474.0
+Power$Acer Incorporated$Acer AR385 F1 (AMD Opteron 6174, 2.20 GHz)$1$IBM Corporation$AMD Opteron 6174$2200.0$2.0$24.0$24.0$16.0$Taipei$Nov 18, 2010$64.0$64.0$512.0$12288.0$2424.0
+Power$Acer Incorporated$Gateway GR385 F1 (AMD Opteron 6174, 2.20 GHz)$1$IBM Corporation$AMD Opteron 6174$2200.0$2.0$24.0$24.0$16.0$Taipei$Nov 18, 2010$64.0$64.0$512.0$12288.0$2426.0
+Power$Acer Incorporated$Acer AR585 F1$1$IBM Corporation$AMD Opteron 6174$2200.0$4.0$48.0$48.0$32.0$Taipei$Nov 18, 2010$64.0$64.0$512.0$12288.0$2562.0
+Power$Acer Incorporated$Gateway GR585 F1$1$IBM Corporation$AMD Opteron 6174$2200.0$4.0$48.0$48.0$32.0$Taipei$Nov 18, 2010$64.0$64.0$512.0$12288.0$2555.0
+Power$Acer Incorporated$Acer AR320 F1 (Intel Xeon X3470, 2.93 GHz)$1$IBM Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$8.0$Taipei$Dec 1, 2010$32.0$32.0$256.0$8192.0$1911.0
+Power$Acer Incorporated$Gateway GR320 F1 (Intel Xeon X3470, 2.93 GHz)$1$IBM Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$8.0$Taipei$Dec 1, 2010$32.0$32.0$256.0$8192.0$1932.0
+Power$Acer Incorporated$Gateway GT310 F1 (Intel Xeon X3470, 2.93 GHz)$1$IBM Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$8.0$Taipei$Dec 1, 2010$32.0$32.0$256.0$8192.0$1987.0
+Power$Acer Incorporated$Acer AR180 F1(Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Dec 1, 2010$32.0$32.0$512.0$12288.0$2485.0
+Power$Acer Incorporated$Gateway GR180 F1(Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Taipei$Dec 1, 2010$32.0$32.0$512.0$12288.0$2484.0
+Power$Acer Incorporated$AT310 F1$1$IBM Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$8.0$Taipei$Feb 17, 2011$32.0$32.0$256.0$8192.0$2004.0
+Power$Acer Incorporated$Gateway GW2000h-GW170h F1  Gateway GW2000h$4$IBM Corporation$Intel Xeon X5675$3067.0$8.0$48.0$96.0$48.0$Taipei$Mar 23, 2011$32.0$32.0$256.0$12288.0$2659.0
+Power$Acer Incorporated$Gateway GW2000h-GW170h F1  Gateway GW2000h$4$IBM Corporation$Intel Xeon X5675$3067.0$8.0$48.0$96.0$96.0$Taipei$Mar 23, 2011$32.0$32.0$256.0$12288.0$2795.0
+Power$Acer Incorporated$Acer AW2000h-AW170h F1  Acer AW2000h$4$IBM Corporation$Intel Xeon X5675$3067.0$8.0$48.0$96.0$96.0$Taipei$Apr 7, 2011$32.0$32.0$256.0$12288.0$2769.0
+Power$Acer Incorporated$Gateway GR585 F1$1$IBM Corporation$AMD Opteron 6168$1900.0$4.0$48.0$48.0$32.0$Taipei$May 4, 2011$64.0$64.0$512.0$12288.0$2210.0
+Power$Acer Incorporated$Gateway GR585 F1$1$IBM Corporation$AMD Opteron 6176$2300.0$4.0$48.0$48.0$32.0$Taipei$May 4, 2011$64.0$64.0$512.0$12288.0$2350.0
+Power$Acer Incorporated$Gateway GR385 F1$1$IBM Corporation$AMD Opteron 6176$2300.0$2.0$24.0$24.0$16.0$Taipei$May 5, 2011$64.0$64.0$512.0$12288.0$2291.0
+Power$Acer Incorporated$Gateway GT350 F1$1$IBM Corporation$Intel Xeon X5675$3067.0$2.0$12.0$24.0$12.0$Taipei$May 11, 2011$32.0$32.0$256.0$12288.0$2462.0
+Power$Acer Incorporated$Gateway GT110 F2 (Intel Xeon E3-1270)$1$IBM Corporation$Intel Xeon E3-1270$3400.0$1.0$4.0$8.0$8.0$Taipei$May 18, 2011$32.0$32.0$256.0$8192.0$3270.0
+Power$Acer Incorporated$Acer AT110 F2 (Intel Xeon E3-1270)$1$IBM Corporation$Intel Xeon E3-1270$3400.0$1.0$4.0$8.0$8.0$Taipei$May 18, 2011$32.0$32.0$256.0$8192.0$3260.0
+Power$Acer Incorporated$Acer AC100$1$IBM Corporation$Intel Xeon E3-1260L$2400.0$1.0$4.0$8.0$8.0$Taipei$Sep 13, 2011$32.0$32.0$256.0$8192.0$3741.0
+Power$Acer Incorporated$Acer AR585 F1$1$IBM Corporation$AMD Opteron 6238$2600.0$4.0$48.0$48.0$64.0$Taipei$Mar 14, 2012$384.0$192.0$12288.0$16384.0$2552.0
+Power$Acer Incorporated$Acer AR385 F1$1$IBM Corporation$AMD Opteron 6238$2600.0$2.0$24.0$24.0$32.0$Taipei$Mar 14, 2012$384.0$192.0$12288.0$16384.0$2506.0
+Power$Acer Incorporated$Acer AR385 F1$1$IBM Corporation$AMD Opteron 6276$2300.0$2.0$32.0$32.0$32.0$Taipei$Apr 4, 2012$512.0$256.0$16384.0$16384.0$2812.0
+Power$Acer Incorporated$Acer AR585 F1$1$IBM Corporation$AMD Opteron 6276$2300.0$4.0$64.0$64.0$64.0$Taipei$Jun 5, 2012$512.0$256.0$16384.0$16384.0$2803.0
+Power$Acer Incorporated$Acer AR585 F1$1$IBM Corporation$AMD Opteron 6276$2300.0$4.0$64.0$64.0$256.0$Taipei$Jun 14, 2012$512.0$256.0$16384.0$16384.0$2076.0
+Power$Acer Incorporated$Acer AR585 F1$1$IBM Corporation$AMD Opteron 6276$2300.0$4.0$64.0$64.0$256.0$Taipei$Jun 14, 2012$512.0$256.0$16384.0$16384.0$2284.0
+Power$Acer Incorporated$Acer AR585 F1$1$IBM Corporation$AMD Opteron 6278$2400.0$4.0$64.0$64.0$64.0$Taipei$Jun 21, 2012$512.0$256.0$16384.0$16384.0$2969.0
+Power$Acer Incorporated$Acer AR585 F1$1$IBM Corporation$AMD Opteron 6278$2400.0$4.0$64.0$64.0$256.0$Taipei$Jun 21, 2012$512.0$256.0$16384.0$16384.0$2136.0
+Power$Acer Incorporated$Acer AR585 F1$1$IBM Corporation$AMD Opteron 6278$2400.0$4.0$64.0$64.0$256.0$Taipei$Jun 21, 2012$512.0$256.0$16384.0$16384.0$2362.0
+Power$Acer Incorporated$Acer AR380 F2$1$Oracle Corporation$Intel Xeon E5-2630$2300.0$2.0$12.0$24.0$128.0$Taipei$Jul 11, 2012$32.0$32.0$256.0$15360.0$2219.0
+Power$Acer Incorporated$Acer AR380 F2$1$Oracle Corporation$Intel Xeon E5-2640$2500.0$2.0$12.0$24.0$128.0$Taipei$Jul 11, 2012$32.0$32.0$256.0$15360.0$2454.0
+Power$Acer Incorporated$Acer AR380 F2$1$Oracle Corporation$Intel Xeon E5-2665$2400.0$2.0$16.0$32.0$128.0$Taipei$Jul 11, 2012$32.0$32.0$256.0$20480.0$2705.0
+Power$Acer Incorporated$Acer AR380 F2$1$Oracle Corporation$Intel Xeon E5-2640$2500.0$2.0$12.0$24.0$32.0$Taipei$Jul 11, 2012$32.0$32.0$256.0$15360.0$2980.0
+Power$Acer Incorporated$Acer AT350 F2$1$Oracle Corporation$Intel Xeon E5-2640$2500.0$2.0$12.0$24.0$32.0$Taipei$Aug 8, 2012$32.0$32.0$256.0$15360.0$3031.0
+Power$Acer Incorporated$Acer AT350 F2$1$Oracle Corporation$Intel Xeon E5-2665$2400.0$2.0$16.0$32.0$128.0$Taipei$Aug 8, 2012$32.0$32.0$256.0$15360.0$2824.0
+Power$Acer Incorporated$Acer AT350 F2$1$Oracle Corporation$Intel Xeon E5-2630$2300.0$2.0$12.0$24.0$128.0$Taipei$Aug 8, 2012$32.0$32.0$256.0$15360.0$2330.0
+Power$Acer Incorporated$Acer AT350 F2$1$Oracle Corporation$Intel Xeon E5-2640$2500.0$2.0$12.0$24.0$128.0$Taipei$Aug 8, 2012$32.0$32.0$256.0$15360.0$2464.0
+Power$Acer Incorporated$Acer AT350 F2$1$Oracle Corporation$Intel Xeon E5-2665$2400.0$2.0$16.0$32.0$128.0$Taipei$Aug 8, 2012$32.0$32.0$256.0$20480.0$2705.0
+Power$Acer Incorporated$Acer AW2000h-AW170h F2  Acer AW2000h$4$Oracle Corporation$Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$8.0$64.0$128.0$128.0$Taipei$Oct 3, 2012$32.0$32.0$262144.0$20480.0$3501.0
+Power$Acer Incorporated$Acer AW2000h-Aw170h F2  Acer AW2000h$4$IBM Corporation$Intel Xeon E5-2670 2.6 GHz (Intel Turbo Boost Technology up to 3.30 GHz)$2600.0$8.0$64.0$128.0$512.0$Taipei$Jan 4, 2013$32.0$32.0$262144.0$20480.0$3400.0
+Power$Acer Incorporated$Acer AR580 F2$1$IBM Corporation$Intel Xeon E5-4650 2.7 GHz (Intel Turbo Boost Technology up to 3.30 GHz)$2700.0$4.0$32.0$64.0$32.0$Taipei$Jan 9, 2013$32.0$32.0$256.0$20480.0$4134.0
+Power$Acer Incorporated$Acer AR585 F1$1$IBM Corporation$AMD Opteron 6380$2500.0$4.0$64.0$64.0$64.0$Taipei$Jan 9, 2013$512.0$256.0$16384.0$16384.0$4096.0
+Power$Acer Incorporated$Altos R380 F2$1$IBM Corporation$Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Taipei$May 8, 2013$32.0$32.0$256.0$20480.0$4036.0
+Power$Acer Incorporated$Altos R360 F2$1$IBM Corporation$Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Taipei$May 8, 2013$32.0$32.0$256.0$20480.0$4142.0
+Power$Acer Incorporated$Acer AR585 F1$1$IBM Corporation$AMD Opteron 6344$2600.0$4.0$48.0$48.0$64.0$Taipei$Jun 26, 2013$384.0$192.0$12288.0$16384.0$3739.0
+Power$Acer Incorporated$Acer AR580 F2$1$IBM Corporation$Intel Xeon E5-4607 2.2 GHz$2200.0$4.0$24.0$48.0$64.0$Taipei$Jun 26, 2013$32.0$32.0$256.0$12288.0$3659.0
+Power$Acer Incorporated$Altos R380 F2$1$IBM Corporation$Intel Xeon E5-2650$2200.0$2.0$16.0$32.0$32.0$Taipei$Jun 26, 2013$32.0$32.0$256.0$20480.0$5268.0
+Power$Acer Incorporated$Altos R380 F2$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$32.0$Taipei$Jun 26, 2013$32.0$32.0$256.0$20480.0$5227.0
+Power$Acer Incorporated$Altos R360 F2$1$IBM Corporation$Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Taipei$Jul 16, 2013$32.0$32.0$256.0$20480.0$4909.0
+Power$Acer Incorporated$Altos R360 F2$1$IBM Corporation$Intel Xeon E5-2650 2.0 GHz (Intel Turbo Boost Technology up to 2.80 GHz)$2000.0$2.0$16.0$32.0$24.0$Taipei$Jul 16, 2013$32.0$32.0$256.0$20480.0$4893.0
+Power$Acer Incorporated$Altos T350 F2$1$IBM Corporation$Intel Xeon E5-2650 2.0 GHz (Intel Turbo Boost Technology up to 2.80 GHz)$2000.0$2.0$16.0$32.0$24.0$Taipei$Jul 16, 2013$32.0$32.0$256.0$20480.0$5146.0
+Power$Acer Incorporated$Altos T350 F2$1$IBM Corporation$Intel Xeon E5-2660 2.2 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Taipei$Jul 16, 2013$32.0$32.0$256.0$20480.0$5091.0
+Power$Apple$Xserve3,1$1$Sun Microsystems$Intel(R) Xeon(R) CPU X5570$2930.0$2.0$8.0$16.0$18.0$Cupertino$Apr 8, 2009$32.0$32.0$256.0$8192.0$464.0
+Power$Apple$Xserve2,1$1$Sun Microsystems$Intel(R) Xeon(R) CPU E5472$3000.0$2.0$8.0$32.0$16.0$Cupertino$Apr 8, 2009$32.0$32.0$12288.0$0.0$245.0
+Power$Bull SAS$NovaScale R440 F2 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Les Clayes-sous-Bois$Oct 20, 2010$32.0$32.0$256.0$12288.0$2831.0
+Power$Cisco Systems$UCS C220 M3$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Durham$Oct 17, 2012$32.0$32.0$256.0$20480.0$4904.0
+Power$Colfax International$CX2266-N2$1$BEA System$AMD Opteron 2216HE$2400.0$2.0$4.0$4.0$16.0$Austin$Dec 11, 2007$64.0$64.0$1024.0$0.0$203.0
+Power$DEPO Computers$DEPO Storm 3350V2$1$Oracle Corporation$Intel Xeon E5-2660 v2$2200.0$2.0$20.0$40.0$32.0$Moscow$Oct 7, 2014$32.0$32.0$256.0$25600.0$5244.0
+Power$DEPO Computers$DEPO Race X340H$1$Oracle Corporation$Intel Core i5-4570$3200.0$1.0$4.0$4.0$16.0$Moscow$Dec 19, 2014$32.0$32.0$256.0$6144.0$1469.0
+Power$Dell$PowerEdge 2950 III (Intel Xeon E5440)$1$BEA System$Intel Xeon E5440$2833.0$2.0$8.0$8.0$16.0$Round Rock$Dec 11, 2007$32.0$32.0$12288.0$0.0$682.0
+Power$Dell$PowerEdge 1950 III (Intel Xeon E5440)$1$BEA System$Intel Xeon E5440$2833.0$2.0$8.0$8.0$8.0$Round Rock$Feb 27, 2008$32.0$32.0$12288.0$0.0$712.0
+Power$Dell$PowerEdge 2950 III (Intel Xeon E5440)$1$BEA System$Intel Xeon E5440$2833.0$2.0$8.0$8.0$16.0$Round Rock$Feb 27, 2008$32.0$32.0$12288.0$0.0$719.0
+Power$Dell$PowerEdge R300$1$BEA System$Intel Xeon L5410$2330.0$1.0$4.0$4.0$8.0$Round Rock$Mar 26, 2008$32.0$32.0$12288.0$0.0$800.0
+Power$Dell$PowerEdge Energy Smart 1950 III (Intel Xeon L5420)$1$BEA System$Intel Xeon L5420$2500.0$2.0$8.0$8.0$8.0$Round Rock$Jul 31, 2008$32.0$32.0$12288.0$0.0$744.0
+Power$Dell$PowerEdge 2970 (AMD Opteron 2356, 2.30 GHz)$1$Oracle Corporation$AMD Opteron 2356$2300.0$2.0$8.0$8.0$16.0$Round Rock$Jan 2, 2009$64.0$64.0$512.0$2048.0$545.0
+Power$Dell$PowerEdge 2970 (AMD Opteron 2382, 2.60 GHz)$1$Oracle Corporation$AMD Opteron 2382$2600.0$2.0$8.0$8.0$16.0$Round Rock$Jan 2, 2009$64.0$64.0$512.0$6144.0$851.0
+Power$Dell$PowerEdge R610 (Intel Xeon X5570, 2.93 GHz)$1$Oracle Corporation$Intel Xeon X5570$2933.0$2.0$8.0$16.0$12.0$Round Rock$May 20, 2009$32.0$32.0$256.0$8192.0$1844.0
+Power$Dell$PowerEdge R710 (Intel Xeon X5570, 2.93 GHz)$1$Oracle Corporation$Intel Xeon X5570$2933.0$2.0$8.0$16.0$8.0$Round Rock$Jun 3, 2009$32.0$32.0$256.0$8192.0$1860.0
+Power$Dell$PowerEdge R610 (Intel Xeon L5530, 2.40 GHz)$1$Oracle Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$Round Rock$Sep 9, 2009$32.0$32.0$256.0$8192.0$1930.0
+Power$Dell$PowerEdge R710 (Intel Xeon L5530, 2.40 GHz)$1$Oracle Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$Round Rock$Oct 21, 2009$32.0$32.0$256.0$8192.0$1918.0
+Power$Dell$PowerEdge R610 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Round Rock$May 19, 2010$32.0$32.0$256.0$12288.0$2938.0
+Power$Dell$PowerEdge R710 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Round Rock$May 19, 2010$32.0$32.0$256.0$12288.0$2963.0
+Power$Dell$PowerEdge R815 (AMD Opteron 6174, 2.20 GHz)$1$IBM Corporation$AMD Opteron 6174$2200.0$2.0$24.0$24.0$16.0$Round Rock$Jun 30, 2010$64.0$64.0$512.0$12288.0$2357.0
+Power$Dell$PowerEdge R815 (AMD Opteron 6174, 2.20 GHz)$1$IBM Corporation$AMD Opteron 6174$2200.0$4.0$48.0$48.0$32.0$Round Rock$Jun 30, 2010$64.0$64.0$512.0$12288.0$2696.0
+Power$Dell$PowerEdge R610 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Round Rock$Aug 11, 2010$32.0$32.0$256.0$12288.0$3004.0
+Power$Dell$PowerEdge R710 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Round Rock$Aug 11, 2010$32.0$32.0$256.0$12288.0$3034.0
+Power$Dell$PowerEdge M610  Dell PowerEdge M1000E$16$IBM Corporation$Intel Xeon X5670$2933.0$32.0$192.0$384.0$192.0$Round Rock$Sep 9, 2010$32.0$32.0$256.0$12288.0$3094.0
+Power$Dell$PowerEdge R510$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Round Rock$Oct 6, 2010$32.0$32.0$256.0$12288.0$2745.0
+Power$Dell$PowerEdge M915  Dell PowerEdge M1000e$8$IBM Corporation$AMD Opteron 6176 (2.30 GHz)$2300.0$32.0$384.0$384.0$256.0$Round Rock$Aug 2, 2011$64.0$64.0$512.0$12288.0$2716.0
+Power$Dell$PowerEdge M710HD  Dell PowerEdge M1000e$16$Oracle Corporation$Intel Xeon X5675 (3.06 GHz)$3060.0$32.0$192.0$384.0$384.0$Round Rock$Sep 21, 2011$32.0$32.0$256.0$12288.0$3162.0
+Power$Dell$PowerEdge M610  Dell PowerEdge M1000e$16$Oracle Corporation$Intel Xeon X5675 (3.06 GHz)$3060.0$32.0$192.0$384.0$384.0$Round Rock$Nov 2, 2011$32.0$32.0$256.0$12288.0$3348.0
+Power$Dell$PowerEdge C6100 (Intel Xeon X5675, 3.06 GHz)  PowerEdge C6100$4$Oracle Corporation$Intel Xeon 5675$3067.0$8.0$48.0$96.0$64.0$Round Rock$Nov 2, 2011$32.0$32.0$256.0$12288.0$3281.0
+Power$Dell$Dell PowerEdge R710 (Intel Xeon X5675, 3.06 GHz)$1$Oracle Corporation$Intel Xeon X5675$3066.0$2.0$12.0$24.0$24.0$Round Rock$Nov 2, 2011$32.0$32.0$256.0$12288.0$3214.0
+Power$Dell$PowerEdge M915  Dell PowerEdge M1000e$8$IBM Corporation$AMD Opteron 6276 (2.30 GHz)$2300.0$32.0$512.0$512.0$512.0$Round Rock$Nov 16, 2011$512.0$256.0$16384.0$16384.0$2919.0
+Power$Dell$PowerEdge R620 (Intel Xeon E5-2670, 2.6 GHz)$1$Oracle Corporation$Intel Xeon E5-2670 2.60 GHz$2600.0$2.0$16.0$32.0$24.0$Round Rock$Mar 21, 2012$32.0$32.0$256.0$20480.0$4446.0
+Power$Dell$PowerEdge R720 (Intel Xeon E5-2670, 2.6 GHz)$1$Oracle Corporation$Intel Xeon E5-2670 2.60 GHz$2600.0$2.0$16.0$32.0$24.0$Round Rock$Mar 21, 2012$32.0$32.0$256.0$20480.0$4658.0
+Power$Dell$PowerEdge T620 (Intel Xeon E5-2670, 2.6 GHz)$1$Oracle Corporation$Intel Xeon E5-2670 2.60 GHz$2600.0$2.0$16.0$32.0$24.0$Round Rock$Mar 21, 2012$32.0$32.0$256.0$20480.0$4730.0
+Power$Dell$PowerEdge M620 (Intel Xeon E5-2670, 2.6 GHz)  Dell PowerEdge M1000e$16$Oracle Corporation$Intel Xeon E5-2670 2.60 GHz$2600.0$32.0$256.0$512.0$384.0$Round Rock$Apr 4, 2012$32.0$32.0$256.0$20480.0$4649.0
+Power$Dell$PowerEdge R620 (Intel Xeon E5-2660, 2.2 GHz)$1$Oracle Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Round Rock$May 2, 2012$32.0$32.0$256.0$20480.0$4577.0
+Power$Dell$PowerEdge R720 (Intel Xeon E5-2660, 2.2 GHz)$1$Oracle Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Round Rock$May 2, 2012$32.0$32.0$256.0$20480.0$4836.0
+Power$Dell$PowerEdge T620 (Intel Xeon E5-2660, 2.2 GHz)$1$Oracle Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Round Rock$May 2, 2012$32.0$32.0$256.0$20480.0$4929.0
+Power$Dell$PowerEdge R820 (Intel Xeon E5-4650L, 2.60 GHz)$1$Oracle Corporation$Intel Xeon E5-4650L 2.60 GHz$2600.0$4.0$32.0$64.0$48.0$Round Rock$May 30, 2012$32.0$32.0$256.0$20480.0$4894.0
+Power$Dell$PowerEdge M520  Dell PowerEdge M1000e$16$Oracle Corporation$Intel Xeon E5-2470 (Intel Turbo Boost Technology up to 3.10 GHz)$2300.0$32.0$256.0$512.0$384.0$Round Rock$May 30, 2012$32.0$32.0$256.0$20480.0$5034.0
+Power$Dell$PowerEdge R420 (Intel Xeon E5-2470, 2.30 GHz)$1$Oracle Corporation$Intel Xeon E5-2470 2.3GHz$2300.0$2.0$16.0$32.0$24.0$Round Rock$Jun 14, 2012$32.0$32.0$256.0$20480.0$4866.0
+Power$Dell$PowerEdge M420  Dell PowerEdge M1000e$32$Oracle Corporation$Intel Xeon E5-2470 (2.3 GHz)$2300.0$64.0$512.0$1024.0$768.0$Round Rock$Jul 11, 2012$32.0$32.0$256.0$20480.0$4535.0
+Power$Dell$PowerEdge R815 (AMD Opteron 6278, 2.40 GHz)$1$IBM Corporation$AMD Opteron 6278$2400.0$4.0$64.0$64.0$64.0$Round Rock$Aug 8, 2012$512.0$256.0$16384.0$16384.0$3028.0
+Power$Dell$PowerEdge M820  Dell PowerEdge M1000e$8$IBM Corporation$Intel Xeon E5-4650L (2.60 GHz)$2600.0$32.0$512.0$1024.0$384.0$Round Rock$Aug 22, 2012$32.0$32.0$256.0$20480.0$4853.0
+Power$Dell$PowerEdge R620 (Intel Xeon E5-2660, 2.20 GHz)$1$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Round Rock$Sep 5, 2012$32.0$32.0$256.0$20480.0$0.0
+Power$Dell$PowerEdge R720 (Intel Xeon E5-2660, 2.20 GHz)$1$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Round Rock$Sep 5, 2012$32.0$32.0$256.0$20480.0$0.0
+Power$Dell$PowerEdge R820 (Intel Xeon E5-4650L, 2.60 GHz)$1$IBM Corporation$Intel Xeon E5-4650L 2.60 GHz$2600.0$4.0$32.0$64.0$48.0$Round Rock$Sep 5, 2012$32.0$32.0$256.0$20480.0$0.0
+Power$Dell$PowerEdge T620 (Intel Xeon E5-2660, 2.20 GHz)$1$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Round Rock$Sep 5, 2012$32.0$32.0$256.0$20480.0$0.0
+Power$Dell$PowerEdge R520 (Intel Xeon E5-2470, 2.30 GHz)$1$IBM Corporation$Intel Xeon E5-2470 (Intel Turbo Boost Technology up to 3.10 GHz )$2300.0$2.0$16.0$32.0$24.0$Round Rock$Oct 17, 2012$32.0$32.0$256.0$20480.0$5504.0
+Power$Dell$PowerEdge R720 (Intel Xeon E5-2660, 2.20 GHz)$1$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Round Rock$Nov 14, 2012$32.0$32.0$256.0$20480.0$5497.0
+Power$Dell$PowerEdge R420 (Intel Xeon E5-2470, 2.30 GHz)$1$IBM Corporation$Intel Xeon E5-2470 (Intel Turbo Boost Technology up to 3.10 GHz )$2300.0$2.0$16.0$32.0$24.0$Round Rock$Nov 14, 2012$32.0$32.0$256.0$20480.0$5420.0
+Power$Dell$PowerEdge M520 (Intel Xeon E5-2470 (2.30 GHz)  Dell PowerEdge M1000e$16$IBM Corporation$Intel Xeon E5-2470 (2.30 GHz)$2300.0$32.0$384.0$512.0$256.0$Round Rock$Nov 14, 2012$32.0$32.0$256.0$20480.0$5521.0
+Power$Dell$PowerEdge M915 (AMD Opteron 6380, 2.50 GHz)  Dell PowerEdge M1000e$8$IBM Corporation$AMD Opteron 6380 (2.50 GHz)$2500.0$32.0$512.0$512.0$512.0$Round Rock$Nov 14, 2012$512.0$256.0$16384.0$16384.0$4421.0
+Power$Dell$PowerEdge R720 (Intel Xeon E5-2660, 2.20 GHz)$1$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Round Rock$Nov 28, 2012$32.0$32.0$256.0$20480.0$5506.0
+Power$Dell$PowerEdge T620 (Intel Xeon E5-2660, 2.20 GHz)$1$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Round Rock$Nov 28, 2012$32.0$32.0$256.0$20480.0$5425.0
+Power$Dell$PowerEdge R620 (Intel Xeon E5-2660, 2.20 GHz)$1$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Round Rock$Nov 28, 2012$32.0$32.0$256.0$20480.0$5244.0
+Power$Dell$PowerEdge R820 (Intel Xeon E5-4650L, 2.60 GHz)$1$IBM Corporation$Intel Xeon E5-4650L 2.60 GHz$2600.0$4.0$32.0$64.0$48.0$Round Rock$Nov 28, 2012$32.0$32.0$256.0$20480.0$5285.0
+Power$Dell$PowerEdge C6105 (AMD Opteron 4376HE, 2.6 GHz)  PowerEdge C6105$4$IBM Corporation$AMD Opteron 4376HE$2600.0$8.0$64.0$64.0$64.0$Round Rock$Jan 9, 2013$256.0$128.0$8192.0$8192.0$4510.0
+Power$Dell$PowerEdge C6145 (AMD Opteron 6380, 2.50 GHz)  PowerEdge C6145$2$IBM Corporation$AMD Opteron 6380 (2.50GHz)$2500.0$8.0$128.0$128.0$128.0$Round Rock$Jan 9, 2013$512.0$256.0$16384.0$16384.0$4499.0
+Power$Dell$PowerEdge M620 (Intel Xeon E5-2670, 2.60 GHz)  Dell PowerEdge M1000e$16$IBM Corporation$Intel Xeon E5-2670 2.60 GHz$2600.0$32.0$256.0$512.0$384.0$Round Rock$Feb 20, 2013$32.0$32.0$256.0$20480.0$4982.0
+Power$Dell$PowerEdge C5220 (Intel Xeon E3-1265LV2)  PowerEdge C5220$12$IBM Corporation$Intel Xeon E3-1265LV2$2500.0$12.0$48.0$96.0$96.0$Round Rock$Apr 19, 2013$32.0$32.0$256.0$8192.0$6000.0
+Power$Dell$PowerEdge M620 (Intel Xeon E5-2660 v2, 2.20 GHz)  Dell PowerEdge M1000e$16$IBM Corporation$Intel Xeon E5-2660 v2 (Intel Turbo Boost Technology up to 3.0 GHz)$2200.0$32.0$320.0$640.0$384.0$Round Rock$Oct 16, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$Dell$PowerEdge R720 (Intel Xeon E5-2660 v2, 2.20 GHz)$1$IBM Corporation$Intel Xeon E5-2660 v2, 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$20.0$40.0$24.0$Round Rock$Oct 16, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$Dell$PowerEdge R620 (Intel Xeon E5-2660 v2 2.20 GHz)$1$IBM Corporation$Intel Xeon E5-2660 v2 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$20.0$40.0$24.0$Round Rock$Nov 13, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$Dell$PowerEdge T620 (Intel Xeon E5-2660 v2 2.20 GHz)$1$IBM Corporation$Intel Xeon E5-2660 v2 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$20.0$40.0$24.0$Round Rock$Nov 13, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$Dell$PowerEdge M520 (Intel Xeon E5-2470 v2 2.40 GHz)  Dell PowerEdge M1000e$16$IBM Corporation$Intel Xeon E5-2470 v2 (Intel Turbo Boost Technology up to 3.20 GHz)$2400.0$32.0$320.0$640.0$384.0$Round Rock$Jan 22, 2014$32.0$32.0$256.0$25600.0$0.0
+Power$Dell$PowerEdge R820 (Intel Xeon E5-4650 v2 2.40 GHz)$1$IBM Corporation$Intel Xeon E5-4650 v2 2.40 GHz (Intel Turbo Boost Technology up to 2.90 GHz)$2400.0$4.0$40.0$80.0$48.0$Round Rock$Apr 16, 2014$32.0$32.0$256.0$25600.0$0.0
+Power$Dell$PowerEdge M820 (Intel Xeon E5-4650 v2, 2.40 GHz)  Dell PowerEdge M1000e$8$IBM Corporation$Intel Xeon E5-4650 v2 2.40 GHz (Intel Turbo Boost Technology up to 2.90 GHz)$2400.0$32.0$320.0$640.0$384.0$Round Rock$Apr 30, 2014$32.0$32.0$256.0$25600.0$0.0
+Power$Dell$PowerEdge R730 (Intel Xeon E5-2699 v3 2.30 GHz)$1$IBM Corporation$Intel Xeon E5-2699 v3 2.30 GHz$2300.0$2.0$36.0$72.0$64.0$Round Rock$Feb 18, 2015$32.0$32.0$256.0$46080.0$10206.0
+Power$Dell$PowerEdge T630 (Intel Xeon E5-2699 v3 2.30 GHz)$1$IBM Corporation$Intel Xeon E5-2699 v3 2.30 GHz$2300.0$2.0$36.0$72.0$64.0$Round Rock$Mar 18, 2015$32.0$32.0$256.0$46080.0$10103.0
+Power$Dell$PowerEdge R630 (Intel Xeon E5-2699 v3 2.30 GHz)$1$IBM Corporation$Intel Xeon E5-2699 v3 2.30 GHz$2300.0$2.0$36.0$72.0$64.0$Round Rock$Apr 1, 2015$32.0$32.0$256.0$46080.0$9749.0
+Power$Dell$PowerEdge C6320 (Intel Xeon E5-2699 v3 2.30 GHz)  Dell PowerEdge C6000$4$IBM Corporation$Intel Xeon E5-2699 v3 2.30 GHz$2300.0$8.0$144.0$288.0$256.0$Round Rock$Jul 28, 2015$32.0$32.0$256.0$46080.0$9472.0
+Power$Dell$PowerEdge M830 (Intel Xeon E5-4669 v3, 2.10 GHz)  Dell PowerEdge M1000e$8$IBM Corporation$Intel Xeon E5-4669 v3 2.10 GHz (Intel Turbo Boost technology up to 2.90 GHz)$2100.0$32.0$576.0$1152.0$1024.0$Round Rock$Jul 28, 2015$32.0$32.0$256.0$46080.0$0.0
+Power$Dell$PowerEdge FC630 (Intel Xeon E5-2699 v3 2.30 GHz)  Dell PowerEdge FX2$4$IBM Corporation$Intel Xeon E5-2699 v3 2.30 GHz$2300.0$8.0$144.0$288.0$256.0$Round Rock$Aug 6, 2015$32.0$32.0$256.0$46080.0$9288.0
+Power$Dell$PowerEdge R730 (Intel Xeon E5-2699 v4 2.20 GHz)$1$Oracle Corporation$Intel Xeon E5-2699 v4 2.20 GHz$2200.0$2.0$44.0$88.0$128.0$Round Rock$Apr 15, 2016$32.0$32.0$256.0$56320.0$10802.0
+Power$Dell$PowerEdge M630 (Intel Xeon E5-2699 v4, 2.20 GHz)  Dell PowerEdge M1000e$16$Oracle Corporation$Intel Xeon E5-2699 v4 2.20 GHz$2200.0$32.0$704.0$1408.0$2048.0$Round Rock$May 25, 2016$32.0$32.0$256.0$56320.0$10062.0
+Power$Dell$PowerEdge R630 (Intel Xeon E5-2699 v4 2.20 GHz)$1$Oracle Corporation$Intel Xeon E5-2699 v4 2.20 GHz$2200.0$2.0$44.0$88.0$128.0$Round Rock$May 25, 2016$32.0$32.0$256.0$56320.0$11157.0
+Power$Dell$PowerEdge R730 (Intel Xeon E5-2699 v4 2.20 GHz)$1$Oracle Corporation$Intel Xeon E5-2699 v4 2.20 GHz$2200.0$2.0$44.0$88.0$128.0$Round Rock$May 25, 2016$32.0$32.0$256.0$56320.0$11423.0
+Power$Dell$PowerEdge R830 (Intel Xeon E5-4669 v4 2.20 GHz)$1$Oracle Corporation$Intel Xeon E5-4669 v4 2.20 GHz$2200.0$4.0$88.0$176.0$256.0$Round Rock$Jul 20, 2016$32.0$32.0$256.0$56320.0$11064.0
+Power$Dell$PowerEdge R740$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50 GHz$2500.0$2.0$56.0$112.0$192.0$Round Rock$Sep 13, 2017$32.0$32.0$1024.0$39424.0$11790.0
+Power$Dell$PowerEdge R640$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50 GHz$2500.0$2.0$56.0$112.0$192.0$Round Rock$Sep 13, 2017$32.0$32.0$1024.0$39424.0$11542.0
+Power$Dell$PowerEdge T640$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50 GHz$2500.0$2.0$56.0$112.0$192.0$Round Rock$Sep 27, 2017$32.0$32.0$1024.0$39424.0$11537.0
+Power$Dell$PowerEdge R940$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50 GHz$2500.0$4.0$112.0$224.0$384.0$Round Rock$Oct 25, 2017$32.0$32.0$1024.0$39424.0$11958.0
+Power$Dell$PowerEdge R7425 (AMD EPYC 7601 2.20 GHz)$1$Oracle Corporation$AMD EPYC 7601 2.20 GHz$2200.0$2.0$64.0$128.0$128.0$Round Rock$Jun 7, 2018$32.0$32.0$512.0$65536.0$11064.0
+Power$Dell$PowerEdge R840 (Intel Xeon Platinum 8180 2.50 GHz)$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50 GHz$2500.0$4.0$112.0$224.0$384.0$Round Rock$Jul 5, 2018$32.0$32.0$1024.0$39424.0$11872.0
+Power$Dell$PowerEdge R840 (Intel Xeon Platinum 8180 2.50 GHz)$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50 GHz$2500.0$4.0$112.0$224.0$384.0$Round Rock$Jul 18, 2018$32.0$32.0$1024.0$39424.0$11962.0
+Power$Dell$PowerEdge R7425 (AMD EPYC 7601 2.20 GHz)$1$Oracle Corporation$AMD EPYC 7601 2.20 GHz, Dell SKU [338-BNCG]$2200.0$2.0$64.0$128.0$128.0$Round Rock$Feb 27, 2019$32.0$32.0$512.0$65536.0$11867.0
+Power$Dell$PowerEdge R740 (Intel Xeon Platinum 8280, 2.70 GHz)$1$Oracle Corporation$Intel Xeon Platinum 8280, 2.70 GHz$2700.0$2.0$56.0$112.0$192.0$Round Rock$Apr 25, 2019$32.0$32.0$1024.0$39424.0$12831.0
+Power$Dell$PowerEdge R240 (Intel Xeon E-2176G, 3.70 GHz)$1$Oracle Corporation$Intel Xeon E-2176G$3700.0$1.0$6.0$12.0$32.0$Round Rock$Jul 17, 2019$32.0$32.0$256.0$12288.0$8913.0
+Power$Dell$PowerEdge R7515 (AMD EPYC 7742, 2.25 GHz)$1$Oracle Corporation$AMD EPYC 7742 2.25 GHz$2250.0$1.0$64.0$128.0$128.0$Round Rock$""$32.0$32.0$512.0$262144.0$16501.0
+Power$Dell$PowerEdge R6525 (AMD EPYC 7702, 2.00 GHz)$1$Oracle Corporation$AMD EPYC 7702 2.00 GHz$2000.0$2.0$128.0$256.0$128.0$Round Rock$Mar 25, 2020$32.0$32.0$512.0$262144.0$20184.0
+Power$Dell$PowerEdge R7525 (AMD EPYC 7702, 2.00 GHz)$1$Oracle Corporation$AMD EPYC 7702 2.00 GHz$2000.0$2.0$128.0$256.0$128.0$Round Rock$Apr 8, 2020$32.0$32.0$512.0$262144.0$20910.0
+Power$Dell$PowerEdge R6515 (AMD EPYC 7702P, 2.00 GHz)$1$Oracle Corporation$AMD EPYC 7702P 2.00 GHz$2000.0$1.0$64.0$128.0$64.0$Round Rock$Aug 12, 2020$32.0$32.0$512.0$262144.0$18463.0
+Power$Dell$PowerEdge XR8620T (Intel Xeon Gold 6421N, 1.80 GHz)  XR8000$2$Oracle Corporation$Intel Xeon Gold 6421N$1800.0$2.0$64.0$128.0$256.0$Round Rock$Mar 29, 2023$32.0$48.0$2048.0$61440.0$9994.0
+Power$Dell$PowerEdge XR4510c (Intel Xeon D-2776NT, 2.10 GHz)  XR4000$4$Oracle Corporation$Intel Xeon-D 2776NT$2100.0$4.0$64.0$128.0$128.0$Round Rock$Mar 29, 2023$32.0$48.0$1024.0$25600.0$8102.0
+Power$Dell$PowerEdge XR8620T (Intel Xeon Gold 6421N, 1.80 GHz)  XR8000$2$Oracle Corporation$Intel Xeon Gold 6421N$1800.0$2.0$64.0$128.0$256.0$Round Rock$May 11, 2023$32.0$48.0$2048.0$61440.0$10045.0
+Power$Dell$PowerEdge XR11 (Intel Xeon Gold 6338N, 2.20 GHz)$1$Oracle Corporation$Intel Xeon Gold 6338N$2200.0$1.0$32.0$64.0$128.0$Round Rock$May 11, 2023$32.0$48.0$1280.0$49152.0$6466.0
+Power$Dell$PowerEdge R710 (Intel Xeon X5570, 2.93 GHz)$1$Oracle Corporation$Intel Xeon X5570$2933.0$2.0$8.0$16.0$12.0$Round Rock$Mar 30, 2009$32.0$32.0$256.0$8192.0$1746.0
+Power$Dell$PowerEdge R620 (Intel Xeon E5-2660, 2.2 GHz)$1$Oracle Corporation$Intel Xeon E5-2660 2.20 GHz$2200.0$2.0$16.0$32.0$24.0$Round Rock$Apr 4, 2012$32.0$32.0$256.0$20480.0$4525.0
+Power$Dell$PowerEdge T620 (Intel Xeon E5-2660, 2.2 GHz)$1$Oracle Corporation$Intel Xeon E5-2660 2.20 GHz$2200.0$2.0$16.0$32.0$24.0$Round Rock$Apr 4, 2012$32.0$32.0$256.0$20480.0$4874.0
+Power$FALINUX$AnyStor-700EC  AnyStor-700EC-NM(8 Bays)$2$Oracle Corporation$Ampere® Altra® 64-Bit Multi-Core Processor Q64-30$3000.0$2.0$128.0$128.0$64.0$TTA$Dec 8, 2022$64.0$64.0$1024.0$0.0$8436.0
+Power$FALINUX$AnyStor-700EC$1$Oracle Corporation$Ampere® Altra® 64-Bit Multi-Core Processor Q64-30$3000.0$1.0$64.0$64.0$32.0$TTA$Dec 12, 2022$64.0$64.0$1024.0$0.0$8335.0
+Power$Five9 Network Systems$Five9 N1200 Carrier Grade Server$1$IBM Corporation$Intel Xeon X5670$2930.0$2.0$12.0$24.0$12.0$Moffett Field$Apr 28, 2011$32.0$32.0$256.0$12288.0$1990.0
+Power$Fujitsu$PRIMERGY TX100 S1 (Intel Xeon L3360)$1$Oracle Corporation$Intel Xeon L3360$2833.0$1.0$4.0$4.0$8.0$Paderborn$Jul 15, 2009$32.0$32.0$12288.0$0.0$1500.0
+Power$Fujitsu$PRIMERGY RX100 S6 (Intel Xeon X3470)$1$Oracle Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$4.0$Paderborn$Feb 2, 2010$32.0$32.0$256.0$8192.0$1842.0
+Power$Fujitsu$PRIMERGY TX150 S7 (Intel Xeon X3470)$1$Oracle Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$4.0$Paderborn$Feb 2, 2010$32.0$32.0$256.0$8192.0$2187.0
+Power$Fujitsu$PRIMERGY CX120 S1 (Intel Xeon L5530)  PRIMERGY CX1000 S1$38$IBM Corporation$Intel Xeon L5530$2400.0$76.0$304.0$608.0$304.0$Paderborn$Mar 24, 2010$32.0$32.0$256.0$8192.0$2320.0
+Power$Fujitsu$PRIMERGY RX300 S6 (Intel Xeon X5670)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Paderborn$Apr 7, 2010$32.0$32.0$256.0$12288.0$2822.0
+Power$Fujitsu$PRIMERGY RX200 S6 (Intel Xeon X5670)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Paderborn$Apr 7, 2010$32.0$32.0$256.0$12288.0$2850.0
+Power$Fujitsu$PRIMERGY TX300 S6 (Intel Xeon X5670)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Paderborn$May 19, 2010$32.0$32.0$256.0$12288.0$2900.0
+Power$Fujitsu$PRIMERGY TX150 S7 (Intel Xeon X3480)$1$IBM Corporation$Intel Xeon X3480$3067.0$1.0$4.0$8.0$4.0$Paderborn$Dec 1, 2010$32.0$32.0$256.0$8192.0$2513.0
+Power$Fujitsu$PRIMERGY RX100 S6 (Intel Xeon X3480)$1$IBM Corporation$Intel Xeon X3480$3067.0$1.0$4.0$8.0$4.0$Paderborn$Dec 1, 2010$32.0$32.0$256.0$8192.0$2155.0
+Power$Fujitsu$PRIMERGY TX300 S6 (Intel Xeon X5675)$1$IBM Corporation$Intel Xeon X5675$3066.0$2.0$12.0$24.0$12.0$Paderborn$Mar 9, 2011$32.0$32.0$256.0$12288.0$2989.0
+Power$Fujitsu$PRIMERGY TX140 S1 (Intel Xeon E3-1260L)$1$Oracle Corporation$Intel Xeon E3-1260L$2400.0$1.0$4.0$8.0$8.0$Paderborn$Apr 27, 2011$32.0$32.0$256.0$8192.0$4549.0
+Power$Fujitsu$PRIMERGY TX120 S3 (Intel Xeon E3-1260L)$1$Oracle Corporation$Intel Xeon E3-1260L$2400.0$1.0$4.0$8.0$8.0$Paderborn$Jun 16, 2011$32.0$32.0$256.0$8192.0$4697.0
+Power$Fujitsu$PRIMERGY RX100 S7 (Intel Xeon E3-1260L)$1$Oracle Corporation$Intel Xeon E3-1260L$2400.0$1.0$4.0$8.0$8.0$Paderborn$Jun 16, 2011$32.0$32.0$256.0$8192.0$4323.0
+Power$Fujitsu$PRIMERGY BX920 S2 (Intel Xeon X5675)  PRIMERGY BX900 S1$18$Oracle Corporation$Intel Xeon X5675$3067.0$36.0$216.0$432.0$216.0$Paderborn$Oct 6, 2011$32.0$32.0$256.0$12288.0$3221.0
+Power$Fujitsu$PRIMERGY RX300 S7 (Intel Xeon E5-2660)$1$Oracle Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$32.0$Paderborn$Mar 21, 2012$32.0$32.0$256.0$20480.0$5032.0
+Power$Fujitsu$PRIMERGY RX200 S7 (Intel Xeon E5-2660)$1$Oracle Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$32.0$Paderborn$Apr 25, 2012$32.0$32.0$256.0$20480.0$4722.0
+Power$Fujitsu$PRIMERGY BX920 S3 (Intel Xeon E5-2470)  PRIMERGY BX900 S2$18$Oracle Corporation$Intel Xeon E5-2470$2300.0$36.0$288.0$576.0$432.0$Paderborn$May 30, 2012$32.0$32.0$256.0$20480.0$4677.0
+Power$Fujitsu$PRIMERGY RX100 S7p (Intel Xeon E3-1265LV2)$1$Oracle Corporation$Intel Xeon E3-1265LV2$2500.0$1.0$4.0$8.0$8.0$Paderborn$May 30, 2012$32.0$32.0$256.0$8192.0$5576.0
+Power$Fujitsu$PRIMERGY TX120 S3p (Intel Xeon E3-1265LV2)$1$Oracle Corporation$Intel Xeon E3-1265LV2$2500.0$1.0$4.0$8.0$8.0$Paderborn$May 30, 2012$32.0$32.0$256.0$8192.0$6109.0
+Power$Fujitsu$PRIMERGY TX300 S7 (Intel Xeon E5-2660)$1$Oracle Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Paderborn$Jun 27, 2012$32.0$32.0$256.0$20480.0$5032.0
+Power$Fujitsu$PRIMERGY RX350 S7 (Intel Xeon E5-2660)$1$Oracle Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Paderborn$Jun 27, 2012$32.0$32.0$256.0$20480.0$5035.0
+Power$Fujitsu$PRIMERGY TX140 S1p (Intel Xeon E3-1265LV2)$1$Oracle Corporation$Intel Xeon E3-1265LV2$2500.0$1.0$4.0$8.0$8.0$Paderborn$Jul 11, 2012$32.0$32.0$256.0$8192.0$5887.0
+Power$Fujitsu$PRIMERGY RX500 S7 (Intel Xeon E5-4640)$1$Oracle Corporation$Intel Xeon E5-4640$2400.0$4.0$32.0$64.0$48.0$Paderborn$Aug 8, 2012$32.0$32.0$256.0$20480.0$5029.0
+Power$Fujitsu$PRIMERGY TX200 S7 (Intel Xeon E5-2470)$1$Oracle Corporation$Intel Xeon E5-2470$2300.0$2.0$16.0$32.0$24.0$Paderborn$Aug 22, 2012$32.0$32.0$256.0$20480.0$5177.0
+Power$Fujitsu$PRIMERGY TX100 S3p (Intel Xeon E3-1240V2)$1$Oracle Corporation$Intel Xeon E3-1240V2$3400.0$1.0$4.0$8.0$8.0$Paderborn$Aug 22, 2012$32.0$32.0$256.0$8192.0$6008.0
+Power$Fujitsu$PRIMERGY TX200 S7 (Intel Xeon E5-2470)$1$IBM Corporation$Intel Xeon E5-2470$2300.0$2.0$16.0$32.0$24.0$Paderborn$Sep 19, 2012$32.0$32.0$256.0$20480.0$5689.0
+Power$Fujitsu$PRIMERGY RX500 S7 (Intel Xeon E5-4640)$1$IBM Corporation$Intel Xeon E5-4640$2400.0$4.0$32.0$64.0$48.0$Paderborn$Sep 19, 2012$32.0$32.0$256.0$20480.0$5350.0
+Power$Fujitsu$PRIMERGY RX300 S7 (Intel Xeon E5-2660)$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Paderborn$Oct 3, 2012$32.0$32.0$256.0$20480.0$5406.0
+Power$Fujitsu$PRIMERGY RX200 S7 (Intel Xeon E5-2660)$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Paderborn$Oct 3, 2012$32.0$32.0$256.0$20480.0$5058.0
+Power$Fujitsu$PRIMERGY RX350 S7 (Intel Xeon E5-2660)$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Paderborn$Oct 3, 2012$32.0$32.0$256.0$20480.0$5347.0
+Power$Fujitsu$PRIMERGY TX300 S7 (Intel Xeon E5-2660)$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Paderborn$Oct 3, 2012$32.0$32.0$256.0$20480.0$5372.0
+Power$Fujitsu$PRIMERGY TX140 S2 (Intel Xeon E3-1265Lv3)$1$IBM Corporation$Intel Xeon E3-1265Lv3$2500.0$1.0$4.0$8.0$8.0$Paderborn$Oct 2, 2013$32.0$32.0$256.0$8192.0$6797.0
+Power$Fujitsu$PRIMERGY RX300 S8 (Intel Xeon E5-2660 v2)$1$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$2.0$20.0$40.0$48.0$Paderborn$Oct 2, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$Fujitsu$PRIMERGY RX350 S8 (Intel Xeon E5-2660 v2)$1$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$2.0$20.0$40.0$48.0$Paderborn$Oct 2, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$Fujitsu$PRIMERGY TX300 S8 (Intel Xeon E5-2660 v2)$1$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$2.0$20.0$40.0$48.0$Paderborn$Oct 2, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$Fujitsu$PRIMERGY RX200 S8 (Intel Xeon E5-2660 v2)$1$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$2.0$20.0$40.0$48.0$Paderborn$Oct 2, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$Fujitsu$PRIMERGY RX100 S8 (Intel Xeon E3-1265Lv3)$1$IBM Corporation$Intel Xeon E3-1265Lv3$2500.0$1.0$4.0$8.0$8.0$Paderborn$Nov 13, 2013$32.0$32.0$256.0$8192.0$6137.0
+Power$Fujitsu$PRIMERGY BX920 S4 (Intel Xeon E5-2470 v2)  PRIMERGY BX900 S2$18$IBM Corporation$Intel Xeon E5-2470 v2$2400.0$36.0$360.0$720.0$864.0$Paderborn$Jan 22, 2014$32.0$32.0$256.0$25600.0$0.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX2540 M1$1$IBM Corporation$Intel Xeon E5-2470 v2$2400.0$2.0$20.0$40.0$48.0$Paderborn$Apr 16, 2014$32.0$32.0$256.0$25600.0$0.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX1330 M1$1$IBM Corporation$Intel Xeon E3-1275Lv3$2500.0$1.0$4.0$8.0$16.0$Paderborn$Aug 22, 2014$32.0$32.0$256.0$8192.0$0.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2540 M1$1$IBM Corporation$Intel Xeon E5-2699 v3$2300.0$2.0$36.0$72.0$64.0$Paderborn$Oct 21, 2014$32.0$32.0$256.0$46080.0$10654.0
+Power$Fujitsu$FUJITSU Server PRIMERGY CX2550 M1  PRIMERGY CX400 M1$4$IBM Corporation$Intel Xeon E5-2699 v3$2300.0$8.0$144.0$288.0$256.0$Paderborn$Dec 10, 2014$32.0$32.0$256.0$46080.0$9971.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2530 M1$1$IBM Corporation$Intel Xeon E5-2699 v3$2300.0$2.0$36.0$72.0$64.0$Paderborn$Feb 5, 2015$32.0$32.0$256.0$46080.0$9811.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1320 M1$1$IBM Corporation$Intel Xeon E3-1275Lv3$2700.0$1.0$4.0$8.0$16.0$Paderborn$Feb 5, 2015$32.0$32.0$256.0$8192.0$7535.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX2560 M1$1$IBM Corporation$Intel Xeon E5-2699 v3$2300.0$2.0$36.0$72.0$64.0$Paderborn$Apr 1, 2015$32.0$32.0$256.0$46080.0$10685.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2560 M1$1$IBM Corporation$Intel Xeon E5-2699 v3$2300.0$2.0$36.0$72.0$64.0$Paderborn$Apr 1, 2015$32.0$32.0$256.0$46080.0$10699.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX1330 M1$1$IBM Corporation$Intel Xeon E3-1275Lv3$2700.0$1.0$4.0$8.0$16.0$Paderborn$Jun 2, 2015$32.0$32.0$256.0$8192.0$6916.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1320 M2$1$Oracle Corporation$Intel Xeon E3-1260L v5$2900.0$1.0$4.0$8.0$16.0$Paderborn$Nov 25, 2015$32.0$32.0$256.0$8192.0$8944.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX1330 M2$1$Oracle Corporation$Intel Xeon E3-1260L v5$2900.0$1.0$4.0$8.0$16.0$Paderborn$Dec 15, 2015$32.0$32.0$256.0$8192.0$7809.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1330 M2$1$Oracle Corporation$Intel Xeon E3-1240L v5$2100.0$1.0$4.0$8.0$16.0$Paderborn$Jan 7, 2016$32.0$32.0$256.0$8192.0$8187.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2560 M2$1$Oracle Corporation$Intel Xeon E5-2699 v4$2200.0$2.0$44.0$88.0$64.0$Paderborn$Apr 15, 2016$32.0$32.0$256.0$56320.0$12079.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX2560 M2$1$Oracle Corporation$Intel Xeon E5-2699 v4$2200.0$2.0$44.0$88.0$64.0$Paderborn$Apr 15, 2016$32.0$32.0$256.0$56320.0$12065.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2540 M2$1$Oracle Corporation$Intel Xeon E5-2699 v4$2200.0$2.0$44.0$88.0$64.0$Paderborn$Apr 27, 2016$32.0$32.0$256.0$56320.0$11638.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2530 M2$1$Oracle Corporation$Intel Xeon E5-2699 v4$2200.0$2.0$44.0$88.0$64.0$Paderborn$May 12, 2016$32.0$32.0$256.0$56320.0$10950.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX1330 M3$1$Oracle Corporation$Intel Xeon E3-1230 v6$3500.0$1.0$4.0$8.0$16.0$Kawasaki$Apr 12, 2017$32.0$32.0$256.0$8192.0$9281.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1320 M3$1$Oracle Corporation$Intel Xeon E3-1230 v6$3500.0$1.0$4.0$8.0$16.0$Kawasaki$Apr 12, 2017$32.0$32.0$256.0$8192.0$10427.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1330 M3$1$Oracle Corporation$Intel Xeon E3-1230 v6$3500.0$1.0$4.0$8.0$16.0$Kawasaki$Apr 12, 2017$32.0$32.0$256.0$8192.0$10000.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX4770 M4$1$Oracle Corporation$Intel Xeon Platinum 8176M$2100.0$4.0$112.0$224.0$192.0$Kawasaki$Oct 18, 2017$32.0$32.0$1024.0$39424.0$11886.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX4770 M4$1$Oracle Corporation$Intel Xeon Platinum 8176M$2100.0$4.0$112.0$224.0$192.0$Kawasaki$Oct 25, 2017$32.0$32.0$1024.0$39424.0$12008.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX4770 M4$1$Oracle Corporation$Intel Xeon Platinum 8176M$2100.0$4.0$112.0$224.0$192.0$Kawasaki$Jan 10, 2018$32.0$32.0$1024.0$39424.0$12828.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2540 M4$1$Oracle Corporation$Intel Xeon Platinum 8176M$2100.0$2.0$56.0$112.0$192.0$Kawasaki$Jan 10, 2018$32.0$32.0$1024.0$39424.0$12842.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX1330 M4$1$Oracle Corporation$Intel Xeon E-2176G$3700.0$1.0$6.0$12.0$16.0$Kawasaki$Dec 6, 2018$32.0$32.0$256.0$12288.0$8924.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1320 M4$1$Oracle Corporation$Intel Xeon E-2176G$3700.0$1.0$6.0$12.0$16.0$Kawasaki$Dec 6, 2018$32.0$32.0$256.0$12288.0$9435.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1330 M4$1$Oracle Corporation$Intel Xeon E-2176G$3700.0$1.0$6.0$12.0$16.0$Kawasaki$Dec 6, 2018$32.0$32.0$256.0$12288.0$9031.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2540 M5$1$Oracle Corporation$Intel Xeon Platinum 8276L$2300.0$2.0$56.0$112.0$192.0$Kawasaki$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11991.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX4770 M5$1$Oracle Corporation$Intel Xeon Platinum 8276L$2300.0$4.0$112.0$224.0$384.0$Kawasaki$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11444.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2530 M5$1$Oracle Corporation$Intel Xeon Platinum 8276L$2200.0$2.0$56.0$112.0$192.0$Kawasaki$May 22, 2019$32.0$32.0$1024.0$39424.0$13006.0
+Power$Fujitsu$FUJITSU Server PRIMERGY CX2560 M5  PRIMERGY CX400 M4$4$Oracle Corporation$Intel Xeon Platinum 6252$2100.0$8.0$192.0$384.0$768.0$Kawasaki$May 22, 2019$32.0$32.0$1024.0$36608.0$10619.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2540 M5$1$Oracle Corporation$Intel Xeon Platinum 8280L$2700.0$2.0$56.0$112.0$192.0$Kawasaki$Jun 5, 2019$32.0$32.0$1024.0$39424.0$13502.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX4770 M5$1$Oracle Corporation$Intel Xeon Platinum 8280L$2700.0$4.0$112.0$224.0$384.0$Kawasaki$Jun 5, 2019$32.0$32.0$1024.0$39424.0$12979.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1320 M4$1$Oracle Corporation$Intel Xeon E-2176G$3700.0$1.0$6.0$12.0$16.0$Kawasaki$Jun 5, 2019$32.0$32.0$256.0$12288.0$11089.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX2550 M5$1$Oracle Corporation$Intel Xeon Gold 6252 Processor$2100.0$2.0$48.0$96.0$96.0$Kawasaki$Sep 19, 2019$32.0$32.0$1024.0$36608.0$11901.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2520 M5$1$Oracle Corporation$Intel Xeon Gold 5220$2200.0$2.0$36.0$72.0$192.0$Kawasaki$Sep 19, 2019$32.0$32.0$1024.0$25344.0$10765.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1320 M4$1$Oracle Corporation$Intel Xeon E-2288G$3700.0$1.0$8.0$16.0$16.0$Kawasaki$Nov 6, 2019$32.0$32.0$256.0$16384.0$12364.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1330 M4$1$Oracle Corporation$Intel Xeon E-2288G$3700.0$1.0$8.0$16.0$16.0$Kawasaki$Nov 6, 2019$32.0$32.0$256.0$16384.0$12631.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX1330 M4$1$Oracle Corporation$Intel Xeon E-2288G$3700.0$1.0$8.0$16.0$16.0$Kawasaki$Dec 18, 2019$32.0$32.0$256.0$16384.0$11660.0
+Power$Fujitsu$FUJITSU Server PRIMERGY LX1430 M1$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$1.0$64.0$128.0$256.0$Kawasaki$Dec 18, 2019$32.0$32.0$512.0$262144.0$17278.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX4770 M6$1$Oracle Corporation$Intel Xeon Platinum 8380H$2900.0$4.0$112.0$224.0$384.0$Kawasaki$Nov 4, 2020$32.0$32.0$1024.0$39424.0$11077.0
+Power$Fujitsu$PRIMERGY RX2530 M6$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$2.0$80.0$160.0$256.0$Kawasaki$Apr 28, 2021$32.0$48.0$1280.0$61440.0$11533.0
+Power$Fujitsu$PRIMERGY RX2530 M6$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$2.0$80.0$160.0$256.0$Kawasaki$Apr 28, 2021$32.0$48.0$1280.0$61440.0$12066.0
+Power$Fujitsu$PRIMERGY RX2540 M6$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$2.0$80.0$160.0$256.0$Kawasaki$Jun 9, 2021$32.0$48.0$1280.0$61440.0$11652.0
+Power$Fujitsu$PRIMERGY RX2540 M6$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$2.0$80.0$160.0$256.0$Kawasaki$Jun 9, 2021$32.0$48.0$1280.0$61440.0$12211.0
+Power$Fujitsu$FUJITSU Server PRIMERGY CX2560 M6  PRIMERGY CX400 M6$4$Oracle Corporation$Intel Xeon Gold 5318Y$2100.0$8.0$192.0$384.0$1024.0$Kawasaki$Sep 1, 2021$32.0$48.0$1280.0$36864.0$8903.0
+Power$Fujitsu$FUJITSU Server PRIMERGY CX2560 M6  PRIMERGY CX400 M6$4$Oracle Corporation$Intel Xeon Gold 5318Y$2100.0$8.0$192.0$384.0$1024.0$Kawasaki$Sep 1, 2021$32.0$48.0$1280.0$36864.0$9077.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1310 M5 (D3930-A100)$1$Oracle Corporation$Intel Xeon E-2356G$3200.0$1.0$6.0$12.0$16.0$Kawasaki$Oct 28, 2021$32.0$48.0$512.0$12288.0$9596.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1310 M5 (D3930-A100)$1$Oracle Corporation$Intel Xeon E-2356G$3200.0$1.0$6.0$12.0$16.0$Kawasaki$Oct 28, 2021$32.0$48.0$512.0$12288.0$10707.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1310 M5 (D3931-C100)$1$Oracle Corporation$Intel Xeon E-2356G (Intel Turbo Boost Technology up to 5.0GHz)$3200.0$1.0$6.0$12.0$16.0$Kawasaki$Jan 19, 2022$32.0$48.0$512.0$12288.0$9993.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1310 M5 (D3931-C100)$1$Oracle Corporation$Intel Xeon E-2356G$3200.0$1.0$6.0$12.0$16.0$Kawasaki$Jan 19, 2022$32.0$48.0$512.0$12288.0$8241.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1320 M5$1$Oracle Corporation$Intel Xeon E-2388G (Intel Turbo Boost Technology up to 5.1GHz)$3200.0$1.0$8.0$16.0$16.0$Kawasaki$Jan 19, 2022$32.0$48.0$512.0$16384.0$10550.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1320 M5$1$Oracle Corporation$Intel Xeon E-2388G$3200.0$1.0$8.0$16.0$16.0$Kawasaki$Jan 19, 2022$32.0$48.0$512.0$16384.0$8212.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1330 M5$1$Oracle Corporation$Intel Xeon E-2388G (Intel Turbo Boost Technology up to 5.1GHz)$3200.0$1.0$8.0$16.0$16.0$Kawasaki$Jan 19, 2022$32.0$48.0$512.0$16384.0$10857.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX1330 M5$1$Oracle Corporation$Intel Xeon E-2388G$3200.0$1.0$8.0$16.0$16.0$Kawasaki$Jan 19, 2022$32.0$48.0$512.0$16384.0$8643.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX1330 M5$1$Oracle Corporation$Intel Xeon E-2388G (Intel Turbo Boost Technology up to 5.1GHz)$3200.0$1.0$8.0$16.0$16.0$Kawasaki$Jan 19, 2022$32.0$48.0$512.0$16384.0$10767.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX1330 M5$1$Oracle Corporation$Intel Xeon E-2388G$3200.0$1.0$8.0$16.0$16.0$Kawasaki$Jan 19, 2022$32.0$48.0$512.0$16384.0$8700.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2540 M7$1$Oracle Corporation$Intel Xeon Platinum 8480+$2000.0$2.0$112.0$224.0$512.0$Kawasaki$Jan 11, 2023$32.0$48.0$2048.0$107520.0$13836.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2540 M7$1$Oracle Corporation$Intel Xeon Platinum 8490H$1900.0$2.0$120.0$240.0$512.0$Kawasaki$Feb 1, 2023$32.0$48.0$2048.0$115200.0$14029.0
+Power$Fujitsu$FUJITSU Server PRIMERGY TX2550 M7$1$Oracle Corporation$Intel Xeon Gold 6438Y+$2000.0$2.0$64.0$128.0$512.0$Kawasaki$Feb 15, 2023$32.0$48.0$2048.0$61440.0$13055.0
+Power$Fujitsu$FUJITSU Server PRIMERGY RX2530 M7$1$Oracle Corporation$Intel Xeon Platinum 8490H$1900.0$2.0$120.0$240.0$512.0$Kawasaki$Mar 15, 2023$32.0$48.0$2048.0$115200.0$13704.0
+Power$Fujitsu$FUJITSU Server PRIMERGY CX2560 M7  PRIMERGY CX400 M6$4$Oracle Corporation$Intel Xeon Gold 6428N$1800.0$8.0$256.0$512.0$1024.0$Kawasaki$Apr 27, 2023$32.0$48.0$2048.0$61440.0$11580.0
+Power$Fujitsu$PRIMERGY TX150 S6 (Intel Xeon L3360)$1$Oracle Corporation$Intel Xeon L3360$2833.0$1.0$4.0$4.0$4.0$Paderborn$Mar 11, 2009$32.0$32.0$12288.0$0.0$1271.0
+Power$Fujitsu$PRIMERGY RX100 S5 (Intel Xeon L3360)$1$Oracle Corporation$Intel Xeon L3360$2833.0$1.0$4.0$4.0$4.0$Paderborn$Mar 11, 2009$32.0$32.0$12288.0$0.0$1118.0
+Power$Fujitsu$PRIMERGY RX200 S4 (Intel Xeon L5430)$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Paderborn$Mar 11, 2009$32.0$32.0$12288.0$0.0$851.0
+Power$Fujitsu$PRIMERGY RX300 S4 (Intel Xeon L5430)$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Paderborn$Mar 11, 2009$32.0$32.0$12288.0$0.0$855.0
+Power$Fujitsu$PRIMERGY TX300 S4 (Intel Xeon L5430)$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Paderborn$Mar 11, 2009$32.0$32.0$12288.0$0.0$917.0
+Power$Fujitsu Siemens Computers$PRIMERGY RX300 S3 (Intel Xeon L5335)$1$BEA System$Intel Xeon L5335$2000.0$2.0$8.0$8.0$16.0$Paderborn$Dec 11, 2007$32.0$32.0$8192.0$0.0$446.0
+Power$Fujitsu Siemens Computers$PRIMERGY TX120 (Intel Xeon 3070)$1$BEA System$Intel Xeon 3070$2666.0$1.0$2.0$2.0$4.0$Paderborn$Dec 11, 2007$32.0$32.0$4096.0$0.0$454.0
+Power$Fujitsu Siemens Computers$PRIMERGY TX150 S5 (Intel Xeon 3070)$1$BEA System$Intel Xeon 3070$2666.0$1.0$2.0$2.0$4.0$Paderborn$Dec 11, 2007$32.0$32.0$4096.0$0.0$356.0
+Power$Fujitsu Siemens Computers$PRIMERGY TX150 S6 (Intel Xeon X3220)$1$BEA System$Intel Xeon X3220$2400.0$1.0$4.0$4.0$8.0$Paderborn$Dec 11, 2007$32.0$32.0$8192.0$0.0$667.0
+Power$Fujitsu Siemens Computers$PRIMERGY RX300 S4 (INTEL Xeon E5440)$1$BEA System$Intel Xeon E5440$2830.0$2.0$8.0$8.0$16.0$Paderborn$Jan 30, 2008$32.0$32.0$12288.0$0.0$690.0
+Power$Fujitsu Siemens Computers$PRIMERGY TX150 S6 (Intel Xeon X3360)$1$BEA System$Intel Xeon X3360$2833.0$1.0$4.0$4.0$8.0$Paderborn$Apr 2, 2008$32.0$32.0$12288.0$0.0$1018.0
+Power$Fujitsu Siemens Computers$PRIMERGY TX150 S6 (Intel Xeon X3360)$1$BEA System$Intel Xeon X3360$2833.0$1.0$4.0$4.0$4.0$Paderborn$Jun 4, 2008$32.0$32.0$12288.0$0.0$1124.0
+Power$Fujitsu Siemens Computers$PRIMERGY RX300 S4 (Intel Xeon L5430)$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Paderborn$Sep 10, 2008$32.0$32.0$12288.0$0.0$780.0
+Power$Fujitsu Siemens Computers$PRIMERGY RX200 S4 (Intel Xeon L5430)$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Paderborn$Sep 10, 2008$32.0$32.0$12288.0$0.0$780.0
+Power$Fujitsu Siemens Computers$PRIMERGY TX300 S4 (Intel Xeon L5430)$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Paderborn$Sep 10, 2008$32.0$32.0$12288.0$0.0$827.0
+Power$Fujitsu Siemens Computers$PRIMERGY RX100 S5 (Intel Xeon X3360)$1$Oracle Corporation$Intel Xeon X3360$2833.0$1.0$4.0$4.0$4.0$Paderborn$Sep 24, 2008$32.0$32.0$12288.0$0.0$1015.0
+Power$Fujitsu Siemens Computers$PRIMERGY TX150 S6 (Intel Xeon L3360)$1$Oracle Corporation$Intel Xeon L3360$2833.0$1.0$4.0$4.0$4.0$Paderborn$Mar 11, 2009$32.0$32.0$12288.0$0.0$1273.0
+Power$Fujitsu Siemens Computers$PRIMERGY RX100 S5 (Intel Xeon L3360)$1$Oracle Corporation$Intel Xeon L3360$2833.0$1.0$4.0$4.0$4.0$Paderborn$Mar 11, 2009$32.0$32.0$12288.0$0.0$1116.0
+Power$Fujitsu Siemens Computers$PRIMERGY RX200 S4 (Intel Xeon L5430)$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Paderborn$Mar 11, 2009$32.0$32.0$12288.0$0.0$851.0
+Power$Fujitsu Siemens Computers$PRIMERGY RX300 S4 (Intel Xeon L5430)$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Paderborn$Mar 11, 2009$32.0$32.0$12288.0$0.0$854.0
+Power$Fujitsu Siemens Computers$PRIMERGY TX300 S4 (Intel Xeon L5430)$1$Oracle Corporation$Intel Xeon L5430$2667.0$2.0$8.0$8.0$8.0$Paderborn$Mar 11, 2009$32.0$32.0$12288.0$0.0$916.0
+Power$GIGA-BYTE Technology$R282-Z90$1$Oracle Corporation$AMD EPYC 7773X$2200.0$2.0$128.0$256.0$256.0$XinTien$Mar 24, 2022$32.0$32.0$512.0$786432.0$18692.0
+Power$GIGA-BYTE Technology$R272-Z30$1$Oracle Corporation$AMD EPYC 7773X$2200.0$1.0$64.0$128.0$256.0$XinTien$Mar 24, 2022$32.0$32.0$512.0$786432.0$17626.0
+Power$GIGA-BYTE Technology$R282-Z90$1$Oracle Corporation$AMD EPYC 7773X$2200.0$2.0$128.0$256.0$256.0$XinTien$Sep 1, 2022$32.0$32.0$512.0$786432.0$19704.0
+Power$GIGA-BYTE Technology$R181-Z90$1$Oracle Corporation$AMD EPYC 7601$2200.0$2.0$64.0$128.0$128.0$XinTien$Oct 17, 2018$64.0$32.0$512.0$65536.0$11207.0
+Power$GIGA-BYTE Technology$R282-Z90$1$Oracle Corporation$AMD EPYC 7742$2250.0$2.0$128.0$256.0$256.0$New Taipei City$Aug 28, 2019$32.0$32.0$512.0$262144.0$18748.0
+Power$H3C$UIS R390x G2$1$Oracle Corporation$Intel Xeon E5-2699 v4$2200.0$2.0$44.0$88.0$64.0$Hang Zhou$Aug 24, 2016$32.0$32.0$256.0$56320.0$11654.0
+Power$Hewlett Packard$ProLiant DL170h G6  ProLiant h1000 G6$4$Oracle Corporation$Intel Xeon L5520$2267.0$8.0$32.0$64.0$32.0$Houston$Jul 29, 2009$32.0$32.0$256.0$8192.0$1909.0
+Power$Hewlett Packard$ProLiant DL360 Gen9$1$IBM Corporation$Intel Xeon E5-2699 v3 2.30 GHz$2300.0$2.0$36.0$72.0$64.0$Houston$Jan 7, 2016$32.0$32.0$256.0$46080.0$10118.0
+Power$Hewlett Packard$ProLiant DL560 Gen9$1$Oracle Corporation$Intel Xeon E5-4669 v3 2.10 GHz$2100.0$4.0$72.0$144.0$64.0$Houston$Jun 22, 2016$32.0$32.0$262144.0$46080.0$8151.0
+Power$Hewlett Packard$ProLiant DL360 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$2.0$56.0$112.0$96.0$Houston$Jul 19, 2017$32.0$32.0$1024.0$39424.0$12313.0
+Power$Hewlett Packard$ProLiant DL560 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$4.0$112.0$224.0$192.0$Houston$Jul 19, 2017$32.0$32.0$1024.0$39424.0$11662.0
+Power$Hewlett Packard$ProLiant ML350 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$2.0$56.0$112.0$192.0$Houston$Oct 25, 2017$32.0$32.0$1024.0$39424.0$11845.0
+Power$Hewlett Packard$ProLiant DL360 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$2.0$56.0$112.0$96.0$Houston$Oct 25, 2017$32.0$32.0$1024.0$39424.0$12488.0
+Power$Hewlett Packard$ProLiant DL560 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$4.0$112.0$224.0$192.0$Houston$Oct 25, 2017$32.0$32.0$1024.0$39424.0$12120.0
+Power$Hewlett Packard$ProLiant DL580 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$4.0$112.0$224.0$192.0$Houston$Oct 25, 2017$16.0$16.0$1024.0$39424.0$11424.0
+Power$Hewlett Packard$ProLiant DL360 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$1.0$28.0$56.0$48.0$Houston$Nov 8, 2017$32.0$32.0$1024.0$39424.0$11550.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$12$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$24.0$672.0$1344.0$2304.0$Houston$Apr 25, 2018$32.0$32.0$1024.0$39424.0$10872.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$6$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$24.0$672.0$1344.0$2304.0$Houston$Apr 26, 2018$32.0$32.0$1024.0$39424.0$11021.0
+Power$Hewlett Packard$ProLiant DL385 Gen10$1$Oracle Corporation$AMD EPYC 7601 2.20 GHz$2200.0$2.0$64.0$128.0$128.0$Houston$May 1, 2018$32.0$32.0$512.0$65536.0$11044.0
+Power$Hewlett Packard$ProLiant DL385 Gen10$1$Oracle Corporation$AMD EPYC 7601 2.20 GHz$2200.0$2.0$64.0$128.0$128.0$Houston$Jul 18, 2018$32.0$32.0$512.0$65536.0$11140.0
+Power$Hewlett Packard$ProLiant DL325 Gen10$1$Oracle Corporation$AMD EPYC 7551P 2.0 GHz$2000.0$1.0$32.0$64.0$128.0$Houston$Aug 15, 2018$32.0$32.0$512.0$65536.0$8083.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$11$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$22.0$616.0$1232.0$2112.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10693.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$10$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$20.0$560.0$1120.0$1920.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10641.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$9$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$18.0$504.0$1008.0$1728.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10541.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$8$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$16.0$448.0$896.0$1536.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10429.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$7$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$14.0$392.0$784.0$1344.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10301.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$6$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$12.0$336.0$672.0$1152.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10203.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$5$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$20.0$560.0$1120.0$1920.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10855.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$4$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$16.0$448.0$896.0$1536.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10648.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$3$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$12.0$336.0$672.0$1152.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10373.0
+Power$Hewlett Packard$ProLiant DL360 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$1.0$28.0$56.0$48.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$11126.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$2$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$8.0$224.0$448.0$768.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10323.0
+Power$Hewlett Packard$ProLiant DL360 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$2.0$56.0$112.0$96.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$11709.0
+Power$Hewlett Packard$ProLiant DL560 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$4.0$112.0$224.0$192.0$Houston$Sep 12, 2018$32.0$32.0$256.0$39424.0$11463.0
+Power$Hewlett Packard$ProLiant DL380 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$2.0$56.0$112.0$96.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$11540.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$5$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$10.0$280.0$560.0$960.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10237.0
+Power$Hewlett Packard$ProLiant ML350 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$2.0$56.0$112.0$192.0$Houston$Sep 12, 2018$32.0$32.0$1024.0$39424.0$10916.0
+Power$Hewlett Packard$ProLiant DL560 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$4.0$112.0$224.0$192.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$13022.0
+Power$Hewlett Packard$ProLiant DL560 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8280 2.70GHz$2700.0$4.0$112.0$224.0$192.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$12045.0
+Power$Hewlett Packard$ProLiant DL580 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8280 2.70GHz$2700.0$4.0$112.0$224.0$384.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11234.0
+Power$Hewlett Packard$ProLiant DL580 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$4.0$112.0$224.0$384.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$12132.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$6$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$24.0$672.0$1344.0$2304.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$12042.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$5$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$20.0$560.0$1120.0$1920.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11942.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$4$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$16.0$448.0$896.0$1536.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11799.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$3$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$12.0$336.0$672.0$1152.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11547.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$2$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$8.0$224.0$448.0$768.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$10977.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$6$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$24.0$672.0$1344.0$2304.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11179.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$5$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$20.0$560.0$1120.0$1920.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11074.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$4$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$16.0$448.0$896.0$1536.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11007.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$3$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$12.0$336.0$672.0$1152.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$10754.0
+Power$Hewlett Packard$Synergy 660 Gen10 Compute Module  HPE Synergy 12000 Frame$2$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$8.0$224.0$448.0$768.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$10349.0
+Power$Hewlett Packard$ProLiant ML350 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$2.0$56.0$112.0$192.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11611.0
+Power$Hewlett Packard$ProLiant ML350 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$2.0$56.0$112.0$192.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$12272.0
+Power$Hewlett Packard$ProLiant DL360 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$1.0$28.0$56.0$48.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11637.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$12$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$24.0$672.0$1344.0$2304.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11051.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$11$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$22.0$616.0$1232.0$2112.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11017.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$10$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$20.0$560.0$1120.0$1920.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$10951.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$9$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$18.0$504.0$1008.0$1728.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$10897.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$8$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$16.0$448.0$896.0$1536.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$10825.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$7$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$14.0$392.0$784.0$1344.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$10762.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$6$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$12.0$336.0$672.0$1152.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$10684.0
+Power$Hewlett Packard$ProLiant DL360 Gen10$1$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$1.0$28.0$56.0$48.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$12384.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$5$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz$2700.0$10.0$280.0$560.0$960.0$Houston$Apr 2, 2019$32.0$32.0$1024.0$39424.0$10552.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$5$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$10.0$280.0$560.0$960.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$11215.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$4$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$8.0$224.0$448.0$768.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$10975.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$3$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$6.0$168.0$336.0$576.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$10580.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$2$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$4.0$112.0$224.0$384.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$9936.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$11$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$22.0$616.0$1232.0$2112.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$11804.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$10$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$20.0$560.0$1120.0$1920.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$11754.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$9$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$18.0$504.0$1008.0$1728.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$11676.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$8$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$16.0$448.0$896.0$1536.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$11603.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$7$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$14.0$392.0$784.0$1344.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$11516.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$6$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$12.0$336.0$672.0$1152.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$11390.0
+Power$Hewlett Packard$Synergy 480 Gen10 Compute Module  HPE Synergy 12000 Frame$12$Oracle Corporation$Intel Xeon Platinum 8280 @ 2.70GHz (Intel Turbo Boost Technology up to 4.00 GHz)$2700.0$24.0$672.0$1344.0$2304.0$Houston$May 8, 2019$32.0$32.0$1024.0$39424.0$11845.0
+Power$Hewlett Packard$ProLiant DL385 Gen10$1$Oracle Corporation$AMD EPYC 7702 2.0 GHz$2000.0$2.0$128.0$256.0$256.0$Houston$Aug 7, 2019$32.0$32.0$512.0$262144.0$18294.0
+Power$Hewlett Packard$ProLiant DL325 Gen10$1$Oracle Corporation$AMD EPYC 7702P 2.00 GHz$2000.0$1.0$64.0$128.0$128.0$Houston$Aug 7, 2019$32.0$32.0$512.0$262144.0$17349.0
+Power$Hewlett Packard$ProLiant DL385 Gen10$1$Oracle Corporation$AMD EPYC 7702 2.0 GHz$2000.0$2.0$128.0$256.0$256.0$Houston$Aug 7, 2019$32.0$32.0$512.0$262144.0$18051.0
+Power$Hewlett Packard$ProLiant DL325 Gen10$1$Oracle Corporation$AMD EPYC 7702P 2.00 GHz$2000.0$1.0$64.0$128.0$128.0$Houston$Aug 7, 2019$32.0$32.0$512.0$262144.0$15724.0
+Power$Hewlett Packard$ProLiant DL325 Gen10$1$Oracle Corporation$AMD EPYC 7702P 2.00 GHz$2000.0$1.0$64.0$128.0$128.0$Houston$Aug 14, 2019$32.0$32.0$512.0$262144.0$16226.0
+Power$Hewlett Packard$Apollo XL225n Gen10 Plus  HPE Apollo 2000 Gen10 Plus$3$Oracle Corporation$AMD EPYC 7702 2.0 GHz$2000.0$6.0$384.0$768.0$768.0$Houston$Apr 22, 2020$32.0$32.0$512.0$262144.0$17076.0
+Power$Hewlett Packard$Apollo XL225n Gen10 Plus  HPE Apollo 2000 Gen10 Plus$2$Oracle Corporation$AMD EPYC 7702 2.0 GHz$2000.0$4.0$256.0$512.0$512.0$Houston$Apr 22, 2020$32.0$32.0$512.0$262144.0$16000.0
+Power$Hewlett Packard$Apollo XL225n Gen10 Plus  HPE Apollo 2000 Gen10 Plus$4$Oracle Corporation$AMD EPYC 7702 2.0 GHz$2000.0$8.0$512.0$1024.0$1024.0$Houston$Apr 22, 2020$32.0$32.0$512.0$262144.0$17436.0
+Power$Hewlett Packard$Apollo XL225n Gen10 Plus  HPE Apollo 2000 Gen10 Plus$4$Oracle Corporation$AMD EPYC 7742 2.25 GHz$2250.0$8.0$512.0$1024.0$1024.0$Houston$Apr 22, 2020$32.0$32.0$512.0$262144.0$17530.0
+Power$Hewlett Packard$Superdome Flex 280 - 4 Socket$1$Oracle Corporation$Intel Xeon Platinum 8380HL 2.90 GHz$2900.0$4.0$112.0$224.0$768.0$Houston$Nov 4, 2020$32.0$32.0$1024.0$39424.0$7550.0
+Power$Hewlett Packard$Superdome Flex 280 - 8 Socket$1$Oracle Corporation$Intel Xeon Platinum 8380HL 2.90 GHz$2900.0$8.0$224.0$448.0$1536.0$Houston$Nov 4, 2020$32.0$32.0$1024.0$39424.0$7628.0
+Power$Hewlett Packard$Superdome Flex 280 - 4 Socket$1$Oracle Corporation$Intel Xeon Platinum 8380HL 2.90 GHz$2900.0$4.0$112.0$224.0$768.0$Houston$Nov 4, 2020$32.0$32.0$1024.0$39424.0$7446.0
+Power$Hewlett Packard$Superdome Flex 280 - 8 Socket$1$Oracle Corporation$Intel Xeon Platinum 8380HL 2.90 GHz$2900.0$8.0$224.0$448.0$1536.0$Houston$Nov 4, 2020$32.0$32.0$1024.0$39242.0$7369.0
+Power$Hewlett Packard$ProLiant DL385 Gen10 Plus$1$Oracle Corporation$AMD EPYC 7763 2.45 GHz$2450.0$2.0$128.0$256.0$256.0$Houston$Mar 15, 2021$32.0$32.0$512.0$262144.0$18329.0
+Power$Hewlett Packard$ProLiant DL365 Gen10 Plus$1$Oracle Corporation$AMD EPYC 7713 2.00 GHz$2000.0$2.0$128.0$256.0$256.0$Houston$Mar 15, 2021$32.0$32.0$512.0$262144.0$18268.0
+Power$Hewlett Packard$ProLiant DL345 Gen10 Plus$1$Oracle Corporation$AMD EPYC 7763 2.45 GHz$2450.0$1.0$64.0$128.0$128.0$Houston$Mar 15, 2021$32.0$32.0$512.0$262144.0$18260.0
+Power$Hewlett Packard$ProLiant DL325 Gen10 Plus$1$Oracle Corporation$AMD EPYC 7763 2.45 GHz$2450.0$1.0$64.0$128.0$128.0$Houston$Mar 15, 2021$32.0$32.0$512.0$262144.0$18845.0
+Power$Hewlett Packard$Apollo XL225n Gen10 Plus  Apollo 2000 Gen10 Plus$3$Oracle Corporation$AMD EPYC 7763 2.45 GHz$2450.0$6.0$384.0$768.0$768.0$Houston$Mar 15, 2021$32.0$32.0$512.0$262144.0$17266.0
+Power$Hewlett Packard$Apollo XL225n Gen10 Plus  Apollo 2000 Gen10 Plus$2$Oracle Corporation$AMD EPYC 7763 2.45 GHz$2450.0$4.0$256.0$512.0$512.0$Houston$Mar 15, 2021$32.0$32.0$512.0$262144.0$16320.0
+Power$Hewlett Packard$Apollo XL225n Gen10 Plus  Apollo 2000 Gen10 Plus$3$Oracle Corporation$AMD EPYC 7763 2.45 GHz$2450.0$6.0$384.0$768.0$768.0$Houston$Mar 15, 2021$32.0$32.0$512.0$262144.0$16205.0
+Power$Hewlett Packard$Apollo XL225n Gen10 Plus  Apollo 2000 Gen10 Plus$2$Oracle Corporation$AMD EPYC 7763 2.45 GHz$2450.0$4.0$256.0$512.0$512.0$Houston$Mar 15, 2021$32.0$32.0$512.0$262144.0$15574.0
+Power$Hewlett Packard$Apollo XL225n Gen10 Plus  Apollo 2000 Gen10 Plus$4$Oracle Corporation$AMD EPYC 7763 2.45 GHz$2450.0$8.0$512.0$1024.0$1024.0$Houston$Mar 15, 2021$32.0$32.0$512.0$262144.0$17696.0
+Power$Hewlett Packard$ProLiant DL345 Gen10 Plus$1$Oracle Corporation$AMD EPYC 7763 2.45 GHz$2450.0$1.0$64.0$128.0$128.0$Houston$Mar 15, 2021$32.0$32.0$512.0$262144.0$16823.0
+Power$Hewlett Packard$ProLiant DL380 Gen10 Plus$1$Oracle Corporation$Intel Xeon Platinum 8380 2.30 GHz$2300.0$2.0$80.0$160.0$256.0$Houston$Jun 30, 2021$32.0$48.0$1280.0$61440.0$11857.0
+Power$Hewlett Packard$ProLiant DL360 Gen10 Plus$1$Oracle Corporation$Intel Xeon Platinum 8380 2.30 GHz$2300.0$2.0$80.0$160.0$256.0$Houston$Jun 30, 2021$32.0$48.0$1280.0$61440.0$12170.0
+Power$Hewlett Packard$ProLiant DL380 Gen10 Plus$1$Oracle Corporation$Intel Xeon Platinum 8380 2.30 GHz$2300.0$2.0$80.0$160.0$256.0$Houston$Jun 30, 2021$32.0$48.0$1280.0$61440.0$11735.0
+Power$Hewlett Packard$ProLiant DL360 Gen10 Plus$1$Oracle Corporation$Intel Xeon Platinum 8380 2.30 GHz$2300.0$2.0$80.0$160.0$256.0$Houston$Jun 30, 2021$32.0$48.0$1280.0$61440.0$12052.0
+Power$Hewlett Packard$ProLiant DL110 Gen10 Plus$1$Oracle Corporation$Intel Xeon Gold 6314U CPU @ 2.30GHz (Intel Turbo Boost Technology up to 3.4GHz)$2300.0$1.0$32.0$64.0$64.0$Houston$Aug 31, 2021$32.0$32.0$1310720.0$49152.0$9581.0
+Power$Hewlett Packard$ProLiant DL110 Gen10 Plus$1$Oracle Corporation$Intel Xeon Gold 6314U CPU @ 2.30GHz (Intel Turbo Boost Technology up to 3.4GHz)$2300.0$1.0$32.0$64.0$64.0$Houston$Aug 31, 2021$32.0$32.0$1280.0$49152.0$9247.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$5$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz (Intel Turbo Boost Technology up to 3.4GHz)$2300.0$10.0$400.0$800.0$1280.0$Houston$Feb 3, 2022$32.0$48.0$1280.0$61440.0$11254.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$8$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz (Intel Turbo Boost Technology up to 3.4GHz)$2300.0$16.0$640.0$1280.0$2048.0$Houston$Feb 3, 2022$32.0$48.0$1280.0$61440.0$11621.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$9$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz (Intel Turbo Boost Technology up to 3.4GHz)$2300.0$18.0$720.0$1440.0$2304.0$Houston$Feb 3, 2022$32.0$48.0$1280.0$61440.0$11716.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$11$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz (Intel Turbo Boost Technology up to 3.4GHz)$2300.0$22.0$880.0$1760.0$2816.0$Houston$Feb 3, 2022$32.0$48.0$1280.0$61440.0$11807.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$10$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz (Intel Turbo Boost Technology up to 3.4GHz)$2300.0$20.0$800.0$1600.0$2560.0$Houston$Feb 3, 2022$32.0$48.0$1280.0$61440.0$11765.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$12$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz (Intel Turbo Boost Technology up to 3.4GHz)$2300.0$24.0$960.0$1920.0$3072.0$Houston$Feb 3, 2022$32.0$48.0$1280.0$61440.0$11849.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$5$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz$2300.0$10.0$400.0$800.0$1280.0$Houston$Feb 16, 2022$32.0$48.0$1280.0$61440.0$11291.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$6$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz$2300.0$12.0$480.0$960.0$1536.0$Houston$Feb 16, 2022$32.0$48.0$1280.0$61440.0$11470.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$10$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz$2300.0$20.0$800.0$1600.0$2560.0$Houston$Feb 16, 2022$32.0$48.0$1280.0$61440.0$11819.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$9$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz$2300.0$18.0$720.0$1440.0$2304.0$Houston$Feb 16, 2022$32.0$48.0$1280.0$61440.0$11761.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$8$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz$2300.0$16.0$640.0$1280.0$2048.0$Houston$Feb 16, 2022$32.0$48.0$1280.0$61440.0$11670.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$7$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz$2300.0$14.0$560.0$1120.0$1792.0$Houston$Feb 16, 2022$32.0$48.0$1280.0$61440.0$11590.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$12$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz$2300.0$24.0$960.0$1920.0$3072.0$Houston$Feb 16, 2022$32.0$48.0$1280.0$61440.0$11894.0
+Power$Hewlett Packard$Synergy 480 Gen10 Plus Compute Module  HPE Synergy 12000 Frame$11$Oracle Corporation$Intel Xeon Platinum 8380 CPU @ 2.30GHz$2300.0$22.0$880.0$1760.0$2816.0$Houston$Feb 16, 2022$32.0$48.0$1280.0$61440.0$11845.0
+Power$Hewlett Packard$ProLiant DL325 Gen10 Plus$1$Oracle Corporation$AMD EPYC 7773X 2.20 GHz$2200.0$1.0$64.0$128.0$128.0$Houston$Mar 24, 2022$32.0$32.0$512.0$786432.0$19510.0
+Power$Hewlett Packard$ProLiant DL385 Gen10 Plus$1$Oracle Corporation$AMD EPYC 7773X 2.20 GHz$2200.0$2.0$128.0$256.0$256.0$Houston$Mar 24, 2022$32.0$32.0$512.0$786432.0$19629.0
+Power$Hewlett Packard$ProLiant DL20 Gen10 Plus$1$Oracle Corporation$Intel(R) Xeon(R) E-2388G CPU 3.20GHz$3200.0$1.0$8.0$16.0$16.0$Houston$Mar 24, 2022$32.0$48.0$512.0$16384.0$9366.0
+Power$Hewlett Packard$ProLiant ML30 Gen10 Plus$1$Oracle Corporation$Intel(R) Xeon(R) E-2388G CPU 3.20GHz$3200.0$1.0$8.0$16.0$16.0$Houston$Mar 24, 2022$32.0$48.0$512.0$16384.0$9800.0
+Power$Hewlett Packard$ProLiant ML30 Gen10 Plus$1$Oracle Corporation$Intel(R) Xeon(R) E-2388G CPU 3.20GHz$3200.0$1.0$8.0$16.0$16.0$Houston$Mar 24, 2022$32.0$48.0$512.0$16384.0$10299.0
+Power$Hewlett Packard$ProLiant DL20 Gen10 Plus$1$Oracle Corporation$Intel(R) Xeon(R) E-2388G CPU 3.20GHz$3200.0$1.0$8.0$16.0$16.0$Houston$Mar 24, 2022$32.0$48.0$512.0$16384.0$9658.0
+Power$Hewlett Packard$ProLiant DL385 Gen11$1$Oracle Corporation$AMD EPYC 9654 2.40 GHz$2400.0$2.0$192.0$384.0$384.0$Houston$Nov 10, 2022$32.0$32.0$1024.0$393216.0$26228.0
+Power$Hewlett Packard$ProLiant DL365 Gen11$1$Oracle Corporation$AMD EPYC 9654 2.40 GHz$2400.0$2.0$192.0$384.0$384.0$Houston$Nov 10, 2022$32.0$32.0$1024.0$393216.0$25333.0
+Power$Hewlett Packard$ProLiant DL345 Gen11$1$Oracle Corporation$AMD EPYC 9654P 2.40 GHz$2400.0$1.0$96.0$192.0$192.0$Houston$Nov 10, 2022$32.0$32.0$1024.0$393216.0$25537.0
+Power$Hewlett Packard$ProLiant DL325 Gen11$1$Oracle Corporation$AMD EPYC 9654P 2.40 GHz$2400.0$1.0$96.0$192.0$192.0$Houston$Nov 10, 2022$32.0$32.0$1024.0$393216.0$23299.0
+Power$Hewlett Packard$ProLiant DL385 Gen11$1$Oracle Corporation$AMD EPYC 9654 2.40 GHz$2400.0$2.0$192.0$384.0$384.0$Houston$Nov 10, 2022$32.0$32.0$1024.0$393216.0$22881.0
+Power$Hewlett Packard$ProLiant DL365 Gen11$1$Oracle Corporation$AMD EPYC 9654 2.40 GHz$2400.0$2.0$192.0$384.0$384.0$Houston$Nov 10, 2022$32.0$32.0$1024.0$393216.0$22006.0
+Power$Hewlett Packard$ProLiant DL345 Gen11$1$Oracle Corporation$AMD EPYC 9654P 2.40 GHz$2400.0$1.0$96.0$192.0$192.0$Houston$Nov 10, 2022$32.0$32.0$1024.0$393216.0$22178.0
+Power$Hewlett Packard$ProLiant DL325 Gen11$1$Oracle Corporation$AMD EPYC 9654P 2.40 GHz$2400.0$1.0$96.0$192.0$192.0$Houston$Nov 10, 2022$32.0$32.0$1024.0$393216.0$20294.0
+Power$Hewlett Packard$ProLiant ML350 Gen11$1$Oracle Corporation$Intel Xeon Platinum 8480+ 2.0 GHz$2000.0$2.0$112.0$224.0$256.0$Houston$Jan 10, 2023$32.0$48.0$2048.0$107520.0$13061.0
+Power$Hewlett Packard$ProLiant ML350 Gen11$1$Oracle Corporation$Intel Xeon Platinum 8480+ 2.0 GHz$2000.0$2.0$112.0$224.0$256.0$Houston$Jan 10, 2023$32.0$48.0$2048.0$107520.0$13006.0
+Power$Hewlett Packard$ProLiant DL380 Gen11$1$Oracle Corporation$Intel Xeon Platinum 8480+ 2.0 GHz$2000.0$2.0$112.0$224.0$256.0$Houston$Feb 9, 2023$32.0$48.0$2048.0$107520.0$13296.0
+Power$Hewlett Packard$ProLiant DL380 Gen11$1$Oracle Corporation$Intel Xeon Platinum 8480+ 2.0 GHz$2000.0$2.0$112.0$224.0$256.0$Houston$Feb 9, 2023$32.0$48.0$2048.0$107520.0$13288.0
+Power$Hewlett Packard$ProLiant DL360 Gen11$1$Oracle Corporation$Intel Xeon Platinum 8480+ 2.0 GHz$2000.0$2.0$112.0$224.0$256.0$Houston$Feb 9, 2023$32.0$48.0$2048.0$107520.0$12609.0
+Power$Hewlett Packard$ProLiant DL360 Gen11$1$Oracle Corporation$Intel Xeon Platinum 8480+ 2.0 GHz$2000.0$2.0$112.0$224.0$256.0$Houston$Feb 9, 2023$32.0$48.0$2048.0$107520.0$12756.0
+Power$Hewlett Packard$ProLiant DL320 Gen11$1$Oracle Corporation$Intel Xeon Gold 6454S 2.20 GHz (Intel Turbo Boost Technology up to 3.40 GHz)$2200.0$1.0$32.0$64.0$128.0$Houston$May 3, 2023$32.0$48.0$2048.0$61440.0$8832.0
+Power$Hewlett Packard$ProLiant ML110 Gen11$1$Oracle Corporation$Intel Xeon Gold 6454S 2.20 GHz (Intel Turbo Boost Technology up to 3.40 GHz)$2200.0$1.0$32.0$64.0$128.0$Houston$May 3, 2023$32.0$48.0$2048.0$61440.0$9457.0
+Power$Hewlett Packard$ProLiant DL320 Gen11$1$Oracle Corporation$Intel Xeon Gold 6454S 2.20 GHz (Intel Turbo Boost Technology up to 3.40 GHz)$2200.0$1.0$32.0$64.0$128.0$Houston$May 3, 2023$32.0$48.0$2048.0$61440.0$8690.0
+Power$Hewlett Packard$ProLiant ML110 Gen11$1$Oracle Corporation$Intel Xeon Gold 6454S 2.20 GHz (Intel Turbo Boost Technology up to 3.40 GHz)$2200.0$1.0$32.0$64.0$128.0$Houston$May 3, 2023$32.0$48.0$2048.0$61440.0$9765.0
+Power$Hewlett Packard$ProLiant DL380a Gen11$1$Oracle Corporation$Intel Xeon Platinum 8480+ 2.0 GHz$2000.0$2.0$112.0$224.0$256.0$Houston$May 3, 2023$32.0$48.0$2048.0$107520.0$12804.0
+Power$Hewlett Packard$ProLiant DL560 Gen11$1$Oracle Corporation$Intel Xeon Platinum 8490H 1.90 GHz$1900.0$4.0$240.0$480.0$512.0$Houston$May 3, 2023$32.0$48.0$2048.0$115200.0$12674.0
+Power$Hewlett Packard$ProLiant DL560 Gen11$1$Oracle Corporation$Intel Xeon Platinum 8490H 1.90 GHz$1900.0$4.0$240.0$480.0$512.0$Houston$May 3, 2023$32.0$48.0$2048.0$115200.0$12582.0
+Power$Hewlett Packard$ProLiant DL380a Gen11$1$Oracle Corporation$Intel Xeon Platinum 8480+ 2.0 GHz$2000.0$2.0$112.0$224.0$256.0$Houston$May 3, 2023$32.0$48.0$2048.0$107520.0$12745.0
+Power$Hewlett Packard$ProLiant DL385 G6 (2.6GHz, AMD Opteron 2435 processor)$1$Oracle Corporation$2.6 GHz AMD Opteron 2435$2600.0$2.0$12.0$12.0$16.0$Houston$Jul 2, 2009$64.0$64.0$524288.0$6144.0$1307.0
+Power$Hewlett Packard$Proliant DL360 G5 (3.0 GHz, Intel Xeon processor E5450)$1$BEA System$Intel Xeon E5450$3000.0$2.0$8.0$8.0$16.0$Houston$Dec 11, 2007$32.0$32.0$12288.0$0.0$662.0
+Power$Hewlett Packard$Proliant DL160 G5 (3.0 GHz, Intel Xeon processor E5450)$1$BEA System$Intel Xeon E5450$3000.0$2.0$8.0$8.0$16.0$Houston$Dec 11, 2007$32.0$32.0$12288.0$0.0$698.0
+Power$Hewlett Packard$Proliant DL580 G5 (1.86 GHz, Intel Xeon processor L7345)$1$BEA System$Intel Xeon L7345$1860.0$4.0$16.0$16.0$16.0$Houston$Dec 11, 2007$32.0$32.0$8192.0$0.0$546.0
+Power$Hewlett Packard$Proliant DL180 G5 (3.00 GHz, Intel Xeon processor E5450)$1$BEA System$Intel Xeon E5450$3000.0$2.0$8.0$8.0$16.0$Houston$Jan 30, 2008$32.0$32.0$12288.0$0.0$778.0
+Power$Hewlett Packard$ProLiant DL180 G5 (2.50 GHz, Intel Xeon processor L5420)$1$BEA System$Intel Xeon L5420$2500.0$2.0$8.0$8.0$8.0$Houston$May 21, 2008$32.0$32.0$12288.0$0.0$930.0
+Power$Hewlett Packard$ProLiant DL360 G5 (3.00 GHz, Intel Xeon processor E5450)$1$BEA System$Intel Xeon E5450$3000.0$2.0$8.0$8.0$16.0$Houston$Jun 4, 2008$32.0$32.0$12288.0$0.0$0.0
+Power$Hewlett Packard$ProLiant DL160 G5 (2.50 GHz, Intel Xeon processor L5420)$1$BEA System$Intel Xeon L5420$2500.0$2.0$8.0$8.0$16.0$Houston$Jun 18, 2008$32.0$32.0$12288.0$0.0$734.0
+Power$Hewlett Packard$ProLiant DL120 G5 (2.83 GHz, Intel Xeon processor X3360)$1$BEA System$Intel Xeon X3360$2833.0$1.0$4.0$4.0$8.0$Houston$Jun 20, 2008$32.0$32.0$12288.0$0.0$908.0
+Power$Hewlett Packard$ProLiant DL385 G5 (2.30GHz, AMD Opteron processor 2356)$1$Oracle Corporation$AMD Opteron 2356$2300.0$2.0$8.0$8.0$8.0$Houston$Nov 20, 2008$64.0$64.0$512.0$2048.0$498.0
+Power$Hewlett Packard$ProLiant DL585 G5 (2.70GHz, AMD Opteron 8384)$1$Oracle Corporation$AMD Opteron 8384$2700.0$4.0$16.0$16.0$16.0$Houston$Dec 4, 2008$64.0$64.0$512.0$6144.0$763.0
+Power$Hewlett Packard$ProLiant DL385 G5p (2.70GHz, AMD Opteron processor 2384)$1$Oracle Corporation$AMD Opteron 2384$2700.0$2.0$8.0$8.0$8.0$Houston$Dec 4, 2008$64.0$64.0$512.0$6144.0$835.0
+Power$Hewlett Packard$ProLiant DL365 G5 (2.70GHz, AMD Opteron processor 2384)$1$BEA System$AMD Opteron 2384$2700.0$2.0$8.0$8.0$8.0$Houston$Jan 14, 2009$64.0$64.0$512.0$6144.0$817.0
+Power$Hewlett Packard$ProLiant DL785 G5 (2.30GHz, AMD Opteron 8376 HE)$1$Oracle Corporation$Quad-Core AMD Opteron(r) Processor 8376 HE$2300.0$8.0$32.0$32.0$32.0$Cupertino$Feb 25, 2009$64.0$64.0$512.0$6144.0$866.0
+Power$Hewlett Packard$ProLiant DL785 G5 (2.30GHz, AMD Opteron 8376 HE)$1$Oracle Corporation$Quad-Core AMD Opteron(r) Processor 8376 HE$2300.0$8.0$32.0$32.0$32.0$Cupertino$Feb 25, 2009$64.0$64.0$512.0$6144.0$872.0
+Power$Hewlett Packard$ProLiant DL380 G6 (2.26GHz, Intel Xeon L5520 processor)$1$Oracle Corporation$Intel Xeon L5520$2266.0$2.0$8.0$16.0$8.0$Houston$Apr 8, 2009$32.0$32.0$256.0$8192.0$0.0
+Power$Hewlett Packard$ProLiant DL380 G5 (3.00GHz, Intel Xeon 5160 processor)$1$BEA System$Intel Xeon 5160$3000.0$2.0$4.0$4.0$8.0$Houston$Apr 8, 2009$32.0$32.0$4096.0$0.0$382.0
+Power$Hewlett Packard$ProLiant DL380 G5 (2.66GHz, Intel Xeon L5430 processor)$1$BEA System$Intel Xeon L5430$2666.0$2.0$8.0$8.0$16.0$Houston$Apr 8, 2009$32.0$32.0$12288.0$0.0$734.0
+Power$Hewlett Packard$ProLiant DL380 G4 (3.8GHz, Intel Xeon processor)$1$Sun Microsystems$Intel Xeon 3.8GHz$3800.0$2.0$2.0$4.0$8.0$Houston$Apr 8, 2009$12.0$16.0$2048.0$0.0$45.2
+Power$Hewlett Packard$ProLiant DL360 G6 (2.93GHz, Intel Xeon processor X5570)$1$Oracle Corporation$Intel Xeon X5570$2933.0$2.0$8.0$16.0$8.0$Houston$Apr 23, 2009$32.0$32.0$256.0$8192.0$1586.0
+Power$Hewlett Packard$ProLiant DL785 G5 (2.50GHz, AMD Opteron 8381 HE)$1$Oracle Corporation$Quad-Core AMD Opteron(r) Processor 8381 HE$2500.0$8.0$32.0$32.0$32.0$Cupertino$Jun 3, 2009$64.0$64.0$512.0$6144.0$905.0
+Power$Hewlett Packard$ProLiant DL785 G5 (2.50GHz, AMD Opteron 8381 HE)$1$Oracle Corporation$Quad-Core AMD Opteron(r) Processor 8381 HE$2500.0$8.0$32.0$32.0$32.0$Cupertino$Jun 3, 2009$64.0$64.0$512.0$6144.0$927.0
+Power$Hewlett Packard$ProLiant SL2x170z G6  ProLiant SL6000$4$Oracle Corporation$Intel Xeon L5520$2267.0$8.0$32.0$64.0$32.0$Houston$Jul 2, 2009$32.0$32.0$256.0$8192.0$0.0
+Power$Hewlett Packard$ProLiant BL280c G6  HP BladeSystem c7000 Enclosure$16$Oracle Corporation$Intel Xeon L5520$2267.0$32.0$128.0$256.0$128.0$Houston$Jul 15, 2009$32.0$32.0$256.0$8192.0$1877.0
+Power$Hewlett Packard$ProLiant DL360 G6$1$Oracle Corporation$Intel Xeon L5520$2267.0$2.0$8.0$16.0$8.0$Houston$Aug 5, 2009$32.0$32.0$256.0$8192.0$0.0
+Power$Hewlett Packard$ProLiant DL385 G6 (2.6GHz, AMD Opteron 2435 processor)$1$IBM Corporation$2.6 GHz AMD Opteron 2435$2600.0$2.0$12.0$12.0$16.0$Houston$Aug 26, 2009$64.0$64.0$512.0$6144.0$1394.0
+Power$Hewlett Packard$ProLiant DL785 G6 (2.1 GHz, AMD Opteron 8425 HE)$1$IBM Corporation$Six-Core AMD Opteron(r) Processor 8425 HE$2100.0$8.0$48.0$48.0$32.0$Cupertino$Sep 14, 2009$64.0$64.0$512.0$6144.0$1297.0
+Power$Hewlett Packard$ProLiant SL2x170z G6 (2.4 GHz, Intel Xeon L5530)  ProLiant SL6000$4$IBM Corporation$Intel Xeon L5530$2400.0$8.0$32.0$64.0$32.0$Houston$Nov 4, 2009$32.0$32.0$256.0$8192.0$2316.0
+Power$Hewlett Packard$ProLiant DL360 G6$1$IBM Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$Houston$Nov 4, 2009$32.0$32.0$256.0$8192.0$2013.0
+Power$Hewlett Packard$ProLiant DL380 G6$1$IBM Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$Houston$Nov 4, 2009$32.0$32.0$256.0$8192.0$2012.0
+Power$Hewlett Packard$ProLiant BL2x220c G6  HP BladeSystem c7000 Enclosure$32$IBM Corporation$Intel Xeon L5520$2266.0$64.0$256.0$512.0$256.0$Houston$Nov 18, 2009$32.0$32.0$256.0$8192.0$2113.0
+Power$Hewlett Packard$ProLiant DL170h G6 (2.4 GHz, Intel Xeon L5530)  ProLiant h1000 G6$4$IBM Corporation$Intel Xeon L5530$2400.0$8.0$32.0$64.0$32.0$Houston$Jan 13, 2010$32.0$32.0$262144.0$8192.0$2188.0
+Power$Hewlett Packard$ProLiant DL385 G7 (2.2GHz, AMD Opteron 6174)$1$IBM Corporation$AMD Opteron 6174$2200.0$2.0$12.0$24.0$16.0$Houston$Apr 7, 2010$64.0$64.0$524288.0$12288.0$2355.0
+Power$Hewlett Packard$ProLiant SL2X170z G6  ProLiant SL6000$4$IBM Corporation$Intel Xeon X5670$2933.0$8.0$48.0$96.0$64.0$Houston$Apr 21, 2010$32.0$32.0$262144.0$8192.0$3106.0
+Power$Hewlett Packard$ProLiant DL360 G6 (2.93 GHz, Intel Xeon X5670 processor)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$16.0$Houston$Apr 21, 2010$32.0$32.0$256.0$12288.0$2692.0
+Power$Hewlett Packard$ProLiant DL380 G6 (2.93 GHz, Intel Xeon X5670 processor)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$16.0$Houston$Apr 21, 2010$32.0$32.0$256.0$12288.0$2780.0
+Power$Hewlett Packard$ProLiant DL170h G6 (2.93 GHz, Intel Xeon X5670 processor)  ProLiant h1000 G6$4$IBM Corporation$Intel Xeon X5670$2933.0$8.0$48.0$96.0$64.0$Houston$Apr 21, 2010$32.0$32.0$256.0$12288.0$2882.0
+Power$Hewlett Packard$ProLiant DL170h G6 (2.93 GHz, Intel Xeon X5670 processor)  ProLiant h1000 G6$4$IBM Corporation$Intel Xeon X5670$2933.0$8.0$48.0$96.0$64.0$Houston$May 13, 2010$32.0$32.0$256.0$12288.0$3008.0
+Power$Hewlett Packard$ProLiant SL2x170z G6  ProLiant SL6000$4$IBM Corporation$Intel Xeon L5530$2400.0$8.0$32.0$64.0$32.0$Houston$Jun 2, 2010$32.0$32.0$256.0$8192.0$2357.0
+Power$Hewlett Packard$ProLiant SL2x170z G6  ProLiant SL6000$4$IBM Corporation$Intel Xeon L5640$2267.0$8.0$48.0$96.0$64.0$Houston$Jun 17, 2010$32.0$32.0$262144.0$12288.0$3210.0
+Power$Hewlett Packard$ProLiant DL360 G7 (2.26 GHz, Intel Xeon L5640 processor)$1$IBM Corporation$Intel Xeon L5640$2266.0$2.0$12.0$24.0$16.0$Houston$Jul 28, 2010$32.0$32.0$256.0$12288.0$2979.0
+Power$Hewlett Packard$ProLiant DL380 G7 (2.26 GHz, Intel Xeon L5640 processor)$1$IBM Corporation$Intel Xeon L5640$2266.0$2.0$12.0$24.0$16.0$Houston$Aug 11, 2010$32.0$32.0$256.0$12288.0$3052.0
+Power$Hewlett Packard$ProLiant DL170e G6  HP ProLiant DL2000$4$IBM Corporation$Intel Xeon L5640$2267.0$8.0$48.0$96.0$64.0$Houston$Dec 1, 2010$32.0$32.0$256.0$12288.0$3212.0
+Power$Hewlett Packard$ProLiant DL380 G7 (3.07 GHz, Intel Xeon X5675 processor)$1$IBM Corporation$Intel Xeon X5675$3067.0$2.0$12.0$24.0$16.0$Houston$Feb 24, 2011$32.0$32.0$256.0$12288.0$3197.0
+Power$Hewlett Packard$ProLiant SL170s G6 (3.06 GHz, Intel Xeon X5675 processor)  ProLiant SL6500$8$Oracle Corporation$Intel Xeon X5675$3067.0$16.0$96.0$192.0$128.0$Houston$Oct 4, 2011$32.0$32.0$256.0$12288.0$3322.0
+Power$Hewlett Packard$ProLiant DL360 G7 (3.07 GHz, Intel Xeon X5675 processor)$1$Oracle Corporation$Intel Xeon X5675$3067.0$2.0$12.0$24.0$16.0$Houston$Oct 19, 2011$32.0$32.0$256.0$12288.0$3329.0
+Power$Hewlett Packard$ProLiant DL165 G7 (2.30 GHz, AMD Opteron 6276 processor)$1$IBM Corporation$AMD Opteron 6276$2300.0$2.0$32.0$32.0$32.0$Houston$Nov 14, 2011$512.0$256.0$16384.0$16384.0$2881.0
+Power$Hewlett Packard$ProLiant DL385p Gen8 (2.50 GHz, AMD Opteron 6380 processor)$1$IBM Corporation$AMD Opteron 6380$2500.0$2.0$32.0$32.0$64.0$Houston$Dec 3, 2012$512.0$256.0$16384.0$16384.0$4116.0
+Power$Hewlett Packard$ProLiant DL560 Gen9$1$IBM Corporation$Intel Xeon E5-4669 v3 2.10 GHz$2100.0$4.0$72.0$144.0$128.0$Houston$Sep 29, 2015$32.0$32.0$262144.0$46080.0$0.0
+Power$Hewlett Packard$ProLiant DL580 G3$1$Oracle Corporation$Intel Xeon Processor 7020$2660.0$4.0$8.0$16.0$16.0$Durham$Feb 17, 2011$16.0$16.0$2048.0$0.0$61.1
+Power$Hewlett Packard$ProLiant DL580 G4$1$Oracle Corporation$Intel Xeon Processor 7110M$2600.0$4.0$8.0$16.0$16.0$Durham$Feb 17, 2011$16.0$16.0$4096.0$0.0$114.0
+Power$Hewlett Packard$ProLiant ML110 G4$1$Oracle Corporation$Intel Xeon Processor 3040$1860.0$1.0$2.0$2.0$4.0$Durham$Feb 17, 2011$32.0$32.0$2048.0$0.0$268.0
+Power$Hewlett Packard$ProLiant ML110 G5$1$Oracle Corporation$Intel Xeon Processor 3075$2660.0$1.0$2.0$2.0$4.0$Durham$Feb 17, 2011$32.0$32.0$4096.0$0.0$431.0
+Power$Hewlett Packard$ProLiant DL360 G4p (Historical)$1$Oracle Corporation$Intel Xeon Processor 3.4 GHz$3400.0$2.0$2.0$1.0$6.0$Durham$Feb 23, 2011$12.0$16.0$2048.0$0.0$95.9
+Power$Hewlett Packard$ProLiant ML110 G3 (Historical)$1$Oracle Corporation$Intel Pentium D Processor 930$3000.0$1.0$2.0$2.0$4.0$Durham$Feb 23, 2011$16.0$16.0$4096.0$0.0$190.0
+Power$Hewlett Packard$ProLiant DL580 G5 (Historical)$1$Oracle Corporation$Intel Xeon Processor E7330$2400.0$4.0$16.0$16.0$64.0$Durham$Feb 23, 2011$32.0$32.0$6144.0$0.0$489.0
+Power$Hitachi$HA8000/RS440 (AK1)$1$IBM Corporation$Intel Xeon X7560$2260.0$4.0$32.0$64.0$128.0$Hadano$Feb 23, 2011$32.0$32.0$256.0$24576.0$1212.0
+Power$Hitachi$HA8000/SS10 (DK1)$1$IBM Corporation$Intel Core i3-540$3067.0$1.0$2.0$4.0$8.0$Hadano$Feb 23, 2011$32.0$32.0$256.0$4096.0$1701.0
+Power$Hitachi$HA8000/TS10 (FK1)$1$IBM Corporation$Intel Xeon X3480$3067.0$1.0$4.0$8.0$8.0$Hadano$Feb 23, 2011$32.0$32.0$256.0$8192.0$2018.0
+Power$Hitachi$HA8000/RS110 (CK1)$1$IBM Corporation$Intel Xeon X3480$3067.0$1.0$4.0$8.0$8.0$Hadano$Feb 23, 2011$32.0$32.0$256.0$8192.0$1787.0
+Power$Hitachi$BS320 Server Blade C51P5  Server Chassis BS320A$10$IBM Corporation$Intel Xeon X5675$3067.0$20.0$120.0$240.0$240.0$Hadano$Feb 23, 2011$32.0$32.0$256.0$12288.0$2377.0
+Power$Hitachi$HA8000/TS20 (LK1)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$24.0$Hadano$Mar 9, 2011$32.0$32.0$256.0$12288.0$2075.0
+Power$Hitachi$HA8000/RS210 (LK1)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$24.0$Hadano$Mar 9, 2011$32.0$32.0$256.0$12288.0$2125.0
+Power$Hitachi$HA8000/RS220 (LK1)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$24.0$Hadano$Mar 9, 2011$32.0$32.0$256.0$12288.0$2126.0
+Power$Hitachi$BS2000 Server Blade E55A2  Server Chassis BS2000A$8$IBM Corporation$Intel Xeon X5675$3067.0$16.0$96.0$192.0$192.0$Hadano$Mar 9, 2011$32.0$32.0$256.0$12288.0$2059.0
+Power$Hitachi$HA8000-bd/BD10X1  HA8000-bd 5U Base Unit$40$IBM Corporation$Intel Core i7 610E$2533.0$40.0$80.0$160.0$320.0$Hadano$Apr 12, 2011$32.0$32.0$256.0$4096.0$1856.0
+Power$Hitachi$HA8000/RS210 (AL)$1$IBM Corporation$Intel Xeon X5675$3066.0$2.0$12.0$24.0$48.0$Hadano$Aug 10, 2011$32.0$32.0$256.0$12288.0$2229.0
+Power$Hitachi$HA8000/RS220 (AL)$1$IBM Corporation$Intel Xeon X5675$3066.0$2.0$12.0$24.0$48.0$Hadano$Aug 10, 2011$32.0$32.0$256.0$12288.0$2204.0
+Power$Hitachi$HA8000/TS20 (AL)$1$IBM Corporation$Intel Xeon X5675$3066.0$2.0$12.0$24.0$48.0$Hadano$Aug 10, 2011$32.0$32.0$256.0$12288.0$2149.0
+Power$Hitachi$HA8000/RS440 (AL)$1$IBM Corporation$Intel Xeon E7-4870$2400.0$4.0$40.0$80.0$128.0$Hadano$Aug 10, 2011$32.0$32.0$256.0$30720.0$1816.0
+Power$Hitachi$HA8000/RS110 (DL)$1$IBM Corporation$Intel Xeon E3-1280$3500.0$1.0$4.0$8.0$8.0$Hadano$Aug 24, 2011$32.0$32.0$256.0$8192.0$2876.0
+Power$Hitachi$HA8000/SS10 (DL)$1$IBM Corporation$Intel Xeon E3-1220$3100.0$1.0$4.0$4.0$8.0$Hadano$Aug 24, 2011$32.0$32.0$256.0$8192.0$3026.0
+Power$Hitachi$HA8000/TS10 (DL)$1$IBM Corporation$Intel Xeon E3-1280$3500.0$1.0$4.0$8.0$8.0$Hadano$Aug 24, 2011$32.0$32.0$256.0$8192.0$3552.0
+Power$Hitachi$BS2000 Server Blade E57A2  Server Chassis BS2000A$8$IBM Corporation$Intel Xeon processor E7-8870$2400.0$16.0$160.0$320.0$256.0$Hadano$Nov 9, 2011$32.0$32.0$256.0$30720.0$1586.0
+Power$Hitachi$HA8000/TS20BM$1$Oracle Corporation$Intel Xeon E5-2470$2300.0$2.0$16.0$32.0$32.0$Hadano$Aug 22, 2012$32.0$32.0$256.0$20480.0$3987.0
+Power$Hitachi$HA8000/RS210-hHM$1$Oracle Corporation$Intel Xeon E5-2670$2600.0$2.0$16.0$32.0$32.0$Hadano$Aug 22, 2012$32.0$32.0$256.0$20480.0$3597.0
+Power$Hitachi$HA8000/RS220-hHM$1$Oracle Corporation$Intel Xeon E5-2670$2600.0$2.0$16.0$32.0$32.0$Hadano$Aug 22, 2012$32.0$32.0$256.0$20480.0$3677.0
+Power$Hitachi$HA8000/RS210AM$1$Oracle Corporation$Intel Xeon E5-2470$2300.0$2.0$16.0$32.0$32.0$Hadano$Aug 22, 2012$32.0$32.0$256.0$20480.0$3775.0
+Power$Hitachi$HA8000/RS110-hHM$1$Oracle Corporation$Intel Xeon E5-2470$2300.0$1.0$8.0$16.0$16.0$Hadano$Aug 22, 2012$32.0$32.0$256.0$20480.0$3224.0
+Power$Hitachi$HA8000/RS220AM$1$Oracle Corporation$Intel Xeon E5-2470$2300.0$2.0$16.0$32.0$32.0$Hadano$Aug 22, 2012$32.0$32.0$256.0$20480.0$3911.0
+Power$Hitachi$HA8000/TS10-hJM$1$Oracle Corporation$Intel Xeon E5-2470$2300.0$1.0$8.0$16.0$16.0$Hadano$Aug 22, 2012$32.0$32.0$256.0$20480.0$3501.0
+Power$Hitachi$HA8000/RS110 (DL2)$1$IBM Corporation$Intel Xeon E3-1280v2$3600.0$1.0$4.0$8.0$8.0$Hadano$Mar 6, 2013$32.0$32.0$256.0$8192.0$3744.0
+Power$Hitachi$HA8000/TS10 (DL2)$1$IBM Corporation$Intel Xeon E3-1280v2$3600.0$1.0$4.0$8.0$8.0$Hadano$Mar 20, 2013$32.0$32.0$256.0$8192.0$4342.0
+Power$Hitachi$HA8000/SS10 (DL2)$1$IBM Corporation$Intel Xeon E3-1220v2 (Intel Turbo Boost Technology up to 3.50 GHz)$3100.0$1.0$4.0$4.0$8.0$Hadano$Mar 20, 2013$32.0$32.0$256.0$8192.0$3963.0
+Power$Huawei$XH310  Tecal X6000$4$IBM Corporation$Intel Xeon X3480$3067.0$4.0$16.0$32.0$32.0$Shen Zhen$Nov 10, 2010$32.0$32.0$256.0$8192.0$2286.0
+Power$Huawei$XH310  Tecal X6000$4$IBM Corporation$Intel Xeon X3470$2933.0$4.0$16.0$32.0$32.0$Shen Zhen$Nov 10, 2010$32.0$32.0$256.0$8192.0$2234.0
+Power$Huawei$XH620  Tecal T6000$2$IBM Corporation$Intel Xeon X5670$2930.0$4.0$24.0$48.0$24.0$Shen Zhen$Mar 9, 2011$32.0$32.0$256.0$12288.0$3041.0
+Power$Huawei$XH620  Tecal T6000$2$IBM Corporation$Intel Xeon X5675$3067.0$4.0$24.0$48.0$32.0$Shen Zhen$Jul 13, 2011$32.0$32.0$256.0$12288.0$3152.0
+Power$Huawei$RH2285$1$IBM Corporation$Intel Xeon L5640$2266.0$2.0$12.0$24.0$16.0$Shen Zhen$Nov 2, 2011$32.0$32.0$256.0$12288.0$3199.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$32.0$Shen Zhen$Mar 28, 2012$32.0$32.0$256.0$20480.0$4376.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2650L$1800.0$2.0$16.0$32.0$32.0$Shen Zhen$Mar 28, 2012$32.0$32.0$256.0$20480.0$4186.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2670$2600.0$2.0$16.0$32.0$32.0$Shen Zhen$Mar 28, 2012$32.0$32.0$256.0$20480.0$4590.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2650L$1800.0$2.0$16.0$32.0$32.0$Shen Zhen$Mar 28, 2012$32.0$32.0$256.0$20480.0$4369.0
+Power$Huawei$XH621 V2  Tecal X6000$2$IBM Corporation$Intel Xeon E5-2650L$1800.0$4.0$32.0$64.0$64.0$Shen Zhen$Mar 28, 2012$32.0$32.0$256.0$20480.0$3712.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$32.0$Shen Zhen$May 2, 2012$32.0$32.0$256.0$20480.0$4669.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$48.0$Shen Zhen$May 2, 2012$32.0$32.0$256.0$20480.0$4752.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$48.0$Shen Zhen$May 2, 2012$32.0$32.0$256.0$20480.0$4830.0
+Power$Huawei$RH2288 V2$1$Oracle Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$16.0$Shen Zhen$May 16, 2012$32.0$32.0$256.0$20480.0$5088.0
+Power$Huawei$RH2288 V2$1$Oracle Corporation$Intel Xeon E5-2650L$1800.0$2.0$16.0$32.0$16.0$Shen Zhen$May 16, 2012$32.0$32.0$256.0$20480.0$4846.0
+Power$Huawei$RH2288 V2$1$Oracle Corporation$Intel Xeon E5-2670$2600.0$2.0$16.0$32.0$16.0$Shen Zhen$May 16, 2012$32.0$32.0$256.0$20480.0$4871.0
+Power$Huawei$RH2285 V2$1$Oracle Corporation$Intel Xeon E5-2450L$1800.0$2.0$16.0$32.0$16.0$Shen Zhen$May 30, 2012$32.0$32.0$256.0$20480.0$4734.0
+Power$Huawei$RH2285 V2$1$Oracle Corporation$Intel Xeon E5-2470$2300.0$2.0$16.0$32.0$16.0$Shen Zhen$May 30, 2012$32.0$32.0$256.0$20480.0$5052.0
+Power$Huawei$RH2285 V2$1$Oracle Corporation$Intel Xeon E5-2450$2100.0$2.0$16.0$32.0$16.0$Shen Zhen$May 30, 2012$32.0$32.0$256.0$20480.0$4959.0
+Power$Huawei$RH2285 V2$1$Oracle Corporation$Intel Xeon E5-2440$2400.0$2.0$12.0$24.0$16.0$Shen Zhen$May 30, 2012$32.0$32.0$256.0$15360.0$4117.0
+Power$Huawei$XH320 V2  Tecal X6000 V2$4$Oracle Corporation$Intel Xeon E5-2470$2300.0$8.0$64.0$128.0$64.0$Shen Zhen$Jun 28, 2012$32.0$32.0$256.0$20480.0$5065.0
+Power$Huawei$RH2485 V2$1$Oracle Corporation$Intel Xeon E5-4640$2400.0$4.0$32.0$64.0$48.0$Shen Zhen$Jun 28, 2012$32.0$32.0$256.0$20480.0$5013.0
+Power$Huawei$RH2485 V2$1$Oracle Corporation$Intel Xeon E5-4640$2400.0$4.0$32.0$64.0$48.0$Shen Zhen$Jun 28, 2012$32.0$32.0$256.0$20480.0$4991.0
+Power$Huawei$RH2288 V2$1$Oracle Corporation$Intel Xeon E5-2630$2300.0$2.0$12.0$24.0$32.0$Shen Zhen$Jun 28, 2012$32.0$32.0$256.0$15360.0$3990.0
+Power$Huawei$RH2288 V2$1$Oracle Corporation$Intel Xeon E5-2665$2400.0$2.0$16.0$32.0$32.0$Shen Zhen$Jun 28, 2012$32.0$32.0$256.0$15360.0$4684.0
+Power$Huawei$RH2288 V2$1$Oracle Corporation$Intel Xeon E5-2640$2500.0$2.0$12.0$24.0$32.0$Shen Zhen$Jun 28, 2012$32.0$32.0$256.0$15360.0$3992.0
+Power$Huawei$BH640 V2  HuaWei Tecal E6000$3$Oracle Corporation$Intel Xeon E5-4640$2400.0$12.0$96.0$192.0$96.0$Shen Zhen$Aug 8, 2012$32.0$32.0$256.0$20480.0$5120.0
+Power$Huawei$RH2285 V2$1$Oracle Corporation$Intel Xeon E5-2470$2300.0$2.0$16.0$32.0$24.0$Shen Zhen$Sep 5, 2012$32.0$32.0$256.0$20480.0$5203.0
+Power$Huawei$BH622 V2  HuaWei Tecal E6000$4$Oracle Corporation$Intel Xeon E5-2660$2200.0$8.0$64.0$128.0$64.0$Shen Zhen$Sep 5, 2012$32.0$32.0$256.0$20480.0$4806.0
+Power$Huawei$RH2285 V2$1$IBM Corporation$Intel Xeon E5-2470$2300.0$2.0$16.0$32.0$24.0$Shen Zhen$Oct 31, 2012$32.0$32.0$256.0$20480.0$5717.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2680$2700.0$2.0$16.0$32.0$24.0$Shen Zhen$Oct 31, 2012$32.0$32.0$256.0$20480.0$4786.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Shen Zhen$Oct 31, 2012$32.0$32.0$256.0$20480.0$5453.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$16.0$Shen Zhen$Nov 28, 2012$32.0$32.0$256.0$20480.0$5544.0
+Power$Huawei$RH2288 V2$1$IBM Corporation$Intel Xeon E5-2650$2000.0$2.0$16.0$32.0$24.0$Shen Zhen$Jun 26, 2013$32.0$32.0$256.0$20480.0$5284.0
+Power$Huawei$RH2485 V2$1$IBM Corporation$Intel Xeon E5-4607$2200.0$4.0$24.0$48.0$60.0$Shen Zhen$Jul 10, 2013$32.0$32.0$256.0$12288.0$4266.0
+Power$Huawei$RH2288H V2-8 Rack Server$1$IBM Corporation$Intel Xeon E5-2660V2$2200.0$2.0$20.0$40.0$24.0$Shen Zhen$Oct 2, 2013$32.0$32.0$256.0$25600.0$7336.0
+Power$Huawei$Tecal CH121  Huawei Tecal E9000$6$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$12.0$120.0$240.0$144.0$Shen Zhen$Oct 21, 2013$32.0$32.0$256.0$25600.0$6309.0
+Power$Huawei$Tecal CH121  Huawei Tecal E9000$8$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$16.0$160.0$320.0$192.0$Shen Zhen$Oct 21, 2013$32.0$32.0$256.0$25600.0$6453.0
+Power$Huawei$RH2288H V2$1$IBM Corporation$Intel Xeon E5-2609$2400.0$2.0$8.0$8.0$48.0$Shen Zhen$May 7, 2014$32.0$32.0$256.0$10240.0$2716.0
+Power$Huawei$XH628 V3  Huawei FusionServer X6800$3$IBM Corporation$Intel Xeon E5-2699 v3$2300.0$6.0$108.0$216.0$192.0$Shen Zhen$Oct 21, 2014$32.0$32.0$256.0$46080.0$0.0
+Power$Huawei$FusionServer RH2288 V3$1$IBM Corporation$Intel Xeon E5-2699 V3$2300.0$2.0$36.0$72.0$64.0$Shen Zhen$Oct 21, 2014$32.0$32.0$256.0$46080.0$0.0
+Power$Huawei$FusionServer RH2288 V3$1$IBM Corporation$Intel Xeon E5-2699V3$2300.0$2.0$36.0$72.0$64.0$Shen Zhen$Dec 1, 2014$32.0$32.0$256.0$46080.0$0.0
+Power$Huawei$Fusion Server RH2288H V3$1$IBM Corporation$Intel Xeon E5-2699 v3$2300.0$2.0$36.0$72.0$64.0$Shen Zhen$Sep 25, 2015$32.0$32.0$256.0$46080.0$10700.0
+Power$Huawei$Fusion Server RH2288H V3$1$Oracle Corporation$Intel Xeon E5-2698 V4$2200.0$2.0$40.0$80.0$64.0$Shen Zhen$Apr 27, 2016$32.0$32.0$256.0$51200.0$12212.0
+Power$Huawei$Fusion Server XH620 V3  Huawei FusionServer X6800$4$Oracle Corporation$Intel Xeon E5-2698 V4$2200.0$8.0$160.0$320.0$256.0$Shen Zhen$Apr 27, 2016$32.0$32.0$256.0$51200.0$10653.0
+Power$Huawei$FusionServer CH121 V3  Huawei FusionServer E9000$8$Oracle Corporation$Intel Xeon E5-2683 V4$2100.0$16.0$256.0$512.0$4096.0$Shen Zhen$Dec 21, 2016$32.0$32.0$256.0$40960.0$5316.0
+Power$Huawei$FusionServer CH121 V3  Huawei FusionServer E9000$10$Oracle Corporation$Intel Xeon E5-2683 V4$2100.0$20.0$320.0$640.0$5120.0$Shen Zhen$Dec 21, 2016$32.0$32.0$256.0$40960.0$5555.0
+Power$Huawei$FusionServer XH321 V3  Huawei FusionServer X6000$4$Oracle Corporation$Intel Xeon E5-2699 v4$2200.0$8.0$176.0$352.0$256.0$Shen Zhen$Mar 29, 2017$32.0$32.0$256.0$56320.0$10261.0
+Power$Huawei$Fusion Server 2288H V5$1$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$2.0$56.0$112.0$192.0$Shen Zhen$Jul 11, 2017$32.0$32.0$1024.0$39424.0$12968.0
+Power$Huawei$Fusion Server 2288H V5$1$Oracle Corporation$Intel Xeon Platinum 8180$2500.0$2.0$56.0$112.0$192.0$Shen Zhen$Jul 11, 2017$32.0$32.0$1024.0$39424.0$13398.0
+Power$Huawei$Fusion Server 2288H V5$1$Oracle Corporation$Intel Xeon Platinum 8180$2500.0$2.0$56.0$112.0$192.0$Shen Zhen$Sep 27, 2018$32.0$32.0$1024.0$39424.0$13478.0
+Power$Huawei$Fusion Server 2288H V5$1$Oracle Corporation$Intel Xeon Platinum 8280$2700.0$2.0$56.0$112.0$192.0$Shen Zhen$Apr 2, 2019$32.0$32.0$1024.0$39424.0$13490.0
+Power$Huawei$Fusion Server 5288 V5$1$Oracle Corporation$Intel Xeon Platinum 8280$2700.0$2.0$56.0$112.0$192.0$Shen Zhen$Apr 2, 2019$32.0$32.0$1024.0$39424.0$13388.0
+Power$Huawei$Fusion Server 2288H V5$1$Oracle Corporation$Intel Xeon Platinum 8280$2700.0$2.0$56.0$112.0$192.0$Shen Zhen$Apr 2, 2019$32.0$32.0$1024.0$39424.0$14224.0
+Power$Huawei$Fusion Server 5288 V5$1$Oracle Corporation$Intel Xeon Platinum 8280$2700.0$2.0$56.0$112.0$192.0$Shen Zhen$Apr 2, 2019$32.0$32.0$1024.0$39424.0$14071.0
+Power$Huawei$Fusion Server 1288H V5$1$Oracle Corporation$Intel Xeon Platinum 8280$2700.0$2.0$56.0$112.0$192.0$Shen Zhen$Apr 2, 2019$32.0$32.0$1024.0$39424.0$14209.0
+Power$Huawei$Fusion Server 1288H V5$1$Oracle Corporation$Intel Xeon Platinum 8280$2700.0$2.0$56.0$112.0$192.0$Shen Zhen$Apr 2, 2019$32.0$32.0$1024.0$39424.0$13465.0
+Power$IBM Corporation$IBM System x3450$1$IBM Corporation$Intel Xeon E5462$2800.0$2.0$8.0$8.0$16.0$RTP$Mar 26, 2008$32.0$32.0$12288.0$0.0$854.0
+Power$IBM Corporation$IBM System x3200 M2$1$IBM Corporation$Intel Xeon X3360$2833.0$1.0$4.0$4.0$4.0$RTP$May 21, 2008$32.0$32.0$12288.0$0.0$1054.0
+Power$IBM Corporation$IBM System x3250 M2$1$IBM Corporation$Intel X3350$2666.0$1.0$4.0$4.0$4.0$Taipei$May 21, 2008$32.0$32.0$12288.0$0.0$913.0
+Power$IBM Corporation$IBM System x3350$1$IBM Corporation$Intel Xeon X3360$2833.0$1.0$4.0$4.0$4.0$RTP$May 21, 2008$32.0$32.0$12288.0$0.0$926.0
+Power$IBM Corporation$IBM System x3250 M2$1$IBM Corporation$Intel Xeon X3360$2830.0$1.0$4.0$4.0$4.0$Taipei$Aug 27, 2008$32.0$32.0$12288.0$0.0$940.0
+Power$IBM Corporation$IBM System x3350$1$IBM Corporation$Intel Xeon X3360$2830.0$1.0$4.0$4.0$4.0$Taipei$Aug 27, 2008$32.0$32.0$6144.0$0.0$974.0
+Power$IBM Corporation$IBM System x3200 M2$1$IBM Corporation$Intel Xeon X3360$2833.0$1.0$4.0$4.0$4.0$NanKang$Sep 10, 2008$32.0$32.0$12288.0$0.0$1064.0
+Power$IBM Corporation$IBM System x3650 M2$1$IBM Corporation$Intel Xeon X5570$2933.0$2.0$8.0$16.0$8.0$RTP$Apr 23, 2009$32.0$32.0$256.0$8192.0$1860.0
+Power$IBM Corporation$IBM System x3650 M2$1$IBM Corporation$Intel Xeon X5570$2933.0$2.0$8.0$16.0$8.0$RTP$May 20, 2009$32.0$32.0$256.0$8192.0$1929.0
+Power$IBM Corporation$IBM System x3550 M2$1$IBM Corporation$Intel Xeon X5570$2933.0$2.0$8.0$16.0$8.0$RTP$May 20, 2009$32.0$32.0$256.0$8192.0$1892.0
+Power$IBM Corporation$IBM System x iDataPlex dx360 M2  IBM iDataPlex 2U Flex chassis$2$IBM Corporation$Intel Xeon X5570$2933.0$4.0$16.0$32.0$24.0$Nankang$Jun 3, 2009$32.0$32.0$256.0$8192.0$2066.0
+Power$IBM Corporation$IBM System x3550 M2$1$IBM Corporation$Intel Xeon X5570$2933.0$2.0$8.0$16.0$8.0$RTP$Jun 3, 2009$32.0$32.0$256.0$8192.0$1938.0
+Power$IBM Corporation$IBM System x3650 M2$1$IBM Corporation$Intel Xeon X5570$2933.0$2.0$8.0$16.0$8.0$RTP$Jun 3, 2009$32.0$32.0$256.0$8192.0$1977.0
+Power$IBM Corporation$IBM System x3400 M2$1$IBM Corporation$Intel Xeon E5540$2533.0$2.0$8.0$16.0$8.0$Nankang$Jun 3, 2009$32.0$32.0$256.0$8192.0$1750.0
+Power$IBM Corporation$IBM System x iDataPlex dx360 M2  IBM iDataPlex 2U Flex chassis$2$IBM Corporation$Intel Xeon L5530$2400.0$4.0$16.0$32.0$16.0$Nankang$Aug 27, 2009$32.0$32.0$256.0$8192.0$2231.0
+Power$IBM Corporation$System x3250 M3$1$IBM Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$8.0$NanKang$Oct 8, 2009$32.0$32.0$256.0$8192.0$2050.0
+Power$IBM Corporation$System x3200 M3$1$IBM Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$8.0$NanKang$Oct 8, 2009$32.0$32.0$256.0$8192.0$2035.0
+Power$IBM Corporation$IBM System x3650 M2$1$IBM Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$Nangang$Oct 23, 2009$32.0$32.0$256.0$8192.0$2053.0
+Power$IBM Corporation$IBM System x3550 M2$1$IBM Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$Nangang$Nov 18, 2009$32.0$32.0$256.0$8192.0$2018.0
+Power$IBM Corporation$IBM System x3200 M3$1$IBM Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$8.0$NanKang$Nov 18, 2009$32.0$32.0$256.0$8192.0$2057.0
+Power$IBM Corporation$IBM System x3250 M3$1$IBM Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$8.0$NanKang$Nov 18, 2009$32.0$32.0$256.0$8192.0$2098.0
+Power$IBM Corporation$IBM System x3400 M2$1$IBM Corporation$Intel Xeon E5540$2533.0$2.0$8.0$16.0$8.0$Nankang$Dec 2, 2009$32.0$32.0$256.0$8192.0$1865.0
+Power$IBM Corporation$IBM System x iDataPlex dx360 M3  IBM iDataPlex 2U Flex chassis$2$IBM Corporation$Intel Xeon X5670$2933.0$4.0$24.0$48.0$24.0$Nankang$Apr 7, 2010$32.0$32.0$256.0$12288.0$3038.0
+Power$IBM Corporation$IBM System x3400 M3$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Nankang$Apr 7, 2010$32.0$32.0$256.0$12288.0$2660.0
+Power$IBM Corporation$IBM System x3650 M3$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Nangang$Apr 7, 2010$32.0$32.0$256.0$12288.0$2927.0
+Power$IBM Corporation$IBM System x3550 M3$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Nangang$Apr 7, 2010$32.0$32.0$256.0$12288.0$2843.0
+Power$IBM Corporation$IBM System x iDataPlex dx360 M3  IBM iDataPlex 2U Flex chassis$2$IBM Corporation$Intel Xeon L5640$2267.0$4.0$24.0$48.0$24.0$Nankang$Jun 2, 2010$32.0$32.0$256.0$12288.0$3159.0
+Power$IBM Corporation$System x3620 M3$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$NanKang$Jul 6, 2010$32.0$32.0$256.0$12288.0$2916.0
+Power$IBM Corporation$System x3630 M3$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Nankang$Sep 22, 2010$32.0$32.0$256.0$12288.0$2550.0
+Power$IBM Corporation$System x3200 M3$1$IBM Corporation$Intel Xeon X3480$3067.0$1.0$4.0$8.0$8.0$NanKang$Oct 20, 2010$32.0$32.0$256.0$8192.0$2154.0
+Power$IBM Corporation$System x3250 M3$1$IBM Corporation$Intel Xeon X3480$3067.0$1.0$4.0$8.0$8.0$NanKang$Oct 20, 2010$32.0$32.0$256.0$8192.0$2215.0
+Power$IBM Corporation$IBM System x3620 M3$1$IBM Corporation$Intel Xeon X5675$3067.0$2.0$12.0$24.0$12.0$Nankang$Mar 2, 2011$32.0$32.0$256.0$12288.0$3039.0
+Power$IBM Corporation$System x3630 M3$1$IBM Corporation$Intel Xeon X5675$3067.0$2.0$12.0$24.0$12.0$NanKang$Mar 2, 2011$32.0$32.0$256.0$12288.0$2722.0
+Power$IBM Corporation$IBM System x3400 M3$1$IBM Corporation$Intel Xeon X5675$3067.0$2.0$12.0$24.0$12.0$Nankang$Mar 9, 2011$32.0$32.0$256.0$12288.0$2891.0
+Power$IBM Corporation$IBM System x3650 M3$1$IBM Corporation$Intel Xeon X5675$3067.0$2.0$12.0$24.0$16.0$Taipei$Apr 20, 2011$32.0$32.0$256.0$12288.0$3152.0
+Power$IBM Corporation$IBM System x3550 M3$1$IBM Corporation$Intel Xeon X5675$3067.0$2.0$12.0$24.0$16.0$Taipei$Apr 20, 2011$32.0$32.0$256.0$12288.0$3093.0
+Power$IBM Corporation$IBM System x3755 M3$1$IBM Corporation$AMD Opteron 6276 (2.30 GHz)$2300.0$4.0$64.0$64.0$64.0$Nangang$Nov 30, 2011$512.0$256.0$16384.0$16384.0$2968.0
+Power$IBM Corporation$IBM System x3550 M4$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Taipei$Mar 21, 2012$32.0$32.0$256.0$20480.0$0.0
+Power$IBM Corporation$IBM System x3650 M4$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Taipei$Mar 21, 2012$32.0$32.0$256.0$20480.0$0.0
+Power$IBM Corporation$IBM System x3500 M4$1$IBM Corporation$Intel Xeon E5-2680$2700.0$2.0$16.0$32.0$24.0$Taipei$Mar 21, 2012$32.0$32.0$256.0$20480.0$4708.0
+Power$IBM Corporation$IBM System x iDataPlex dx360 M4  iDataPlex dx360 M4 2U Chassis$2$IBM Corporation$Intel Xeon E5-2660$2200.0$4.0$32.0$64.0$48.0$Taipei$Mar 22, 2012$32.0$32.0$256.0$20480.0$5043.0
+Power$IBM Corporation$IBM System x3650 M4$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$24.0$Taipei$Aug 22, 2012$32.0$32.0$256.0$20480.0$4661.0
+Power$IBM Corporation$IBM System x3550 M4$1$IBM Corporation$Intel Xeon E5-2660$2200.0$2.0$16.0$32.0$16.0$Taipei$Aug 22, 2012$32.0$32.0$256.0$20480.0$4662.0
+Power$IBM Corporation$IBM System x3300 M4$1$IBM Corporation$Intel Xeon E5-2470$2300.0$2.0$16.0$32.0$24.0$Taipei$Aug 22, 2012$32.0$32.0$256.0$20480.0$5122.0
+Power$IBM Corporation$IBM Flex System x440 Compute Node  IBM Flex System Enterprise Chassis$7$IBM Corporation$Intel Xeon E5-4640 (Intel Turbo Boost Technology up to 2.80 GHz)$2400.0$28.0$224.0$448.0$336.0$RTP$Oct 17, 2012$32.0$32.0$262144.0$20480.0$4847.0
+Power$IBM Corporation$IBM System x iDataPlex dx360 M4  iDataPlex dx360 M4 2U Chassis$2$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$4.0$32.0$64.0$48.0$Taipei$Oct 31, 2012$32.0$32.0$256.0$20480.0$5392.0
+Power$IBM Corporation$IBM System x3650 M4$1$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Taipei$Oct 31, 2012$32.0$32.0$256.0$20480.0$5054.0
+Power$IBM Corporation$IBM System x3500 M4$1$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Taipei$Oct 31, 2012$32.0$32.0$256.0$20480.0$5108.0
+Power$IBM Corporation$IBM System x3550 M4$1$IBM Corporation$Intel Xeon E5-2660 2.20 GHz (Intel Turbo Boost Technology up to 3.00 GHz)$2200.0$2.0$16.0$32.0$24.0$Taipei$Oct 31, 2012$32.0$32.0$256.0$20480.0$4953.0
+Power$IBM Corporation$IBM System x3300 M4$1$IBM Corporation$Intel Xeon E5-2470 2.30 GHz (Intel Turbo Boost Technology up to 3.10 GHz)$2300.0$2.0$16.0$32.0$24.0$Taipei$Nov 14, 2012$32.0$32.0$256.0$20480.0$5418.0
+Power$IBM Corporation$IBM System x3530 M4$1$IBM Corporation$Intel Xeon E5-2470 2.30 GHz (Intel Turbo Boost Technology up to 3.10 GHz)$2300.0$2.0$16.0$32.0$24.0$Taipei$Nov 14, 2012$32.0$32.0$256.0$20480.0$5006.0
+Power$IBM Corporation$IBM System x3630 M4$1$IBM Corporation$Intel Xeon E5-2470 2.30 GHz (Intel Turbo Boost Technology up to 3.10 GHz)$2300.0$2.0$16.0$32.0$24.0$Taipei$Nov 14, 2012$32.0$32.0$256.0$20480.0$5117.0
+Power$IBM Corporation$IBM NeXtScale nx360 M4  IBM NeXtScale n1200 Enclosure$12$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$24.0$240.0$480.0$288.0$Taipei$Oct 2, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$IBM Corporation$IBM System x3650 M4$1$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$2.0$20.0$40.0$64.0$Taipei$Oct 2, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$IBM Corporation$IBM System x3500 M4$1$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$2.0$20.0$40.0$32.0$Taipei$Oct 2, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$IBM Corporation$IBM System x iDataPlex dx360 M4  iDataPlex dx360 M4 2U Chassis$2$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$4.0$40.0$80.0$48.0$Taipei$Oct 2, 2013$32.0$32.0$256.0$25600.0$0.0
+Power$IBM Corporation$IBM NeXtScale nx360 M4 (Intel Xeon E5-2660 v2)  IBM NeXtScale n1200 Enclosure$12$IBM Corporation$Intel Xeon E5-2660 v2$2200.0$24.0$240.0$480.0$288.0$Taipei$May 14, 2014$32.0$32.0$256.0$25600.0$0.0
+Power$IBM Corporation$IBM System x3200 M2$1$Oracle Corporation$Intel Xeon Processor E3110$3000.0$1.0$2.0$2.0$4.0$Durham$Feb 17, 2011$32.0$32.0$6144.0$0.0$605.0
+Power$Inspur Corporation$NF5280M4$1$IBM Corporation$Intel Xeon E5-2699 v3 2.30 GHz (Intel Turbo Boost Technology up to 3.60 GHz)$2300.0$2.0$36.0$72.0$64.0$Jinan$Nov 12, 2014$32.0$32.0$256.0$46080.0$0.0
+Power$Inspur Corporation$NF5280 M4$1$Oracle Corporation$Intel Xeon E5-2699 v4$2200.0$2.0$44.0$88.0$128.0$Jinan$Aug 30, 2017$32.0$32.0$256.0$56320.0$12296.0
+Power$Inspur Corporation$Inspur NF5280M5$1$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$2.0$56.0$112.0$192.0$Jinan$May 23, 2018$32.0$32.0$1024.0$39424.0$13064.0
+Power$Inspur Corporation$Inspur Yingxin NF8480M5$1$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$4.0$112.0$224.0$384.0$Jinan$Aug 1, 2018$32.0$32.0$1024.0$39424.0$12198.0
+Power$Inspur Corporation$Inspur NF5180M5$1$Oracle Corporation$Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz)$2100.0$2.0$56.0$112.0$192.0$Jinan$Aug 1, 2018$32.0$32.0$1024.0$39424.0$12167.0
+Power$Inspur Corporation$Inspur NF5280M5$1$Oracle Corporation$Intel Xeon Platinum 8180$2500.0$2.0$56.0$112.0$192.0$Jinan$Aug 15, 2019$32.0$32.0$1024.0$39424.0$13481.0
+Power$Inspur Corporation$Inspur NF5280M5$1$Oracle Corporation$Intel Xeon Platinum 8276L$2200.0$2.0$56.0$112.0$192.0$Jinan$Oct 9, 2019$32.0$32.0$1024.0$39424.0$12385.0
+Power$Inspur Corporation$Inspur NF5280M5$1$Oracle Corporation$Intel Xeon Platinum 8280 2.70GHz$2700.0$2.0$56.0$112.0$192.0$Jinan$Jun 3, 2020$32.0$32.0$1024.0$39424.0$14365.0
+Power$Inspur Corporation$Inspur NF5180M5$1$Oracle Corporation$Intel Xeon Platinum 8280 2.70GHz$2700.0$2.0$56.0$112.0$192.0$Jinan$Jul 2, 2020$32.0$32.0$1024.0$39424.0$14223.0
+Power$Inspur Corporation$Inspur Yingxin NF8480M5$1$Oracle Corporation$Intel Xeon Platinum 8280 2.70GHz$2700.0$4.0$112.0$224.0$384.0$Jinan$Oct 7, 2020$32.0$32.0$1024.0$39424.0$13013.0
+Power$Inspur Corporation$Inspur NF8480M6$1$Oracle Corporation$Intel Xeon Platinum 8380HL$2900.0$4.0$112.0$224.0$384.0$Jinan$Jan 28, 2021$32.0$32.0$1024.0$39424.0$11344.0
+Power$Inspur Corporation$Inspur NF5180M6$1$Oracle Corporation$Intel Xeon Platinum 8352Y Processor$2200.0$2.0$64.0$128.0$512.0$Jinan$Jul 29, 2021$32.0$48.0$1280.0$49152.0$9100.0
+Power$Inspur Corporation$Inspur NF5180M6$1$Oracle Corporation$Intel Xeon Gold 6336Y Processor$2400.0$2.0$48.0$96.0$256.0$Jinan$Jul 29, 2021$32.0$48.0$1280.0$36864.0$7915.0
+Power$Inspur Corporation$Inspur NF5280M5$1$Oracle Corporation$Intel Xeon Silver 4214$2200.0$2.0$24.0$48.0$384.0$Jinan$Aug 19, 2021$32.0$32.0$1024.0$16896.0$5116.0
+Power$Inspur Corporation$Inspur NF5280M5$1$Oracle Corporation$Intel Xeon Gold 6238R$2200.0$1.0$28.0$56.0$384.0$Jinan$Aug 19, 2021$32.0$32.0$1024.0$39424.0$6316.0
+Power$Inspur Corporation$Inspur NF5280M5$1$Oracle Corporation$Intel Xeon Gold 6252$2100.0$1.0$24.0$48.0$384.0$Jinan$Aug 19, 2021$32.0$32.0$1024.0$36608.0$5694.0
+Power$Inspur Corporation$Inspur NF5180M6$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$2.0$80.0$160.0$256.0$Jinan$Aug 19, 2021$32.0$48.0$1280.0$61440.0$12271.0
+Power$Inspur Corporation$Inspur NF5280M5$1$Oracle Corporation$Intel Xeon Gold 5218$2300.0$2.0$32.0$64.0$384.0$Jinan$Aug 19, 2021$32.0$32.0$1024.0$22528.0$5696.0
+Power$Inspur Corporation$Inspur i24M6$1$Oracle Corporation$Intel Xeon Platinum 8360Y$2400.0$2.0$72.0$144.0$256.0$Jinan$Apr 21, 2022$32.0$48.0$1280.0$55296.0$8835.0
+Power$Inspur Corporation$Inspur i24LM6$1$Oracle Corporation$Intel Xeon Platinum 8368Q$2600.0$2.0$76.0$152.0$512.0$Jinan$Apr 29, 2022$32.0$48.0$1280.0$58368.0$7275.0
+Power$Inspur(Beijing) Electronic Information Industry Co Ltd$NF290D2 (2.5 GHz, Intel Xeon Processor L5420)$1$BEA System$Intel Xeon L5420$2500.0$2.0$8.0$8.0$8.0$Jinan$Mar 26, 2008$32.0$32.0$12288.0$0.0$910.0
+Power$Intel Corp$Intel Platform SE7520AF2 Server Board (3.6 GHz/1M L2 Intel Xeon processor)$1$BEA System$Intel Xeon processor 3.6 GHz$3600.0$2.0$2.0$4.0$4.0$Hillsboro$Dec 11, 2007$12.0$16.0$1024.0$0.0$87.4
+Power$LSDtech$L224S-D/F/V-1$1$Oracle Corporation$Intel(R) Xeon(R) Gold 6136 CPU @ 3.00GHz$3000.0$2.0$24.0$48.0$196.0$TTA$Sep 23, 2020$32.0$32.0$1024.0$25344.0$4130.0
+Power$LTechKorea$LKG-2212-C$1$Oracle Corporation$Intel(R) Xeon(R) Gold 6226R$2900.0$2.0$32.0$64.0$512.0$TTA$Jun 9, 2022$32.0$32.0$1024.0$22528.0$6006.0
+Power$Lenovo Global Technology$ThinkSystem SR650 (Intel Xeon Platinum 8176 CPU 2.10 GHz)$1$Oracle Corporation$Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz)$2100.0$2.0$56.0$112.0$192.0$Taipei$Jul 11, 2017$32.0$32.0$1024.0$4.0370176E7$12336.0
+Power$Lenovo Global Technology$ThinkSystem SD530  ThinkSystem SD530$4$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$8.0$224.0$448.0$768.0$Beijing$Jul 19, 2017$32.0$32.0$1024.0$39424.0$11472.0
+Power$Lenovo Global Technology$ThinkSystem SR850$1$Oracle Corporation$Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz)$2100.0$4.0$112.0$224.0$384.0$Taipei$Oct 25, 2017$32.0$32.0$1024.0$4.0370176E7$13010.0
+Power$Lenovo Global Technology$ThinkSystem SR650$1$Oracle Corporation$Intel Xeon Platinum 8176 CPU 2.10 GHz (Intel Turbo Boost Technology up to 2.80 GHz)$2100.0$1.0$28.0$56.0$96.0$Taipei$Oct 25, 2017$32.0$32.0$1024.0$4.0370176E7$11406.0
+Power$Lenovo Global Technology$ThinkSystem SN550  Lenovo Flex System Enterprise Chassis with CMM2 (00FJ669) standard (Model 8721)$14$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$28.0$784.0$1568.0$2688.0$Beijing$Oct 25, 2017$32.0$32.0$1024.0$39424.0$10738.0
+Power$Lenovo Global Technology$ThinkSystem SD530  ThinkSystem D2 Enclosure$4$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$8.0$224.0$448.0$768.0$Taipei$Sep 12, 2018$32.0$32.0$1024.0$39424.0$11756.0
+Power$Lenovo Global Technology$ThinkSystem SN850  Lenovo Flex System Enterprise Chassis with CMM2 (00FJ669) standard (Model 8721)$7$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$28.0$784.0$1568.0$2688.0$Beijing$Sep 27, 2018$32.0$32.0$1024.0$39424.0$11538.0
+Power$Lenovo Global Technology$ThinkSystem SR950$1$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$8.0$224.0$448.0$768.0$Beijing$Sep 27, 2018$32.0$32.0$1024.0$39424.0$12377.0
+Power$Lenovo Global Technology$ThinkSystem SR150$1$Oracle Corporation$Intel Xeon E-2176G$3700.0$1.0$6.0$12.0$32.0$Beijing$Jan 17, 2019$32.0$32.0$256.0$12288.0$10273.0
+Power$Lenovo Global Technology$ThinkSystem SR650$1$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$2.0$56.0$112.0$192.0$Beijing$Apr 2, 2019$32.0$32.0$1024.0$39424.0$12091.0
+Power$Lenovo Global Technology$ThinkSystem SR630$1$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$2.0$56.0$112.0$192.0$Beijing$Apr 2, 2019$32.0$32.0$1024.0$39424.0$11870.0
+Power$Lenovo Global Technology$ThinkSystem SR950$1$Oracle Corporation$Intel Xeon Platinum 8276L$2200.0$8.0$224.0$448.0$768.0$Beijing$Apr 2, 2019$32.0$32.0$1024.0$39424.0$12886.0
+Power$Lenovo Global Technology$ThinkSystem SR650 (Intel Xeon Platinum 8280 CPU 2.70 GHz)$1$Oracle Corporation$Intel Xeon Platinum 8280 CPU 2.70 GHz$2700.0$1.0$28.0$56.0$96.0$Taipei$Apr 2, 2019$32.0$32.0$1024.0$4.0370176E7$11631.0
+Power$Lenovo Global Technology$ThinkSystem SR850$1$Oracle Corporation$Intel Xeon Platinum 8276L CPU 2.20 GHz$2200.0$4.0$112.0$224.0$384.0$Taipei$Jun 5, 2019$32.0$32.0$1024.0$4.0370176E7$13154.0
+Power$Lenovo Global Technology$ThinkSystem SD530  ThinkSystem SD530$4$Oracle Corporation$Intel Xeon Platinum 8276L$2200.0$8.0$224.0$448.0$768.0$Beijing$Jul 17, 2019$32.0$32.0$1024.0$39424.0$12377.0
+Power$Lenovo Global Technology$ThinkSystem SR850$1$Oracle Corporation$Intel Xeon Platinum 8276L$2200.0$4.0$112.0$224.0$384.0$Beijing$Jul 17, 2019$32.0$32.0$1024.0$39424.0$13357.0
+Power$Lenovo Global Technology$Think System SR635$1$Oracle Corporation$AMD EPYC 7742 2.25Ghz$2250.0$1.0$64.0$128.0$128.0$Beijing$Aug 7, 2019$32.0$32.0$512.0$262144.0$18555.0
+Power$Lenovo Global Technology$Think System SR655$1$Oracle Corporation$AMD EPYC 7742 2.25Ghz$2250.0$1.0$64.0$128.0$128.0$Beijing$Aug 7, 2019$32.0$32.0$512.0$262144.0$19149.0
+Power$Lenovo Global Technology$ThinkSystem SN850  Lenovo Flex System Enterprise Chassis with CMM2 (00FJ669) standard (Model 8721)$7$Oracle Corporation$Intel Xeon Platinum 8276L$2200.0$28.0$784.0$1568.0$2688.0$Beijing$Aug 21, 2019$32.0$32.0$1024.0$39424.0$12295.0
+Power$Lenovo Global Technology$Think System SR655$1$Oracle Corporation$AMD EPYC 7742 2.25Ghz$2250.0$1.0$64.0$128.0$128.0$Beijing$Sep 19, 2019$32.0$32.0$512.0$262144.0$20176.0
+Power$Lenovo Global Technology$Think System SR635$1$Oracle Corporation$AMD EPYC 7742 2.25Ghz$2250.0$1.0$64.0$128.0$128.0$Beijing$Sep 19, 2019$32.0$32.0$512.0$262144.0$19422.0
+Power$Lenovo Global Technology$Think System SR665$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$2.0$128.0$256.0$256.0$Beijing$May 11, 2020$32.0$32.0$512.0$262144.0$23191.0
+Power$Lenovo Global Technology$Think System SR665$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$2.0$128.0$256.0$256.0$Beijing$May 11, 2020$32.0$32.0$512.0$262144.0$22879.0
+Power$Lenovo Global Technology$Think System SR645$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$2.0$128.0$256.0$256.0$Beijing$May 11, 2020$32.0$32.0$512.0$262144.0$22467.0
+Power$Lenovo Global Technology$Think System SR645$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$2.0$128.0$256.0$256.0$Beijing$May 11, 2020$32.0$32.0$512.0$262144.0$22877.0
+Power$Lenovo Global Technology$Think System SR665$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$2.0$128.0$256.0$256.0$Beijing$Jun 10, 2020$32.0$32.0$512.0$262144.0$23428.0
+Power$Lenovo Global Technology$Think System SR665$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$2.0$128.0$256.0$256.0$Beijing$Jun 10, 2020$32.0$32.0$512.0$262144.0$22903.0
+Power$Lenovo Global Technology$Think System SR645$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$2.0$128.0$256.0$256.0$Beijing$Jun 10, 2020$32.0$32.0$512.0$262144.0$22642.0
+Power$Lenovo Global Technology$Think System SR645$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$2.0$128.0$256.0$256.0$Beijing$Jun 10, 2020$32.0$32.0$512.0$262144.0$23082.0
+Power$Lenovo Global Technology$Think System SR655$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$1.0$64.0$128.0$128.0$Beijing$Aug 6, 2020$32.0$32.0$512.0$262144.0$21603.0
+Power$Lenovo Global Technology$Think System SR655$1$Oracle Corporation$AMD EPYC 7742 2.25GHz$2250.0$1.0$64.0$128.0$128.0$Beijing$Aug 6, 2020$32.0$32.0$512.0$262144.0$21074.0
+Power$Lenovo Global Technology$ThinkSystem SR860V2$1$Oracle Corporation$Intel Xeon Platinum 8376HL$2600.0$4.0$112.0$224.0$384.0$Beijing$Dec 16, 2020$32.0$32.0$1024.0$39424.0$11300.0
+Power$Lenovo Global Technology$ThinkSystem SR645$1$Oracle Corporation$AMD EPYC 7763 2.45GHz$2450.0$2.0$128.0$256.0$256.0$Beijing$Mar 24, 2021$32.0$32.0$512.0$262144.0$23332.0
+Power$Lenovo Global Technology$ThinkSystem SR645$1$Oracle Corporation$AMD EPYC 7763 2.45GHz$2450.0$2.0$128.0$256.0$256.0$Beijing$Mar 24, 2021$32.0$32.0$512.0$262144.0$22963.0
+Power$Lenovo Global Technology$ThinkSystem SR665$1$Oracle Corporation$AMD EPYC 7763 2.45GHz$2450.0$2.0$128.0$256.0$256.0$Beijing$Apr 8, 2021$32.0$32.0$512.0$262144.0$23505.0
+Power$Lenovo Global Technology$ThinkSystem SR665$1$Oracle Corporation$AMD EPYC 7763 2.45GHz$2450.0$2.0$128.0$256.0$256.0$Beijing$May 6, 2021$32.0$32.0$512.0$262144.0$23120.0
+Power$Lenovo Global Technology$ThinkSystem SR645$1$Oracle Corporation$AMD EPYC 7763 2.45GHz$2450.0$2.0$128.0$256.0$256.0$Beijing$May 6, 2021$32.0$32.0$512.0$262144.0$23036.0
+Power$Lenovo Global Technology$ThinkSystem SR655$1$Oracle Corporation$AMD EPYC 7763 2.45GHz$2450.0$1.0$64.0$128.0$128.0$Beijing$Jun 30, 2021$32.0$32.0$512.0$262144.0$21653.0
+Power$Lenovo Global Technology$ThinkSystem SR655$1$Oracle Corporation$AMD EPYC 7763 2.45GHz$2450.0$1.0$64.0$128.0$128.0$Beijing$Jun 30, 2021$32.0$32.0$512.0$262144.0$21843.0
+Power$Lenovo Global Technology$ThinkSystem SR635$1$Oracle Corporation$AMD EPYC 7763 2.45GHz$2450.0$1.0$64.0$128.0$128.0$Beijing$Jun 30, 2021$32.0$32.0$512.0$262144.0$21133.0
+Power$Lenovo Global Technology$ThinkSystem SN550 V2  Lenovo Flex System Enterprise Chassis with CMM2 (00FJ669) standard (Model 8721)$14$Oracle Corporation$Intel Xeon Platinum 8352M$2300.0$28.0$896.0$1792.0$3584.0$Beijing$May 24, 2022$32.0$48.0$1280.0$49152.0$9878.0
+Power$Lenovo Global Technology$Think System SR665 V3$1$Oracle Corporation$AMD EPYC 9654 2.40GHz$2400.0$2.0$192.0$384.0$384.0$Beijing$Nov 14, 2022$32.0$32.0$1024.0$393216.0$27118.0
+Power$Lenovo Global Technology$Think System SR665 V3$1$Oracle Corporation$AMD EPYC 9654 2.40GHz$2400.0$2.0$192.0$384.0$384.0$Beijing$Nov 14, 2022$32.0$32.0$1024.0$393216.0$27501.0
+Power$Lenovo Global Technology$Think System SR645 V3$1$Oracle Corporation$AMD EPYC 9654 2.40GHz$2400.0$2.0$192.0$384.0$384.0$Beijing$Feb 1, 2023$32.0$32.0$1024.0$393216.0$25980.0
+Power$Lenovo Global Technology$Think System SR655 V3$1$Oracle Corporation$AMD EPYC 9654 2.40GHz$2400.0$1.0$96.0$192.0$192.0$Beijing$Feb 15, 2023$32.0$32.0$1024.0$393216.0$27448.0
+Power$Lenovo Global Technology$Think System SR655 V3$1$Oracle Corporation$AMD EPYC 9654 2.40GHz$2400.0$1.0$96.0$192.0$192.0$Beijing$Feb 15, 2023$32.0$32.0$1024.0$393216.0$27142.0
+Power$Lenovo Global Technology$Think System SR635 V3$1$Oracle Corporation$AMD EPYC 9654 2.40GHz$2400.0$1.0$96.0$192.0$192.0$Beijing$Mar 15, 2023$32.0$32.0$1024.0$393216.0$26278.0
+Power$Lenovo Global Technology$Think System SR635 V3$1$Oracle Corporation$AMD EPYC 9654 2.40GHz$2400.0$1.0$96.0$192.0$192.0$Beijing$Mar 15, 2023$32.0$32.0$1024.0$393216.0$25945.0
+Power$NEC Corporation$ECO CENTER$1$BEA System$Intel Xeon L5420$2500.0$2.0$8.0$8.0$8.0$Fuchu$Jul 31, 2008$32.0$32.0$12288.0$0.0$1010.0
+Power$NEC Corporation$Express5800/i120Ra-e1(Intel Xeon L5410)$1$BEA System$Intel Xeon L5410$2333.0$2.0$8.0$8.0$8.0$Fuchu$Aug 13, 2008$32.0$32.0$12288.0$0.0$876.0
+Power$NEC Corporation$Express5800/iR120a-1E$1$Oracle Corporation$Intel Xeon L5520$2267.0$2.0$8.0$16.0$8.0$Fuchu$Dec 30, 2009$32.0$32.0$256.0$8192.0$1810.0
+Power$NEC Corporation$Express5800/GT110b-S (Water Cooling)$1$Oracle Corporation$Intel Core i3-540$3067.0$1.0$2.0$4.0$4.0$Fuchu$May 13, 2010$32.0$32.0$256.0$4096.0$1468.0
+Power$NEC Corporation$Express5800/GT110b$1$Oracle Corporation$Intel Xeon X3430$2400.0$1.0$4.0$4.0$4.0$Fuchu$May 13, 2010$32.0$32.0$256.0$8192.0$1730.0
+Power$NEC Corporation$Express5800/GT110b-S$1$Oracle Corporation$Intel Core i3-540$3067.0$1.0$2.0$4.0$4.0$Fuchu$May 13, 2010$32.0$32.0$256.0$4096.0$1499.0
+Power$NEC Corporation$Express5800/A1080a-D  Express5800/A1080a-D$2$Oracle Corporation$Intel Xeon X7560$2266.0$8.0$64.0$128.0$128.0$Fuchu$Jul 28, 2010$32.0$32.0$256.0$24576.0$1069.0
+Power$NEC Corporation$Express5800/B120b  SIGMABLADE-H v2$3$Oracle Corporation$Intel Xeon L5640$2266.0$6.0$36.0$72.0$48.0$Fuchu$Aug 11, 2010$32.0$32.0$256.0$12288.0$1555.0
+Power$NEC Corporation$Express5800/R120b-2$1$Oracle Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$16.0$Fuchu$Aug 25, 2010$32.0$32.0$256.0$12288.0$2404.0
+Power$NEC Corporation$Express5800/R120b-1$1$Oracle Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$16.0$Fuchu$Sep 9, 2010$32.0$32.0$256.0$12288.0$2340.0
+Power$NEC Corporation$Express5800/E120b-1$1$Oracle Corporation$Intel Xeon L5630$2133.0$2.0$8.0$16.0$16.0$Fuchu$Sep 22, 2010$32.0$32.0$256.0$12288.0$2118.0
+Power$NEC Corporation$Express5800/R140b-4$1$Oracle Corporation$Intel Xeon X7560$2266.0$4.0$32.0$64.0$128.0$Fuchu$Jan 4, 2011$32.0$32.0$256.0$24576.0$1314.0
+Power$NEC Corporation$Express5800/A1080a-S$1$Oracle Corporation$Intel Xeon X7560$2266.0$4.0$32.0$64.0$128.0$Fuchu$Jan 26, 2011$32.0$32.0$256.0$24576.0$1268.0
+Power$NEC Corporation$Express5800/A1080a-E$1$Oracle Corporation$Intel Xeon X7560$2266.0$8.0$64.0$128.0$128.0$Fuchu$Jan 26, 2011$32.0$32.0$256.0$24576.0$1335.0
+Power$NEC Corporation$Express5800/R120b-2$1$Oracle Corporation$Intel Xeon X5675$3066.0$2.0$12.0$24.0$24.0$Fuchu$Feb 24, 2011$32.0$32.0$256.0$12288.0$2709.0
+Power$NEC Corporation$Express5800/R120b-1$1$Oracle Corporation$Intel Xeon X5675$3066.0$2.0$12.0$24.0$24.0$Fuchu$Feb 24, 2011$32.0$32.0$256.0$12288.0$2648.0
+Power$NEC Corporation$Express5800/R110c-1$1$Oracle Corporation$Intel Xeon X3470$2933.0$1.0$4.0$8.0$8.0$Fuchu$Jun 29, 2011$32.0$32.0$256.0$8192.0$2009.0
+Power$NEC Corporation$Express5800/R120b-2$1$Oracle Corporation$Intel Xeon X5675$3066.0$2.0$12.0$24.0$24.0$Fuchu$Dec 14, 2011$32.0$32.0$256.0$12288.0$2772.0
+Power$NEC Corporation$Express5800/R120b-1$1$Oracle Corporation$Intel Xeon X5675$3066.0$2.0$12.0$24.0$24.0$Fuchu$Dec 14, 2011$32.0$32.0$256.0$12288.0$2707.0
+Power$NEC Corporation$Express5800/T120b-E$1$Oracle Corporation$Intel Xeon X5650$2666.0$2.0$12.0$24.0$24.0$Fuchu$Dec 14, 2011$32.0$32.0$256.0$12288.0$2488.0
+Power$NEC Corporation$Express5800/E120b-1$1$Oracle Corporation$Intel Xeon E5645$2400.0$2.0$12.0$24.0$16.0$Fuchu$Dec 28, 2011$32.0$32.0$256.0$12288.0$2800.0
+Power$NEC Corporation$Express5800/GT110f-S$1$Oracle Corporation$Intel Xeon E3-1265LV3$2500.0$1.0$4.0$8.0$8.0$Fuchu$Jun 26, 2013$32.0$32.0$256.0$8192.0$6488.0
+Power$Nettrix$R620 G40$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$2.0$80.0$160.0$256.0$Beijing$Jul 29, 2021$32.0$48.0$1280.0$61440.0$13223.0
+Power$Nettrix$R620 G40$1$Oracle Corporation$Intel Xeon Platinum 8368Q$2600.0$2.0$76.0$152.0$256.0$Beijing$Jul 12, 2022$32.0$48.0$1280.0$58368.0$10799.0
+Power$Nettrix$R620 G40$1$Oracle Corporation$Intel Xeon Platinum 8352Y$2200.0$2.0$64.0$128.0$256.0$Beijing$Jul 21, 2022$32.0$48.0$1280.0$49152.0$10103.0
+Power$Nettrix$R620 G50$1$Oracle Corporation$Intel Xeon Platinum 8490H$1900.0$2.0$120.0$240.0$512.0$Beijing$Jan 11, 2023$32.0$48.0$2048.0$115200.0$15025.0
+Power$Nettrix$R620 G50 LP$1$Oracle Corporation$Intel Xeon Platinum 8490H$1900.0$2.0$120.0$240.0$512.0$Beijing$Jan 11, 2023$32.0$48.0$2048.0$115200.0$14714.0
+Power$Nettrix$R620 G50$1$Oracle Corporation$Intel Xeon Platinum 8490H$1900.0$2.0$120.0$240.0$512.0$Beijing$Mar 2, 2023$32.0$48.0$2048.0$115200.0$16828.0
+Power$New H3C Technologies Co$UniServer R4900 G3$1$Oracle Corporation$Intel(R) Xeon(R) Platinum 8180 CPU @2.50GHz$2500.0$2.0$56.0$112.0$96.0$Hang Zhou$Sep 20, 2017$32.0$32.0$1024.0$39424.0$12368.0
+Power$New H3C Technologies Co$H3C UniServer R6700 G3$1$Oracle Corporation$Intel Xeon Platinum 8280L 2.70GHz$2700.0$4.0$112.0$224.0$384.0$Hang Zhou$May 8, 2019$32.0$32.0$1024.0$39424.0$12747.0
+Power$New H3C Technologies Co$H3C UniServer R6700 G3$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$4.0$112.0$224.0$384.0$Hang Zhou$May 8, 2019$32.0$32.0$1024.0$39424.0$11964.0
+Power$New H3C Technologies Co$H3C UniServer B5700 G3  H3C UniServer B16000$8$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$16.0$448.0$896.0$1536.0$Hang Zhou$Jun 5, 2019$32.0$32.0$1024.0$39424.0$10820.0
+Power$New H3C Technologies Co$H3C UniServer R6700 G3$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$4.0$112.0$224.0$384.0$Hang Zhou$Jun 5, 2019$32.0$32.0$1024.0$39424.0$12190.0
+Power$New H3C Technologies Co$H3C UniServer B5700 G3  H3C UniServer B16000$9$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$18.0$504.0$1008.0$1728.0$Hang Zhou$Jun 5, 2019$32.0$32.0$1024.0$39424.0$10780.0
+Power$New H3C Technologies Co$H3C UniServer B5700 G3  H3C UniServer B16000$10$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$20.0$560.0$1120.0$1920.0$Hang Zhou$Jun 12, 2019$32.0$32.0$1024.0$39424.0$10954.0
+Power$New H3C Technologies Co$H3C UniServer B5700 G3  H3C UniServer B16000$11$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$22.0$616.0$1232.0$2112.0$Hang Zhou$Jun 12, 2019$32.0$32.0$1024.0$39424.0$11000.0
+Power$New H3C Technologies Co$H3C UniServer B5700 G3  H3C UniServer B16000$12$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$24.0$672.0$1344.0$2304.0$Hang Zhou$Jun 12, 2019$32.0$32.0$1024.0$39424.0$11001.0
+Power$New H3C Technologies Co$H3C UniServer B5700 G3  H3C UniServer B16000$13$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$26.0$728.0$1456.0$2496.0$Hang Zhou$Jun 12, 2019$32.0$32.0$1024.0$39424.0$10996.0
+Power$New H3C Technologies Co$H3C UniServer B5700 G3  H3C UniServer B16000$14$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$28.0$784.0$1568.0$2688.0$Hang Zhou$Jun 12, 2019$32.0$32.0$1024.0$39424.0$11046.0
+Power$New H3C Technologies Co$H3C UniServer R6700 G3$1$Oracle Corporation$Intel Xeon Platinum 8280L 2.70GHz$2700.0$4.0$112.0$224.0$384.0$Hang Zhou$Jun 12, 2019$32.0$32.0$1024.0$39424.0$13107.0
+Power$New H3C Technologies Co$H3C UniServer B5700 G3  H3C UniServer B16000$15$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$30.0$840.0$1680.0$2880.0$Hang Zhou$Jun 26, 2019$32.0$32.0$1024.0$39424.0$11047.0
+Power$New H3C Technologies Co$H3C UniServer B5700 G3  H3C UniServer B16000$16$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$32.0$896.0$1792.0$3072.0$Hang Zhou$Jun 26, 2019$32.0$32.0$1024.0$39424.0$11066.0
+Power$New H3C Technologies Co$H3C UniServer R6900 G5$1$Oracle Corporation$Intel Xeon Platinum 8380HL 2.9GHz$2900.0$4.0$112.0$224.0$384.0$Hang Zhou$Dec 2, 2020$64.0$64.0$1024.0$39424.0$11159.0
+Power$New H3C Technologies Co$H3C UniServer R4900 G5$1$Oracle Corporation$Intel Xeon Platinum 8380 2.3GHz$2300.0$2.0$80.0$160.0$256.0$Hang Zhou$Oct 28, 2021$32.0$48.0$1280.0$61440.0$12521.0
+Power$New H3C Technologies Co$H3C UniServer R4900 G5$1$Oracle Corporation$Intel Xeon Platinum 8380 2.3GHz$2300.0$2.0$80.0$160.0$256.0$Hang Zhou$Nov 11, 2021$32.0$48.0$1280.0$61440.0$12521.0
+Power$New H3C Technologies Co$H3C UniServer R4700 G5$1$Oracle Corporation$Intel Xeon Platinum 8360Y$2400.0$2.0$72.0$144.0$512.0$Hang Zhou$May 24, 2023$32.0$48.0$1280.0$55296.0$10628.0
+Power$New H3C Technologies Co$H3C UniServer R4900 G6$1$Oracle Corporation$Intel Xeon Platinum 8490H 1.90GHz$1900.0$2.0$120.0$240.0$512.0$Hang Zhou$May 24, 2023$32.0$48.0$2048.0$115200.0$16902.0
+Power$New H3C Technologies Co$H3C UniServer R4900 G6 Ultra$1$Oracle Corporation$Intel Xeon Platinum 8490H 1.90GHz$1900.0$2.0$120.0$240.0$512.0$Hang Zhou$Apr 27, 2023$32.0$48.0$2048.0$115200.0$16881.0
+Power$Nokia Corporation$AE-SER1U-A  Nokia AirFrame Open Edge$5$Oracle Corporation$Intel(R) Xeon(R) Gold 6210U CPU @ 2.50GHz$2500.0$5.0$100.0$200.0$320.0$Hang Zhou$Feb 14, 2020$32.0$32.0$1024.0$28160.0$6183.0
+Power$Plat'Home$TRQX-1/50SA$1$Oracle Corporation$Xeon L5420$2500.0$2.0$4.0$4.0$16.0$Chiyoda-ku$Jun 10, 2009$16.0$16.0$12288.0$0.0$628.0
+Power$Plat'Home$Cloud Station E$1$Oracle Corporation$Intel Xeon L5520$2260.0$2.0$8.0$16.0$8.0$Chiyoda-Ku$Aug 24, 2009$32.0$32.0$256.0$8192.0$1846.0
+Power$Plat'Home$Cloud Station E$1$Oracle Corporation$Intel Xeon L5530$2400.0$2.0$8.0$16.0$8.0$Chiyoda-Ku$Oct 21, 2009$32.0$32.0$256.0$8192.0$1903.0
+Power$Powerleader$PR2510D2$1$Oracle Corporation$Intel Xeon L5430$2660.0$2.0$8.0$8.0$8.0$Shen Zhen$Oct 14, 2008$32.0$32.0$12288.0$0.0$1135.0
+Power$Quanta Cloud Technology$QuantaGrid D53XQ-2U$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$2.0$80.0$160.0$256.0$Taoyuan$Jul 19, 2021$32.0$48.0$1280.0$61440.0$12217.0
+Power$Quanta Cloud Technology$QuantaGrid D43K-1U$1$Oracle Corporation$AMD EPYC 7763$2450.0$2.0$128.0$256.0$256.0$Taoyuan$Oct 28, 2021$32.0$32.0$512.0$262144.0$21949.0
+Power$Quanta Cloud Technology$QuantaGrid D54Q-2U$1$Oracle Corporation$Intel Xeon 8480+ 2.0 GHz$2000.0$2.0$112.0$224.0$512.0$Taoyuan$Jan 10, 2023$32.0$48.0$2048.0$107520.0$12751.0
+Power$Quanta Cloud Technology$QuantaGrid D54Q-2U$1$Oracle Corporation$Intel Xeon 8480+ 2.0 GHz$2000.0$2.0$112.0$224.0$512.0$Taoyuan$Feb 15, 2023$32.0$48.0$2048.0$107520.0$13676.0
+Power$Quanta Computer$QuantaGrid D51B-2U$1$IBM Corporation$Intel Xeon E5-2699 v3 2.30 GHz$2300.0$2.0$36.0$72.0$64.0$Taoyuan$Dec 10, 2014$32.0$32.0$256.0$46080.0$10238.0
+Power$Quanta Computer$QuantaGrid S31A-1U$1$Oracle Corporation$Intel E3-1260L v5$2900.0$1.0$4.0$8.0$16.0$Taoyuan$Jun 1, 2016$32.0$32.0$256.0$8192.0$7908.0
+Power$Quanta Computer$QuantaGrid D51B-2U$1$Oracle Corporation$Intel Xeon E5-2699 v4$2200.0$2.0$44.0$88.0$64.0$Taoyuan$Jun 8, 2016$32.0$32.0$256.0$56320.0$11568.0
+Power$Quanta Computer$QuantaGrid D52BQ-2U$1$Oracle Corporation$Intel Xeon Platinum 8180$2500.0$2.0$56.0$112.0$192.0$Taoyuan$Oct 25, 2017$32.0$32.0$1024.0$39424.0$12438.0
+Power$Quanta Computer$QuantaGrid T42S-2U  T42S-2U$4$Oracle Corporation$Intel Xeon Platinum 8176$2100.0$8.0$224.0$448.0$768.0$Taoyuan$Oct 25, 2017$32.0$32.0$1024.0$39424.0$11444.0
+Power$Quanta Computer$QuantaGrid D52BQ-2U$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50 GHz (Intel Turbo Boost Technology up to 3.8GHz)$2500.0$2.0$56.0$112.0$96.0$Taoyuan$Dec 6, 2018$32.0$32.0$1024.0$39424.0$12801.0
+Power$Quanta Computer$QuantaGrid D52BQ-2U$1$Oracle Corporation$Intel Xeon Platinum 8280L 2.70 GHz$2700.0$2.0$56.0$112.0$96.0$Taoyuan$Apr 2, 2019$32.0$32.0$1024.0$39424.0$13613.0
+Power$Quanta Computer$QuantaGrid D43K-1U$1$Oracle Corporation$AMD EPYC 7773X 2.20 GHz$2200.0$2.0$128.0$256.0$256.0$Taoyuan$Jul 21, 2022$32.0$32.0$512.0$786432.0$19476.0
+Power$Quanta Computer$QuantaGrid D52B-2U$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$2.0$56.0$112.0$192.0$Taoyuan$Jul 11, 2017$32.0$32.0$1024.0$39424.0$12047.0
+Power$SGI$Altix XE320 Single Node (2.5 GHz, Intel Xeon processor E5420)$1$BEA System$Intel Xeon E5420$2500.0$2.0$8.0$8.0$16.0$Mountain View$Jun 4, 2008$32.0$32.0$12288.0$0.0$681.0
+Power$SGI$Altix XE320 Single Node (3.0 GHz, Intel Xeon processor E5472)$1$BEA System$Intel Xeon E5472$3000.0$2.0$8.0$8.0$16.0$Mountain View$Jun 4, 2008$32.0$32.0$12288.0$0.0$748.0
+Power$SGI$Altix XE250 (Intel Xeon processor E5472)$1$BEA System$Intel Xeon E5472$3000.0$2.0$8.0$8.0$16.0$Mountain View$Jun 4, 2008$32.0$32.0$12288.0$0.0$661.0
+Power$SGI$Altix XE250 (Intel Xeon processor X5272)$1$BEA System$Intel Xeon X5272$3400.0$2.0$4.0$4.0$8.0$Mountain View$Jun 4, 2008$32.0$32.0$6144.0$0.0$450.0
+Power$SGI$Rackable C2005-TY6 (Intel Xeon X5670, 2.93 GHz)$1$IBM Corporation$Intel Xeon X5670$2933.0$2.0$12.0$24.0$12.0$Fremont$Jan 5, 2011$32.0$32.0$256.0$12288.0$3077.0
+Power$SGI$Rackable C2112-4TY14  Rackable C2112$4$IBM Corporation$Intel Xeon L5640$2267.0$8.0$48.0$96.0$64.0$Fremont$Jan 26, 2011$32.0$32.0$256.0$12288.0$2788.0
+Power$SGI$Rackable C2112-4G10  Rackable C2112$4$IBM Corporation$AMD Opteron 6276$2300.0$8.0$128.0$128.0$128.0$Fremont$Mar 21, 2012$512.0$256.0$16384.0$16384.0$2611.0
+Power$SGI$Rackable C2112-4RP4  Rackable C2112$4$IBM Corporation$Intel Xeon E5-2660$2200.0$8.0$64.0$128.0$96.0$Fremont$Oct 17, 2012$32.0$32.0$256.0$20480.0$4571.0
+Power$Sugon$I840-G25 (Intel Xeon E7-4850 v2 2.30GHz)$1$IBM Corporation$Intel Xeon E7-4850 v2 2.30GHz (Intel Turbo Boost Technology up to 2.80GHz)$2300.0$4.0$48.0$96.0$128.0$Peking$Jul 15, 2014$32.0$32.0$256.0$24576.0$0.0
+Power$Sugon$Sugon I620-G20$1$IBM Corporation$Intel Xeon E5-2699 v3 2.30 GHz$2300.0$2.0$36.0$72.0$128.0$Beijing$Mar 11, 2015$32.0$32.0$256.0$46080.0$9939.0
+Power$Sugon$Sugon I620-G30(Intel Xeon Platinum 8180 @2.50GHz)$1$Oracle Corporation$Intel Xeon Platinum 8180 @2.50 GHz$2500.0$2.0$56.0$112.0$192.0$Beijing$Jul 26, 2017$32.0$32.0$1024.0$39424.0$11573.0
+Power$Sugon$I620-G30(Intel Xeon Platinum 8160)$1$Oracle Corporation$Intel Xeon Platinum 8160$2100.0$2.0$48.0$96.0$192.0$Beijing$Aug 8, 2018$32.0$32.0$1024.0$33792.0$10255.0
+Power$Sugon$A620-G30(AMD EPYC 7351)$1$Oracle Corporation$AMD EPYC 7351$2400.0$2.0$32.0$64.0$128.0$Beijing$Aug 8, 2018$64.0$32.0$512.0$65536.0$6507.0
+Power$Sugon$A620-G30(AMD EPYC 7501)$1$Oracle Corporation$AMD EPYC 7501$2000.0$2.0$64.0$128.0$128.0$Beijing$Aug 8, 2018$64.0$32.0$512.0$65536.0$9248.0
+Power$Sugon$I620-G30 (Intel Xeon Platinum 8180)$1$Oracle Corporation$Intel Xeon Platinum 8180$2500.0$2.0$56.0$112.0$192.0$Beijing$Aug 15, 2018$32.0$32.0$1024.0$39424.0$12306.0
+Power$Sugon$I620-G30 (Intel Xeon Gold 6152)$1$Oracle Corporation$Intel Xeon Gold 6152$2100.0$2.0$44.0$88.0$192.0$Beijing$Aug 15, 2018$32.0$32.0$1024.0$30976.0$9825.0
+Power$Sugon$I620-G30 (Intel Xeon Gold 6140)$1$Oracle Corporation$Intel Xeon Gold 6140$2300.0$2.0$36.0$72.0$192.0$Beijing$Aug 15, 2018$32.0$32.0$1024.0$25344.0$9230.0
+Power$Sugon$I620-G30 (Intel Xeon Gold 5117)$1$Oracle Corporation$Intel Xeon Gold 5117$2000.0$2.0$28.0$56.0$192.0$Beijing$Aug 15, 2018$32.0$32.0$1024.0$19712.0$8079.0
+Power$Sugon$A620-G30$1$Oracle Corporation$AMD EPYC 7601$2200.0$2.0$64.0$128.0$128.0$Beijing$Jul 5, 2018$64.0$32.0$512.0$65536.0$10831.0
+Power$Sun Microsystems$Sun Netra X4250$1$Sun Microsystems$Intel Xeon L5408$2133.0$2.0$8.0$8.0$8.0$Burlington$Mar 30, 2009$32.0$32.0$12288.0$0.0$600.0
+Power$Sun Microsystems$Sun Netra X4250$1$Sun Microsystems$Intel Xeon L5408$2133.0$2.0$8.0$8.0$32.0$Burlington$May 6, 2009$32.0$32.0$12288.0$0.0$478.0
+Power$Sun Microsystems$Sun Netra X4250$1$Sun Microsystems$Intel Xeon L5408$2133.0$2.0$8.0$8.0$32.0$Burlington$May 6, 2009$32.0$32.0$12288.0$0.0$437.0
+Power$Super Micro Computer$Supermicro 6025B-TR+ (Intel Xeon processor E5345)$1$BEA System$Intel Xeon processor E5345$2333.0$2.0$8.0$8.0$8.0$Hillsboro$Feb 13, 2008$32.0$32.0$8192.0$0.0$419.0
+Power$Super Micro Computer$Supermicro 6025B-TR+ (Intel Xeon processor L5335)$1$BEA System$Intel Xeon processor L5335$2000.0$2.0$8.0$8.0$8.0$Hillsboro$Feb 13, 2008$32.0$32.0$8192.0$0.0$423.0
+Power$Super Micro Computer$Supermicro 6025B-TR+ (Intel Xeon processor E5345)$1$BEA System$Intel Xeon processor E5345$2333.0$2.0$8.0$8.0$16.0$Hillsboro$Feb 13, 2008$32.0$32.0$8192.0$0.0$435.0
+Power$Super Micro Computer$Supermicro 6025B-TR+ (Intel Xeon processor L5335)$1$BEA System$Intel Xeon processor L5335$2000.0$2.0$8.0$8.0$16.0$Hillsboro$Feb 13, 2008$32.0$32.0$8192.0$0.0$438.0
+Power$Super Micro Computer$Supermicro 6025B-TR+ (Intel Xeon processor 5160)$1$BEA System$Intel Xeon processor 5160$3000.0$2.0$4.0$4.0$8.0$Hillsboro$Feb 13, 2008$32.0$32.0$4096.0$0.0$318.0
+Power$Super Micro Computer$Supermicro 6025B-TR+ (Intel Xeon processor E5345)$1$BEA System$Intel Xeon processor E5345$2333.0$2.0$8.0$8.0$8.0$Hillsboro$Feb 13, 2008$32.0$32.0$8192.0$0.0$385.0
+Power$Super Micro$Supermicro 6025B-TR+ (Intel Xeon processor 5160)$1$BEA System$Intel Xeon processor 5160$3000.0$2.0$4.0$4.0$8.0$Hillsboro$Dec 11, 2007$32.0$32.0$4096.0$0.0$338.0
+Power$Super Micro$Supermicro 6025B-TR+ (Intel Xeon processor L5335)$1$BEA System$Intel Xeon processor L5335$2000.0$2.0$8.0$8.0$8.0$Hillsboro$Dec 11, 2007$32.0$32.0$8192.0$0.0$468.0
+Power$Super Micro$SYS-6027R-72RF$1$Oracle Corporation$Intel Xeon E5-2665$2400.0$2.0$16.0$32.0$128.0$San Jose$Jun 28, 2012$32.0$32.0$256.0$20480.0$2956.0
+Power$Super Micro$SYS-7047R-72RF$1$Oracle Corporation$Intel Xeon E5-2665$2400.0$2.0$16.0$32.0$128.0$San Jose$Jun 28, 2012$32.0$32.0$256.0$20480.0$3145.0
+Power$Super Micro$SuperServer SYS-F521E3-RTB  CSE-F424AS4-R2K08BP$2$Oracle Corporation$Intel(R) Xeon(R) 8480+,2.00GHz$2000.0$2.0$112.0$224.0$512.0$Zhonghe Dist$May 24, 2023$32.0$48.0$2048.0$107520.0$13205.0
+Power$Super Micro Computer$1022G-NTF$1$IBM Corporation$AMD Opteron 6276$2300.0$2.0$32.0$32.0$32.0$Austin$Nov 16, 2011$512.0$256.0$16384.0$16384.0$2805.0
+Power$Super Micro Computer$1022G-NTF$1$IBM Corporation$AMD Opteron 6262 HE$1600.0$2.0$32.0$32.0$32.0$Austin$Nov 16, 2011$512.0$256.0$16384.0$16384.0$2618.0
+Power$Super Micro Computer$1022G-NTF$1$IBM Corporation$AMD Opteron 6278$2400.0$2.0$32.0$32.0$64.0$Austin$Jun 4, 2012$512.0$256.0$16384.0$16384.0$2892.0
+Power$Super Micro Computer$1022G-NTF$1$IBM Corporation$AMD Opteron 6380 (AMD Turbo CORE Technology up to 3.40GHz)$2500.0$2.0$32.0$32.0$64.0$Austin$Nov 7, 2012$512.0$256.0$16384.0$16384.0$4040.0
+Power$Super Micro Computer$1022G-NTF$1$IBM Corporation$AMD Opteron 6366 HE (AMD Turbo CORE Technology up to 3.10GHz)$1800.0$2.0$32.0$32.0$64.0$Austin$Nov 7, 2012$512.0$256.0$16384.0$16384.0$3966.0
+Power$Super Micro$SuperServer SYS-521E-WR$1$Oracle Corporation$Intel Xeon Platinum 8490H 1.90GHz$1900.0$1.0$60.0$120.0$256.0$Zhonghe Dist$Jan 11, 2023$32.0$48.0$2048.0$115200.0$14537.0
+Power$Super Micro$SuperServer 741GE-TNRT$1$Oracle Corporation$Intel Xeon Platinum 8490H 1.90GHz$1900.0$2.0$120.0$240.0$512.0$Zhonghe Dist$Jan 11, 2023$32.0$48.0$2048.0$115200.0$13546.0
+Power$Super Micro$SuperServer SYS-621C-TN12R$1$Oracle Corporation$Intel Xeon Platinum 8490H 1.90GHz$1900.0$2.0$120.0$240.0$256.0$980 Rock Avenue$Jan 11, 2023$32.0$48.0$2048.0$115200.0$14200.0
+Power$Super Micro$6015C-MTB$1$BEA System$Intel Xeon L5420$2500.0$2.0$8.0$8.0$8.0$San Jose$Oct 9, 2008$32.0$32.0$12288.0$0.0$990.0
+Power$Super Micro$System 6027R-WRF$1$Oracle Corporation$Intel Xeon E5-2660 (2.20GHz)$2200.0$2.0$16.0$32.0$32.0$San Jose$Nov 14, 2012$32.0$32.0$262144.0$20480.0$3915.0
+Power$Super Micro$System 1027B-URF$1$Oracle Corporation$Intel Xeon E5-2470 (2.30GHz)$2300.0$2.0$16.0$32.0$24.0$San Jose$Nov 14, 2012$32.0$32.0$256.0$20480.0$3913.0
+Power$Super Micro$System 7047GR-TRF$1$Oracle Corporation$Intel Xeon E5-2670 (2.30GHz)$2300.0$2.0$16.0$32.0$64.0$San Jose$Nov 14, 2012$32.0$32.0$256.0$20480.0$2696.0
+Power$Super Micro$SYS-1028R-WC1RT$1$IBM Corporation$Intel Xeon E5-2699 v3$2300.0$2.0$36.0$72.0$32.0$Chung-Ho Dist$Feb 11, 2015$32.0$32.0$256.0$46080.0$8004.0
+Power$Super Micro$SYS-1029U-TR4$1$Oracle Corporation$Intel Xeon Platinum 8180 2.50GHz$2500.0$2.0$56.0$112.0$192.0$Zhonghe Dist$Aug 15, 2018$32.0$32.0$1024.0$39424.0$11960.0
+Power$Super Micro$Server 1123US-TR4$1$Oracle Corporation$AMD EPYC 7501 2.0 GHz$2000.0$2.0$64.0$128.0$512.0$Zhonghe Dist$Sep 27, 2018$64.0$32.0$512.0$65536.0$10206.0
+Power$Super Micro$SuperServer SYS-6029P-WTR$1$Oracle Corporation$Intel Xeon Platinum 8276M 2.20GHz$2200.0$2.0$56.0$112.0$192.0$San Jose$Apr 2, 2019$32.0$32.0$1024.0$39424.0$13295.0
+Power$Super Micro$SYS-1029U-TR4$1$Oracle Corporation$Intel Xeon Platinum 8280L 2.70GHz$2700.0$2.0$56.0$112.0$384.0$Zhonghe Dist$Apr 2, 2019$32.0$32.0$1024.0$39424.0$12265.0
+Power$Super Micro$SuperServer SYS-6029P-WTR$1$Oracle Corporation$Intel Xeon Platinum 8280 2.70GHz$2700.0$2.0$56.0$112.0$192.0$San Jose$Jul 23, 2019$32.0$32.0$1024.0$39424.0$13623.0
+Power$Super Micro$Server 1123US-TR4$1$Oracle Corporation$AMD EPYC 7702 2.0Ghz$2000.0$2.0$128.0$256.0$512.0$Zhonghe Dist$Sep 26, 2019$32.0$32.0$512.0$262144.0$19391.0
+Power$Super Micro$SuperServer SYS-740GP-TNRT$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$2.0$80.0$160.0$512.0$Zhonghe Dist$Jul 7, 2021$32.0$48.0$1280.0$61440.0$12568.0
+Power$Super Micro$SuperServer SYS-620C-TN12R$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$2.0$80.0$160.0$256.0$Zhonghe Dist$Jul 7, 2021$32.0$48.0$1280.0$61440.0$13544.0
+Power$Super Micro$Server 2024US-TRT$1$Oracle Corporation$AMD EPYC 7773X 2.20 GHz$2200.0$2.0$128.0$256.0$512.0$Zhonghe Dist$May 25, 2022$32.0$32.0$512.0$786432.0$19666.0
+Power$Super Micro$6025W-NTR+$1$Oracle Corporation$Intel Xeon L5420 (2.5GHz)$2500.0$2.0$8.0$8.0$16.0$Austin$Nov 5, 2008$32.0$32.0$12288.0$0.0$561.0
+Power$Super Micro$2021M-UR+$1$Oracle Corporation$AMD Opteron 2380$2500.0$2.0$8.0$8.0$16.0$Austin$Nov 5, 2008$64.0$64.0$512.0$6144.0$731.0
+Power$Super Micro$1021M-UR+B$1$IBM Corporation$AMD Opteron 2376HE$2300.0$2.0$8.0$8.0$16.0$Austin$Feb 25, 2009$64.0$64.0$512.0$6144.0$1044.0
+Power$Super Micro$1022G-NTF$1$IBM Corporation$AMD Opteron 6370P (AMD Turbo CORE Technology up to 2.50GHz)$2000.0$2.0$32.0$32.0$64.0$Austin$Jan 22, 2014$512.0$256.0$16384.0$16384.0$0.0
+Power$Super Micro$SYS-5019S-M(X11SSH-F)$1$IBM Corporation$Intel E3-1270 v5$3600.0$1.0$4.0$8.0$16.0$Zhonghe Dist$Dec 3, 2015$32.0$32.0$256.0$8192.0$0.0
+Power$Super Micro$SYS-5019S-M(X11SSH-F)$1$IBM Corporation$Intel E3-1260L v5$2900.0$1.0$4.0$8.0$16.0$Zhonghe Dist$Jan 7, 2016$32.0$32.0$256.0$8192.0$0.0
+Power$Super Micro$SYS-5019S-MR(X11SSH-F)$1$IBM Corporation$Intel E3-1260L v5$2900.0$1.0$4.0$8.0$16.0$Zhonghe Dist$Feb 4, 2016$32.0$32.0$256.0$8192.0$0.0
+Power$Tyan Computer Corporation$Transport GT24 (B2912-E)$1$Oracle Corporation$AMD Opteron 2384$2700.0$2.0$8.0$8.0$16.0$Austin$Nov 5, 2008$64.0$64.0$512.0$6144.0$826.0
+Power$Tyan Computer Corporation$Transport GT24 (B2912-E)$1$Oracle Corporation$AMD Opteron 2384$2700.0$2.0$8.0$8.0$16.0$Austin$Nov 5, 2008$64.0$64.0$512.0$6144.0$860.0
+Power$Tyan Computer Corporation$B8228Y190X2-045V4H$1$IBM Corporation$AMD Opteron 4376 HE$2600.0$2.0$16.0$16.0$32.0$Austin$Dec 4, 2012$256.0$128.0$8192.0$8192.0$3293.0
+Power$Tyan Computer Corporation$B8228Y190X2-045V4H$1$IBM Corporation$AMD Opteron 4386$3100.0$2.0$16.0$16.0$32.0$Austin$Dec 4, 2012$256.0$128.0$8192.0$8192.0$3052.0
+Power$Tyan Computer Corporation$B8228Y190X2-045V4H$1$IBM Corporation$AMD Opteron 4310 EE$2200.0$2.0$8.0$8.0$32.0$Austin$Dec 4, 2012$256.0$128.0$8192.0$8192.0$2137.0
+Power$UNIWIDE$RC2212$1$Oracle Corporation$Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz$2200.0$2.0$20.0$40.0$768.0$TTA$Feb 26, 2021$32.0$32.0$1024.0$14080.0$2901.0
+Power$Verari Systems$RB1305$1$Oracle Corporation$Intel Xeon X5570, 2.933 GHz$2930.0$2.0$8.0$16.0$8.0$San Diego$May 20, 2009$32.0$32.0$256.0$8192.0$1927.0
+Power$XSLAB$V-Raptor SQ  19 inch Rackmount 2U Server System$16$Oracle Corporation$ARM Cortex A53(1GHz) 24 Cores: SOCIONEXT SC2A11 ARM SoC$1000.0$384.0$384.0$384.0$256.0$TTA$Dec 8, 2021$16.0$16.0$256.0$4096.0$3337.0
+Power$XSLAB$V-Raptor SQ  19 inch Rackmount 2U Server System$16$Oracle Corporation$ARM Cortex-A53(1GHz) 24 Cores: SOCIONEXT SC2A11 ARM SoC$1000.0$384.0$384.0$384.0$256.0$TTA$Dec 9, 2021$16.0$16.0$256.0$4096.0$3110.0
+Power$ZT Systems$1224Ra Datacenter Server$1$IBM Corporation$AMD Opteron 2419 EE$1800.0$2.0$12.0$12.0$8.0$Austin$Aug 26, 2009$64.0$64.0$512.0$6144.0$1614.0
+Power$ZT Systems$1224Ra Datacenter Server$1$IBM Corporation$AMD Opteron 2425 HE$2100.0$2.0$12.0$12.0$16.0$Austin$Aug 26, 2009$64.0$64.0$512.0$6144.0$1532.0
+Power$ZT Systems$1224Ra Datacenter Server$1$IBM Corporation$AMD Opteron 2377 EE$2300.0$2.0$8.0$8.0$16.0$Austin$May 20, 2009$64.0$64.0$512.0$6144.0$1379.0
+Power$ZT Systems$1253Ra Datacenter Server$1$IBM Corporation$AMD Opteron 4164 EE$1800.0$2.0$12.0$12.0$16.0$Austin$Jun 23, 2010$64.0$64.0$512.0$6144.0$2106.0
+Power$xFusion Digital Technologies Co Ltd$FusionServer 5288 V7$1$Oracle Corporation$Intel Xeon Platinum 8480+$2000.0$2.0$112.0$224.0$512.0$Shen Zhen$Jan 10, 2023$32.0$48.0$2048.0$107520.0$16285.0
+Power$xFusion Digital Technologies Co Ltd$FusionServer 2288H V7$1$Oracle Corporation$Intel Xeon Platinum 8480+$2000.0$2.0$112.0$224.0$512.0$Shen Zhen$Jan 10, 2023$32.0$48.0$2048.0$107520.0$16653.0
+Power$xFusion Technologies Co Ltd$FusionServer 2288H V6$1$Oracle Corporation$Intel Xeon Platinum 8380$2300.0$NaN$NaN$160.0$NaN$Shen Zhen$Oct 19, 2022$32.0$48.0$1280.0$61440.0$13670.0
